@@ -1,0 +1,5222 @@
+id,name,category
+2269,Binance CEX,CEX
+182,Lido,Liquid Staking
+2272,OKX,CEX
+2275,Bitfinex,CEX
+3732,Robinhood,CEX
+1599,AAVE V3,Lending
+3107,EigenLayer,Restaking
+2286,Bybit,CEX
+2,WBTC,Bridge
+3777,Arbitrum Bridge,Chain
+2270,Crypto-com,CEX
+2626,ether.fi Stake,Liquid Restaking
+494,JustLend,Lending
+5033,Binance Bitcoin,Bridge
+2914,Binance staked ETH,Liquid Staking
+2276,HTX,CEX
+118,MakerDAO,CDP
+2352,Bitget,CEX
+2273,Deribit,CEX
+2314,Gate-io,CEX
+1541,Portal,Bridge
+2293,Bitmex,CEX
+3780,Base Bridge,Chain
+4133,Ethena,Basis Trading
+2929,Spark,Lending
+3784,Optimism Bridge,Chain
+3543,Bitstamp,CEX
+382,Pendle,Yield
+2198,Uniswap V3,Dexes
+694,JustCryptos,Bridge
+3545,Kraken,CEX
+2274,Kucoin,CEX
+2308,Jito,Liquid Staking
+240,Polygon Bridge & Staking,Chain
+900,Rocket Pool,Liquid Staking
+4757,Symbiotic,Restaking
+2197,Uniswap V2,Dexes
+4238,Zircuit Staking,Farm
+214,Raydium,Dexes
+5258,Babylon,Restaking
+4025,Morpho Blue,Lending
+2088,Compound V3,Lending
+3770,Kamino Lend,Lending
+3,Curve DEX,Dexes
+212,Venus Core Pool,Lending
+3882,mETH Protocol,Liquid Staking
+3933,Renzo,Liquid Restaking
+4075,Eigenpie,Liquid Restaking
+3946,Kelp rsETH,Liquid Restaking
+2295,SwissBorg,CEX
+4077,Jupiter Perpetual Exchange,Derivatives
+4371,Sanctum Validator LSTs,Liquid Staking
+4481,Hyperliquid Bridge,Bridge
+2862,Hyperliquid Perp,Derivatives
+194,PancakeSwap AMM,Dexes
+4620,SolvBTC,Bridge
+319,Convex Finance,Yield
+4440,Ronin Bridge,Chain
+4124,Merlins Seal,Bridge
+484,Marinade Liquid Staking,Liquid Staking
+4236,Blast Bridge,Chain
+4840,ether.fi Vaults,Liquid Restaking
+4947,Ignition FBTC,Bridge
+3787,Starknet Bridge,Chain
+5135,Binance Staked SOL,Liquid Staking
+4461,Swell L2 Farm,Farm
+5097,Lombard,Restaked BTC
+4473,Avalon Finance,Lending
+4593,Free Protocol,Bridge
+2611,Balancer V2,Dexes
+3075,MEXC,CEX
+2305,MaskEX,CEX
+4524,Aerodrome Slipstream,Dexes
+2301,Korbit,CEX
+4996,Jupiter Staked SOL,Liquid Staking
+5194,Corn Kernels,Farm
+3782,Mantle Bridge,Chain
+4832,DeSyn Liquid Strategy,Yield Aggregator
+4460,Karak,Restaking
+5229,SolvBTC LSTs,Restaked BTC
+111,AAVE V2,Lending
+970,Drift Trade,Derivatives
+4756,Mellow LRT,Liquid Restaking
+3779,Avalanche Core Bridge,Chain
+4795,HashKey Exchange,CEX
+1044,Stader,Liquid Staking
+114,Compound V2,Lending
+3572,Solv Funds,RWA
+5316,exSat Credit Staking,Restaking
+3594,Coinbase Wrapped Staked ETH,Liquid Staking
+3672,Marinade Native,Staking Pool
+129,xDAI Stake Bridge,Chain
+148,Tornado Cash,Privacy
+5351,Mantle Restaking,Liquid Restaking
+3866,Rainbow Bridge,Chain
+4863,Tether Gold,RWA
+4429,ether.fi Liquid,Yield Aggregator
+3665,Maker RWA,RWA
+3450,Aerodrome V1,Dexes
+4696,Pell Network,Restaking
+2542,Ondo Finance,RWA
+690,SUNSwap V1,Dexes
+4167,Fluid Lending,Lending
+2995,PulseX V1,Dexes
+3698,Hashnote USYC,RWA
+2435,Nexo,CEX
+3781,Linea Bridge,Chain
+4088,Puffer Finance,Liquid Restaking
+691,JustStables,CDP
+3365,GMX V2 Perps,Derivatives
+277,StakeWise V2,Liquid Staking
+4882,Usual Money,RWA
+2769,PancakeSwap AMM V3,Dexes
+4972,Core Bitcoin Bridge,Bridge
+3788,zkSync Era txBridge,Chain
+3783,Metis Bridge,Chain
+4862,Paxos Gold,RWA
+4853,BlackRock BUIDL,RWA
+5397,Bitlayer Bridge,Bridge
+231,Lightning Network,Payments
+2535,tBTC,Decentralized BTC
+1765,UNCX Network V2,Token Locker
+3558,StakeStone STONE,Liquid Staking
+467,Benqi Lending,Lending
+1427,Benqi Staked Avax,Liquid Staking
+270,Liquity,CDP
+2221,Frax Ether,Liquid Staking
+5312,Avalon USDa,CDP
+3323,NAVI Lending,Lending
+1918,Aura,Yield
+4274,Suilend,Lending
+4672,UniRouter,Bridge
+458,Save,Lending
+2570,marginfi Lending,Lending
+5026,Noble,Chain
+2369,Phemex,CEX
+3391,Liquid Collective,Liquid Staking
+5011,Lisk Bridge,Chain
+2228,Aries Markets,Lending
+4878,Franklin Templeton,RWA
+4067,dYdX V4,Derivatives
+5295,uniBTC Restaked,Restaked BTC
+3354,slisBNB,Liquid Staking
+4922,PumpBTC,Bridge
+3014,Morpho AaveV3,Lending
+3667,Amnis Finance,Liquid Staking
+283,Orca,Dexes
+4831,Stargate V2,Cross Chain
+412,Thorchain,Dexes
+5359,Solayer Restaking,Restaking
+2931,BlazeStake,Liquid Staking
+143,Flexa,Payments
+3947,DeSyn Safe,Farm
+831,VVS Standard,Dexes
+177,Defi Saver,CDP Manager
+4446,Synthetix V3,Derivatives
+5209,ObeliskBTC,Bridge
+4141,B2 Buzz,Chain
+326,Beefy,Yield Aggregator
+3005,SUNSwap V2,Dexes
+3542,Tonstakers LSD,Liquid Staking
+5131,Treehouse Protocol,Liquid Staking
+4637,BounceBit Staking,Bridge
+2901,Swell Liquid Staking,Liquid Staking
+3287,TruStake,Liquid Staking
+2237,Axelar,Bridge
+5140,Elixir,Yield
+122,Nexus Mutual,Insurance
+3786,Scroll Bridge,Chain
+626,Reserve Protocol,Indexes
+502,Coinwind,Yield
+2346,WOO X,CEX
+3861,RSK Bridge,Chain
+217,Connext,Bridge
+4559,Hive Protocol,Chain
+4859,BingX,CEX
+3243,ZeroLend,Lending
+4741,Summer.fi,CDP Manager
+5248,Fuel Bridge,Bridge
+2289,Cetus AMM,Dexes
+5455,Nexus BTC,Bridge
+2858,GLIF,Liquid Staking
+4078,Swell Liquid Restaking,Liquid Restaking
+5450,BounceBit CeDeFi Yield,Basis Trading
+113,Yearn Finance,Yield Aggregator
+2062,Kamino Liquidity,Liquidity manager
+2038,lisUSD,CDP
+4956,Echo Bridge,Bridge
+4335,zkLink Nova,Chain
+5051,Echo Lending,Lending
+1546,Burrow,Lending
+115,Synthetix,Synthetics
+1807,PinkSale,Launchpad
+4810,Chiliz Governance Staking,Chain
+2950,Origin Ether,Liquid Staking
+119,SushiSwap,Dexes
+225,Enzyme Finance,Indexes
+4414,Thorchain Lending,CDP
+4368,Sanctum Infinity,Dexes
+3711,Volo,Liquid Staking
+1327,Astar dApps Staking,Chain
+4042,CoinDCX,CEX
+1853,Moonwell,Lending
+4553,MorpheusAI,AI Agents
+1740,LiNEAR Protocol,Liquid Staking
+4917,BitFi,Anchor BTC
+5376,CIAN Yield Layer,Yield Aggregator
+4518,Colend Protocol,Lending
+1207,Across,Cross Chain
+3091,Equilibria,Yield
+5311,SpringSui,Liquid Staking
+3489,Haedal Protocol,Liquid Staking
+1961,Scallop Lend,Lending
+5179,Bybit Staked SOL,Liquid Staking
+4148,Meteora DLMM,Dexes
+5448,Hyperliquid HLP,Derivatives
+5234,USDX Money,Basis Trading
+4690,Lorenzo,Restaked BTC
+249,StakeDAO,Yield
+4032,Manta Pacific,Chain
+557,Meta Pool Near,Liquid Staking
+4869,Buzz Farming,Farm
+4638,BounceBit Premium,Basis Trading
+5244,Kelp GAIN,Yield Aggregator
+1453,EOS REX,Lending
+797,Katana DEX,Dexes
+4742,Instadapp Lite,Yield Aggregator
+5055,IBC,Bridge
+3785,Polygon zkEVM Bridge,Chain
+2491,Liqwid,Lending
+2337,STON.fi,Dexes
+1864,Team Finance,Token Locker
+2974,Extra Finance,Leveraged Farming
+1023,Overnight USD+,CDP
+4548,Mezo Network,Bridge
+2994,crvUSD,CDP
+4439,PulseChain Bridge,Chain
+5374,Pulsechain,Chain
+2223,Meteora vaults,Yield Aggregator
+2235,gALGO Liquid Governance,Liquid Staking
+591,Multichain,Bridge
+3934,StackingDAO,Liquid Staking
+657,Synapse,Cross Chain
+4692,Taiko Bridge,Chain
+1115,Tectonic,Lending
+2366,NEOPIN Staking,Staking Pool
+3804,Thala LSD,Liquid Staking
+5143,Lombard Vault,Yield
+504,Mento,Algo-Stables
+2900,Wasabi,Derivatives
+243,Flamincome,Yield Aggregator
+4721,Yei Finance,Lending
+4421,AILayer farm,Farm
+4223,Ring Few,Yield
+4199,Thruster V3,Dexes
+4158,Crypto.com Staked ETH,Liquid Staking
+4427,Merchant Moe Liquidity Book,Dexes
+4178,Manta Atlantic Stake,Chain
+4456,Particle DUO,CDP
+2168,Morpho Aave,Lending
+1494,Minswap,Dexes
+4662,Manta CeDeFi,Basis Trading
+2076,Fraxlend,Lending
+5101,Avalon CeDeFi,Anchor BTC
+1979,SaucerSwap,Dexes
+2832,Bedrock uniETH,Liquid Restaking
+2825,Nostra Money Market,Lending
+3912,Dinero (pxETH),Liquid Staking
+5023,Manta MYield,Basis Trading
+5043,Abacus,Governance Incentives
+4323,Aera,Treasury Manager
+1571,Stargate V1,Cross Chain
+4054,INIT Capital,Lending
+753,RealT Tokens,RWA
+4980,Spiko,RWA
+2251,Stride,Liquid Staking
+4367,Echelon Market,Lending
+5053,Bitunix,CEX
+4111,Sygma,Bridge
+3060,PulseX V2,Dexes
+425,Tranchess Yield,Yield
+4070,Ionic Protocol,Lending
+4384,RSS3 Bridge,Chain
+3057,OpenEden T-Bills,RWA
+4847,Astherus Perps,Derivatives
+331,MoneyOnChain,Decentralized Stablecoin
+1883,iZiSwap,Dexes
+337,GMX V1,Derivatives
+2402,Veno Finance,Liquid Staking
+4033,SiloStake,Liquid Staking
+383,Osmosis DEX,Dexes
+3265,Agni Finance,Dexes
+4558,BOB Bridge,Bridge
+3995,Parasail,Restaking
+2617,DeDust,Dexes
+3247,Hatom Lending,Lending
+2792,Camelot V3,Dexes
+3216,bemo,Liquid Staking
+5460,Upshift,Yield Aggregator
+4928,BigONE,CEX
+160,Homora V2,Leveraged Farming
+4596,Mitosis,Liquid Restaking
+1108,Gearbox,Leveraged Farming
+5046,Drift Staked SOL,Liquid Staking
+1642,Folks Finance Lending,Lending
+190,dHEDGE,Indexes
+5375,Zircuit,Chain
+4194,Cellana Finance,Dexes
+1738,Bifrost Liquid Staking,Liquid Staking
+2020,Silo Finance,Lending
+711,Polymarket,Prediction Market
+3388,Sanctum Reserve,Yield
+5292,Lorenzo enzoBTC,Bridge
+4995,Helius Staked SOL,Liquid Staking
+172,Index Coop,Indexes
+2309,Indigo,CDP
+4265,Superstate USTB,RWA
+5153,TakoTako,Lending
+1173,JPool,Liquid Staking
+3636,Aftermath afSUI,Liquid Staking
+4735,Syrup.fi,Yield
+3923,Derive V2,Derivatives
+3259,Aftermath AMM,Dexes
+4744,Anzen V2,RWA
+1881,Toros,Yield
+4544,Pencils Protocol,Farm
+266,Set Protocol,Indexes
+3643,Amphor,Yield
+4794,Joe V2.2,Dexes
+3250,LayerBank,Lending
+1320,Railgun,Privacy
+4205,Cygnus Finance,RWA
+385,Meteora pools,Dexes
+4031,SUNSwap V3,Dexes
+3179,GoGoPool,Liquid Staking
+3570,marginfi LST,Liquid Staking
+4154,Orby Network,CDP
+438,Tokemak,Yield
+801,cBridge,Bridge
+355,Gamma,Liquidity manager
+4579,Flipster,CEX
+641,Arrakis V1,Liquidity manager
+3302,Velodrome V2,Dexes
+2899,Vertex Perps,Derivatives
+3208,UNCX Network V3,Token Locker
+4208,Juice Finance,Leveraged Farming
+2187,Dolomite,Lending
+541,Ref Finance,Dexes
+4712,Splash Protocol,Dexes
+1863,Ceres Demeter,Yield
+3943,Lolik Liquid Staking,Liquid Staking
+2993,NodeDAO,Liquid Staking
+126,Loopring,Dexes
+2433,Inverse Finance FiRM,CDP
+4751,The Vault,Liquid Staking
+2378,stake.link liquid,Liquid Staking
+1602,Lenfi,Lending
+5241,M0,RWA
+5002,Lulo,Yield Aggregator
+2921,Blur Lending,NFT Lending
+3439,Hydration,Dexes
+3248,Hatom Liquid Staking,Liquid Staking
+207,Unslashed,Insurance
+135,Kava Mint,CDP
+5438,Chakra,Restaked BTC
+278,Ankr,Liquid Staking
+3936,zkSync Lite Bridge,Chain
+204,Alchemix,Synthetics
+140,Kava Lend,Lending
+3393,TermFinance,Lending
+468,Joe DEX,Dexes
+1796,Poly Network,Bridge
+3603,sDAI,CDP
+4129,Edgevana,Liquid Staking
+141,Outcome Finance,Synthetics
+5091,Lair Finance,Liquid Staking
+3602,Contango V2,Derivatives
+2925,WEMIX.FI Staking,Staking Pool
+3499,Ekubo,Dexes
+3421,Mendi Finance,Lending
+3344,fx Protocol,CDP
+3998,IDEX V1,Dexes
+3293,Gravity Bridge,Bridge
+5045,BloFin,CEX
+3193,stUSDT,RWA
+1046,Ouchi Finance,Dexes
+2139,Sommelier,Yield Aggregator
+1995,Bancor V3,Dexes
+2789,Thala CDP,CDP
+2414,Blur Bids,NFT Marketplace
+2239,Quickswap V3,Dexes
+2554,BendDAO APE Staking,Yield
+4938,Meso Finance,Lending
+4924,XRPL DEX,Dexes
+4602,vfat.io,Yield Aggregator
+5044,Euler V2,Lending
+4043,LiquidLoans,CDP
+1901,DxSale,Launchpad
+2210,LiquidSwap,Dexes
+1793,Bwatch,Indexes
+2728,SyncSwap,Dexes
+854,xExchange,Dexes
+2405,FlokiFi Locker,Token Locker
+1878,ApeX Pro,Derivatives
+3083,Penpie,Yield
+5253,Lorenzo stBTC,Anchor BTC
+3598,Mountain Protocol,RWA
+4215,SynFutures V3,Derivatives
+1849,Acala Liquid Staking,Liquid Staking
+1466,ALEX,Dexes
+347,Abracadabra Spell,CDP
+3117,Astroport,Dexes
+1272,ioTube,Bridge
+3778,Arbitrum Nova Bridge,Chain
+5238,alloBTC,Restaked BTC
+3791,Maya Protocol,Cross Chain
+5176,Rumpel Labs,Synthetics
+2844,Sovryn Zero,CDP
+2797,Aevo Perps,Derivatives
+4848,AlphaFi,Yield Aggregator
+2864,THENA FUSION,Dexes
+5342,Ourbit,CEX
+4651,Superposition,Lending
+5066,Dragon Swap V3,Dexes
+1952,Lofty,RWA
+3964,Stakee,Liquid Staking
+2205,Pando Leaf,CDP
+3206,Bucket Protocol,CDP
+2667,Arrakis V2,Liquidity manager
+654,Beethoven X DEX,Dexes
+5283,Hourglass,Yield
+4007,Cakepie,Yield
+4321,Curve LlamaLend,Lending
+5112,Pionex,CEX
+4084,Hydro Protocol,Liquid Staking
+2776,SushiSwap V3,Dexes
+144,dYdX V3,Derivatives
+3361,Alien Base V2,Dexes
+5182,Sygnum FIUSD Liquidity Fund,RWA
+435,Hop Protocol,Cross Chain
+475,Yield Yak Aggregator,Yield Aggregator
+306,Quickswap Dex,Dexes
+2298,Coinsquare,CEX
+253,BiFi,Lending
+2819,STFIL,Liquid Staking
+4702,Immutable zkEVM,Chain
+2795,ThalaSwap,Dexes
+4822,Apex Omni,Derivatives
+4991,Swell BTC LRT,Yield Aggregator
+2231,Tangible RWA,RWA
+2111,UwU Lend,Lending
+2507,BitVenus,CEX
+2707,SPL Governance,Governance Incentives
+2121,Frax Swap,Dexes
+2397,Gyroscope Protocol,Dexes
+4237,Mode Bridge,Chain
+3079,zkLend,Lending
+520,Youves,Synthetics
+4420,Zest,Lending
+173,Badger DAO,Yield Aggregator
+3245,Venus Isolated Pools,Lending
+1025,Wrapped,Bridge
+954,REX Staking,Lending
+4312,Service Nervous Systems,Governance Incentives
+4537,VenomStake,Liquid Staking
+4747,Capybara Dexs,Dexes
+5156,Cygnus Restake,Farm
+3944,Allbridge Core,Bridge
+680,Tinyman,Dexes
+4266,Backpack,CEX
+5284,Nest Staking,RWA
+4585,Endurance Bridge,Bridge
+2537,Flux Finance,Lending
+3139,ImmutableX,NFT Marketplace
+1018,Gains Network,Derivatives
+345,Alpaca Leveraged Yield Farming,Leveraged Farming
+4998,Dexalot Portfolio,Bridge
+5232,SuiBridge,Chain
+756,Angle,CDP
+1544,Concentrator,Yield
+4994,Bonk Staked SOL,Liquid Staking
+4772,Jellyverse,Dexes
+5120,Superstate USCC,Basis Trading
+5271,Swaylend,Lending
+1772,APX Finance,Derivatives
+2266,Kava Earn,Yield Aggregator
+2262,Kava Liquid,Liquid Staking
+5415,Arkham Exchange,CEX
+4139,DragonSwap V3,Dexes
+2939,Kriya AMM,Dexes
+4198,EVAA Protocol,Lending
+3438,Baklava Space,Yield
+874,ICHI,Liquidity manager
+3888,Alien Base V3,Dexes
+329,Sovryn Dex,Dexes
+1315,NeoBurger,Liquid Staking
+2992,Gravita Protocol,CDP
+3329,KiloEx,Derivatives
+2484,Djed Stablecoin,Decentralized Stablecoin
+4126,Beethoven X sFTMx,Liquid Staking
+4191,MerlinSwap,Dexes
+2479,DeltaPrime,Leveraged Farming
+2284,WOOFi Earn,Yield
+4767,XLink,Bridge
+5327,unagiswap,Dexes
+1524,Mars Protocol,Lending
+4376,POWERCITY Earn Protocol,CDP
+3171,Kinza Finance,Lending
+5330,Bitget SOL,Liquid Staking
+4015,Deepr Finance,Lending
+349,Injective Bridge,Bridge
+2417,THENA V1,Dexes
+302,SpookySwap V2,Dexes
+4725,Spectra V2,Yield
+507,DefiBox,Dexes
+3465,Kinetix Derivatives,Derivatives
+3857,Deri V4,Options
+3950,Parcl V3,Derivatives
+3921,Pharaoh CL,Dexes
+112,Harvest Finance,Yield Aggregator
+4796,Sanko Bridge,Chain
+2529,PancakeSwap StableSwap,Dexes
+5296,DeepBook V3,Dexes
+3891,DeGate,Dexes
+2307,Camelot V2,Dexes
+4820,Resolv RLP,Basis Trading
+1707,CLever,Yield
+2906,Joe V2.1,Dexes
+4588,bitSmiley,CDP
+4327,Tensorplex,Liquid Staking
+3948,Chain Fusion,Decentralized BTC
+4724,Sceptre Liquid,Liquid Staking
+5323,exSat Bridge,Bridge
+4594,COREx Network,Dexes
+397,ShibaSwap,Dexes
+4700,HashKey Global,CEX
+3968,EOS RAM,Dexes
+4993,Drop,Liquid Staking
+2380,Optim Finance,Lending
+419,Saber,Dexes
+3801,uniIOTX,Liquid Staking
+4951,Balancer CoW AMM,Dexes
+220,Vesper,Yield Aggregator
+4818,BitU Protocol,CDP
+1879,Acala LCDOT,Liquid Staking
+518,Nuls,Chain
+145,Serum,Dexes
+449,QiDao,CDP
+3813,Alephium Bridge,Bridge
+4222,Ring Swap,Dexes
+3953,MilkyWay Zone,Liquid Staking
+4053,Nostra Pools,Dexes
+2940,Turbos,Dexes
+2454,GETH,Liquid Staking
+4136,Bitflow,Dexes
+5017,H2 Finance V2,Dexes
+1245,Proxy,Bridge
+162,Bancor V2.1,Dexes
+4907,ProBit Global,CEX
+1250,Llama Airforce,Yield
+3300,Lendle,Lending
+4448,Superform,Yield Aggregator
+3705,Aptin Finance V2,Lending
+3027,Alpaca Finance 2.0,Lending
+4978,Reya DEX,Derivatives
+4284,MethLab,Lending
+2807,MatrixDock,RWA
+3754,Acala Euphrates,Yield
+3502,Seamless Protocol,Lending
+747,MuesliSwap,Dexes
+1501,Octus Bridge,Bridge
+862,Quarry,Yield
+1773,BendDAO Lending,NFT Lending
+4262,Hyperlock Finance,Yield
+4560,Sparkling Finance,Yield
+1085,Thetanuts Finance,Yield
+3104,Ambient,Dexes
+265,Reflexer,CDP
+4808,Rho Markets,Lending
+1452,PayCash,Dexes
+146,DODO AMM,Dexes
+208,ACryptoS,Liquidity manager
+4606,YieldNest,Liquid Restaking
+5360,Solayer USD,RWA
+2561,NerveBridge,Bridge
+3467,BackedFi,RWA
+5287,Bonzo Finance,Lending
+4397,Hatom TAO Liquid Staking,Liquid Staking
+4688,Core Earn,Liquid Staking
+2254,MUX Perps,Derivatives
+882,LumenSwap,Dexes
+3103,Maple RWA,RWA
+3648,Paradex,Derivatives
+4411,Satoshi Protocol,CDP
+3699,Elysium Bridge,Bridge
+4413,Blackwing,Farm
+5353,Adrena Protocol,Derivatives
+2092,Pirex,Yield
+1882,Ferro,Dexes
+3883,Storm Trade,Derivatives
+304,Flamingo Finance,Dexes
+2005,ExinPool,Liquid Staking
+5338,SolanaHub Staked SOL,Liquid Staking
+4085,Tenderize V2,Liquid Staking
+4113,HiveSwap V3,Dexes
+2837,WAGMI,Dexes
+4687,Hibt,CEX
+1907,Increment Swap,Dexes
+5341,UTONIC,Liquid Staking
+3274,DYAD,CDP
+2824,ABC Pool,Staking Pool
+3408,Lynex Fusion,Dexes
+4709,Vesta Equity,RWA
+4935,Toobit,CEX
+343,Impermax Finance,Lending
+3954,Surf Protocol,Derivatives
+4580,SundaeSwap V3,Dexes
+3790,FrankenCoin,CDP
+3853,Chainflip,Dexes
+2264,Orderly Perps,Derivatives
+2833,Juicebox V1,Launchpad
+4921,WaterNeuron,Liquid Staking
+3115,BitMake,CEX
+3693,PoolTogether V5,Yield Lottery
+5216,Pit Finance,Yield Aggregator
+4214,Blitz Perps,Derivatives
+5206,Yay!,SoFi
+4020,RIF ON CHAIN,Decentralized Stablecoin
+116,Balancer V1,Dexes
+483,NFTX,NFT Marketplace
+4627,Trustin Finance,Lending
+4879,Clearpool TPOOL,RWA
+4320,SPOT Cash,Algo-Stables
+5286,Fragmetric,Liquid Restaking
+3196,FlowX V2,Dexes
+2625,Bluefin Perps,Derivatives
+1303,Iron Bank,Lending
+704,Chainge Finance,Dexes
+5294,Kyros,Liquid Restaking
+2054,Aurora Plus,Staking
+2876,SFT Protocol,Liquid Staking
+3838,Gondi V2,NFT Lending
+4663,Native Lend,Lending
+5424,SpringSui Ecosystem,Liquid Staking
+2292,Bake.io,CEX
+3793,Notional V3,Lending
+508,KlaySwap V1,Dexes
+4403,Hatom TAO Bridge,Bridge
+2428,Metronome Synth,Synthetics
+2332,Equalizer Exchange,Dexes
+3448,Parallel Lending,Lending
+3645,CaviarNine Shape Liquidity,Dexes
+4877,Vesu,Lending
+4063,Peapods Finance,Yield
+2461,Ad-Astra Bridge,Bridge
+1838,AAVE V1,Lending
+1601,WingRiders,Dexes
+5128,Joule Finance,Lending
+4502,MIM Swap,Dexes
+1461,WOOFi Swap,Dexes
+1650,sICX,Liquid Staking
+183,Wing Finance,Lending
+251,Parallel Protocol,CDP
+2736,Teller,Lending
+2028,Bifrost Dex,Dexes
+1619,JPEG'd,NFT Lending
+4821,Kayen Protocol,Dexes
+1351,WigoSwap,Dexes
+1894,Filet Finance,Liquid Staking
+2448,SteakHut Liquidity,Liquidity manager
+2986,Asymmetry Finance,Indexes
+5172,StakeStone SBTC,Indexes
+3152,Swapscanner LSD,Liquid Staking
+1523,KLAYstation,Liquid Staking
+3814,Sumer.money,Lending
+434,Tarot,Lending
+4501,BTCFi CDP,CDP
+1020,Arkadiko,CDP
+4424,Fathom CDP,CDP
+4273,Artemis Finance,Liquid Staking
+3630,Factor Leverage Vault,Leveraged Farming
+3205,PHUX,Dexes
+4107,FlashTrade,Derivatives
+4895,Kriya CLMM,Dexes
+1241,Mimo,Dexes
+751,Umami Finance,Yield
+1054,ChainPort,Bridge
+2394,Messina Bridge,Cross Chain
+4515,GlowSwap,Dexes
+3794,9inch V2,Dexes
+338,Inverse Finance Frontier,CDP
+3686,Lifinity V2,Dexes
+128,Hegic,Options
+1660,Swappi,Dexes
+358,Parrot Protocol,CDP
+5074,Helix Perp,Derivatives
+4086,Garden,Bridge
+5456,Resolv USR,Basis Trading
+3862,Sovryn Bridge,Chain
+5146,CrossCurve (by EYWA),Cross Chain
+3473,PrismaLST,CDP
+4703,Basin Exchange,Dexes
+151,rhino.fi,Dexes
+1906,Increment Lending,Lending
+4132,Sturdy V2,Lending
+589,Strike,Lending
+4576,NonKYC,CEX
+4873,Midas RWA,RWA
+4800,Allstake,Restaking
+1700,Wombat Exchange,Dexes
+2934,StellaSwap V3,Dexes
+3257,ICPSwap,Dexes
+2211,Increment Liquid Staking,Liquid Staking
+281,Ribbon,Options Vault
+4866,VNX,RWA
+3468,Lybra V2,CDP
+150,Idle,Yield Aggregator
+3474,Levana Perps,Derivatives
+3827,Sushi Aptos,Dexes
+2443,USK,CDP
+2436,Arcade.xyz,NFT Lending
+246,Pangolin,Dexes
+373,BiSwap V2,Dexes
+3052,FilFi,Staking Pool
+2531,Vaultka,Yield
+4752,Maverick V2,Dexes
+209,Autofarm,Yield Aggregator
+2296,HMX,Derivatives
+3580,DigiFT,RWA
+4487,Hinkal,Privacy
+5382,CORE Bridge,Chain
+448,Balanced Exchange,Dexes
+3822,Hover,Lending
+620,Francium,Yield
+3577,BitMart,CEX
+3170,Phoenix,Dexes
+1395,ArthSwap V2,Dexes
+4969,pSTAKE BTC,Restaked BTC
+547,pNetwork,Bridge
+3548,Shoebill V2,Lending
+4207,Thruster V2,Dexes
+2984,Stream Finance,Yield
+398,ApeSwap AMM,Dexes
+3174,Mango Markets V4 Perps,Derivatives
+5048,IOLEND,Lending
+4006,Merchant Moe DEX,Dexes
+5386,Astherus USDF,Basis Trading
+4881,Powercity Flex Protocol,CDP
+4108,Avantis,Derivatives
+636,Keep3r Network,Derivatives
+3956,Balanced Dollar,CDP
+3855,RosSwap,Dexes
+4058,Brickken,RWA
+4535,LISA,Liquid Staking
+3849,Button Tranche,Yield
+4646,Nimbora Yield,Yield
+3935,Boba Bridge,Chain
+4590,Macaron AMM,Dexes
+315,Tulip Protocol,Yield
+3043,Steer Protocol,Liquidity manager
+1594,Symbiosis,Cross Chain
+4885,BounceBit Easy,Basis Trading
+3113,Okcoin,CEX
+2641,Fulcrom Perps,Derivatives
+577,Allbridge Classic,Bridge
+4187,21.co,Bridge
+3740,Kai Finance,Leveraged Farming
+519,Sirius,Dexes
+5425,ShardingDAO,Staking Pool
+3202,HashKing,Liquid Staking
+3053,FluxBeam,Dexes
+4806,Stable Jack,CDP
+4682,NX Finance,Yield Aggregator
+2278,Quoll,Yield
+5016,Cyberperp,Derivatives
+1974,Counterstake,Cross Chain
+2946,Typus DOV,Options Vault
+3584,Phiat Protocol,Lending
+3136,MineFi,Liquid Staking
+5252,Mira Protocol,Dexes
+2941,BlueMove DEX,Dexes
+2117,DOOAR,Dexes
+5402,PV01,RWA
+3751,WEMIX Concentrated Range Deposit,Dexes
+218,cVault Finance,Yield
+5280,Origin ARM,Yield
+276,Stafi,Liquid Staking
+4329,StaQ,Liquid Staking
+3694,Everdex,Dexes
+5422,Endur,Liquid Staking
+1596,The Idols,Reserve Currency
+1166,DefiChain DEX,Dexes
+3312,HERE Wallet staking,Liquid Staking
+134,Pickle,Yield Aggregator
+4093,Neptune Finance,Lending
+5427,Bluefin AMM,Dexes
+3965,Dojoswap AMM,Dexes
+4213,Orbit Protocol,Lending
+4915,Kinetic,Lending
+5357,Elexium,Dexes
+1867,Sonic,Dexes
+4745,BounceBit Ethena,Yield
+4525,eBTC Protocol,CDP
+2823,ShadeSwap,Dexes
+5152,Typus Safu,Yield
+2886,RabbitX,Derivatives
+2855,Noah Swap,Dexes
+5090,Level Money,CDP
+2204,Pando Rings,Lending
+781,KlimaDAO,RWA
+2162,Ease.org,Insurance
+3826,Yelay V2,Yield Aggregator
+5223,SparkDEX V3.1,Dexes
+5247,Kraken Bitcoin,Bridge
+4727,Blend Pools,Lending
+4234,Baseline Protocol,Liquidity manager
+2196,Uniswap V1,Dexes
+1016,Aztec,Privacy
+359,Frax,Algo-Stables
+4846,D2 Finance,Yield
+4072,Nile CL,Dexes
+3555,Radpie,Yield
+4880,Glyph V4,Dexes
+3177,White Whale Dex,Dexes
+1804,Zeta,Derivatives
+2112,Stake.ly,Liquid Staking
+4503,Flat Money,Decentralized Stablecoin
+2782,Aktionariat,RWA
+1433,Jones DAO,Yield Aggregator
+138,Hakka Finance,Derivatives
+2695,SmarDex,Dexes
+4079,Aspida,Liquid Restaking
+2190,Sushi BentoBox,Yield
+4380,PoWH3D,Farm
+4467,HbarSuite,Dexes
+5461,ApeChain Bridge,Bridge
+4319,MYX Finance,Derivatives
+239,PoolTogether V3,Yield Lottery
+4455,Arcadia V2,Leveraged Farming
+4433,Kriya Strats,Yield
+612,Vires Finance,Lending
+4161,SHUI,Liquid Staking
+3037,Skate Fi,Liquidity manager
+2589,Dexalot DEX,Dexes
+4289,CIAN Automation,Yield
+4755,MagicSea LB,Dexes
+3481,Solidly V3,Dexes
+506,Tetu Earn,Yield
+4438,Degen Bridge,Chain
+2988,VyFinance Dex,Dexes
+5303,Morph Bridge,Bridge
+3498,Liquis,Yield
+2147,IPOR Derivatives,Derivatives
+4779,SOFA.org,Options
+4736,DoubleUp,Prediction Market
+505,Karura Liquid Staking,Liquid Staking
+4605,Whales Market,OTC Marketplace
+2609,Hord,Liquid Staking
+3231,xWin Finance,Indexes
+3180,zkSwap V2,Dexes
+4532,Ion Protocol,Lending
+5035,Aquarius Stellar,Dexes
+2551,Ashswap,Dexes
+3188,BiSwap V3,Dexes
+5268,Panko Finance,Dexes
+4610,Mangrove,Dexes
+4589,bitCow,Dexes
+2866,Ghost,Lending
+5305,Synatra,Yield Aggregator
+4373,Hercules V3,Dexes
+4592,Origami Finance,Leveraged Farming
+4563,Fenix Concentrated Liquidity,Dexes
+5250,Moneta,Decentralized Stablecoin
+4812,Threshold thUSD,CDP
+229,Gnosis Protocol v1,Prediction Market
+622,Clipper,Dexes
+310,Belt Finance,Yield
+4357,3F Mutual,Insurance
+2081,Wan Bridge,Bridge
+3063,ShadeLend,Lending
+4430,Web3.world,Dexes
+4934,FILLiquid,Liquid Staking
+285,Opyn Gamma,Options
+5211,FxDAO,Decentralized Stablecoin
+4536,Meson,Cross Chain
+487,Sunny,Yield
+136,Rari Capital,Yield Aggregator
+3200,MetaStreet V2,NFT Lending
+4276,CIAN Vaults,Yield
+4062,DeltaSwap,Options
+1356,Hubble,CDP
+2395,Level Perps,Derivatives
+2244,HeliSwap,Dexes
+2600,Symmetry,Indexes
+3666,CaviarNine LSU Pool,Dexes
+377,Ethernity Chain,Yield
+4937,Reya Bridge,Chain
+189,1inch Network,DEX Aggregator
+4871,Yaka Finance,Dexes
+5068,Dymension DEX,Dexes
+5465,Vectis Finance,Yield
+3090,MiaSwap,Dexes
+4109,Segment Finance,Lending
+3678,Merkle Trade,Derivatives
+864,Wrapped BNB,Bridge
+3860,Hot Cross,Chain
+517,Kolibri,CDP
+4509,ENKI Protocol,Liquid Staking
+427,Origin Dollar,Yield Aggregator
+1962,SiO2 Finance,Lending
+1464,Tropykus RSK,Lending
+602,BakerySwap,Dexes
+2164,AlgoRai Finance,Options Vault
+3596,YieldFlow,Liquidity manager
+3167,Quasar Vaults,Yield
+1665,Blueshift,Dexes
+1860,Eris Protocol,Liquid Staking
+3747,IntentX,Derivatives
+2848,Polynomial Trade,Derivatives
+5199,Folks Finance xChain,Lending
+1593,Sphere Finance,Yield
+1892,Azuro,Prediction Market
+3819,Black Panther,Yield
+2212,sTLOS Liquid Staking,Liquid Staking
+4211,Pac Finance,Lending
+2259,Helix Spot,Dexes
+1302,SundaeSwap V2,Dexes
+1683,Klayportal,Staking Pool
+3869,Charm Finance V2,Liquidity manager
+1140,NetSwap,Dexes
+3825,AYIN,Dexes
+5225,Trado Spot,Dexes
+5332,P2PB2B,CEX
+2440,FIN,Dexes
+5418,Astherus asBTC,CeDeFi
+5266,Arrakis Modular,Liquidity manager
+1331,DeepLock,Launchpad
+2932,Latoken,CEX
+149,B.Protocol,Lending
+4441,VenomBridge,Bridge
+4081,InceptionLRT (Isolated Restaking),Liquid Restaking
+2506,Dyson,Liquidity manager
+1188,EverRise,Cross Chain
+3218,Swaap Maker V2,Dexes
+3906,Rangers Bridge,Bridge
+2965,Meld Gold,RWA
+3307,Lodestar V1,Lending
+4285,Nile Legacy,Dexes
+3368,Preon Finance,CDP
+1943,KordFi,Yield
+4299,KIM Exchange V3,Dexes
+4103,Prime Staked ETH,Liquid Restaking
+4654,GullNetwork AMM,Dexes
+1684,Dual Finance,Options
+3607,Beam Swap,Dexes
+873,BSCSwap,Dexes
+1057,Linear Finance,Derivatives
+4489,GammaSwap,Options
+3064,stkd-SCRT,Liquid Staking
+5243,Velocimeter V4,Dexes
+191,Opium,Options
+5032,StakeWise V3,Liquid Staking
+3454,Danogo,RWA
+4145,WEMIX on Kroma,Liquid Staking
+254,Bunny,Yield
+2803,Native Swap,Dexes
+3518,Messina Liquid Staking,Liquid Staking
+2747,Hadouken Lend,Lending
+3534,Kinetix AMM V3,Dexes
+2385,Exactly,Lending
+344,ZKSwap,Chain
+4555,TLX Finance,Derivatives
+1682,Nomad,Bridge
+1598,Crystalvale,Dexes
+161,BoringDAO,Cross Chain
+3500,Circuit Protocol,Yield Aggregator
+2616,Conic Finance,Yield
+2706,Radiant V2,Lending
+2567,Timeswap V2,Lending
+1028,MM Finance Cronos,Dexes
+3722,Hipo,Liquid Staking
+5347,OpenDelta Perpetual Bond,Basis Trading
+4224,Strater,Yield
+1900,Taiga Acala,Synthetics
+4940,Bracket Escrow Staking,Farm
+3938,Unitus,Lending
+5203,KittyPunch,Dexes
+1573,ViteX,Dexes
+4954,edgeX,Derivatives
+4936,Deq,Liquid Staking
+5254,Exmo,CEX
+5107,Amply Finance,Lending
+3362,Orchai LST,Liquid Staking
+5130,Polynomial Bridge,Bridge
+3903,Rain.fi,Lending
+3285,Teahouse Managed,Yield Aggregator
+2633,AnyHedge,Derivatives
+2511,HawkFi,Liquidity manager
+4678,Koi Finance CL,Dexes
+4463,BlazeSwap,Dexes
+548,DFS Network,Dexes
+1771,Arch,Indexes
+3377,friend.tech V1,SoFi
+442,Universe XYZ,Yield
+2338,Bifrost Liquid Crowdloan,Liquid Staking
+4128,Econia,Dexes
+4496,Ebisus Bay,Dexes
+5162,Polynomial Liquidity,Dexes
+2572,Nucleon,Liquid Staking
+2990,Prime Protocol,Lending
+3663,Nolus Protocol,Lending
+4150,SeaFi,Yield
+226,Erasure,Derivatives
+3890,Lumi Finance,Prediction Market
+5145,IPOR Fusion,Yield Aggregator
+4389,Fomo3D,Farm
+3824,Blast pre-launch Farm,Farm
+2765,PepeTeam Bridge,Bridge
+3191,xALGO Liquid Staking,Liquid Staking
+1732,Verse,Dexes
+489,Moola Market,Lending
+5379,Ocelex V2,Dexes
+1708,AstridDAO,CDP
+3618,Levvy for Tokens,Lending
+1986,Canto Lending,Lending
+2343,Nitron,CDP
+3926,Accumulated Finance,Liquid Staking
+4861,Aurus,RWA
+4052,Minterest,Lending
+2320,JOJO,Derivatives
+311,SpiritSwap AMM,Dexes
+2982,Satori Perp,Derivatives
+3333,BaseSwap V2,Dexes
+4776,Mutuari,Lending
+2179,Joe Lend,Lending
+2153,LUSD ChickenBonds,Yield Aggregator
+784,Trisolaris,Dexes
+1976,DogeSwapOrg,Dexes
+1401,Moonwell Apollo,Lending
+3990,Interlay Lending,Lending
+2456,Bunni,Liquidity manager
+2620,Phoenix Bonds,Yield Aggregator
+5335,SKALE Network Bridge,Bridge
+4308,Waves Exchange,Farm
+4287,Pharaoh Legacy,Dexes
+5462,lpETH,Dexes
+1191,Katana,Options Vault
+1885,XY Finance,Cross Chain
+3789,Hummus Weighted,Yield
+1088,ErgoDEX,Dexes
+4295,Lets Get HAI,CDP
+4565,Nuri CL,Dexes
+812,EmpireDEX,Dexes
+5265,RateX,Yield
+5003,defi.money,CDP
+5000,OraiDEX Pool V3,Dexes
+394,Reaper Farm,Yield Aggregator
+1929,Algem,Liquid Staking
+2843,Sovryn Lend,Lending
+1981,Orbit Bridge,Bridge
+2429,Paraluni Dex,Dexes
+3878,Thick,Dexes
+2415,OKC Liquid Staking,Liquid Staking
+4040,ICDex,Dexes
+2351,PepeTeam sWAVES,Liquid Staking
+5433,Compx CDP,CDP
+2447,xBacked,CDP
+3008,Avely Staking,Liquid Staking
+4339,Velar Protocol,Dexes
+5262,Swell ETH Earn Vault,Yield Aggregator
+2316,Meter Passport,Bridge
+1805,Mole,Yield
+3379,Yamato Protocol,CDP
+4629,Ociswap Precision,Dexes
+534,Thales,Prediction Market
+4349,Fungify,Lending
+4196,Dinari,RWA
+1485,WhaleEx,Dexes
+4212,Particle LAMM,Derivatives
+5439,zkLend LST,Liquid Staking
+1087,Algofi Lend,Lending
+4851,Gudchain,Farm
+2674,WEMIX Full Range Deposit,Dexes
+5092,Ethervista,Dexes
+1770,ClayStack ETH,Liquid Restaking
+4453,fMoney,Lending
+4858,Mind Network,Restaking
+5449,BiTomato,CEX
+130,The Tokenized Bitcoin,Bridge
+4282,Mito Finance,Liquidity manager
+4723,Injera,CDP
+2619,MetalX Dex,Dexes
+4546,iBTC Network,Decentralized BTC
+2498,Umee,Lending
+221,Defi Swap,Dexes
+3244,One Dex,Dexes
+5364,Ora Protocol,Farm
+2364,Butter Network,Cross Chain
+2705,WEMIX.FI Lend,Lending
+2138,MarginX DEX,Dexes
+2281,Sigmausd,Algo-Stables
+5219,Hyperdrive,Yield
+2208,Tortuga,Liquid Staking
+186,WanSwap Dex,Dexes
+536,Larix,Lending
+3025,KTX Perps,Derivatives
+2066,VanSwap,Dexes
+5301,BulbaSwap V2,Dexes
+2644,Maverick V1,Dexes
+2673,MetaCoin Swap,Dexes
+2033,Interlay BTC,Bridge
+3871,Wildcat Protocol,Uncollateralized Lending
+461,Planet Farm,Yield
+5171,Solbank Finance,Yield
+4014,BEVM,Chain
+2442,Bow,Yield
+2271,Wompie,Yield
+3530,BMX Classic Perps,Derivatives
+5333,Carrot,Yield Aggregator
+4562,BunnySwap,Dexes
+362,Perpetual Protocol,Derivatives
+749,BenSwap,Dexes
+4019,Ajna V2,Lending
+4253,Alien Finance,Lending
+3746,DaVinciGraph,Token Locker
+431,SUN.io,Dexes
+5264,Harbor Liquid Staking,Liquid Staking
+2727,Koi Finance AMM,Dexes
+1806,Phuture,Indexes
+3549,VVS Flawless,Dexes
+2566,MugenFinance,Yield Aggregator
+2890,Carbon Defi,Dexes
+3449,Parallel Staking,Yield
+496,Orion Pools,Dexes
+4346,SingularX,Dexes
+5193,Suzaku,Restaking
+291,Integral,Dexes
+2322,OpenBook,Dexes
+5158,Enosys AMM V3,Dexes
+2583,NerveSwap,Dexes
+5390,Elara,Lending
+3286,Teahouse Permissionless,Liquidity manager
+4701,Awaken Swap,Dexes
+1790,Kokonut Swap,Dexes
+4228,Spacebar,Gaming
+1487,KlayBank,Lending
+1525,Vector Finance,Yield
+562,Crystl Finance,Yield
+4615,BitSwap BB V3,Dexes
+4098,Zearn Protocol,Liquid Staking
+125,mStable CDP,CDP
+4360,Switcheo Finance,Dexes
+3405,Meta Pool ETH,Liquid Staking
+303,ZilSwap,Dexes
+4668,Pearl V2,Dexes
+234,Notional V2,Lending
+3991,Archon Bridge,Bridge
+4331,HiYield,RWA
+4669,deFusion,Liquid Staking
+4452,Moby,Options
+5457,Renec Lend,Lending
+2949,CRETH2,Liquid Staking
+3096,Ramses CL,Dexes
+1201,Zunami Protocol,Yield Aggregator
+469,Port Finance,Lending
+152,Augur,Prediction Market
+597,BabySwap,Dexes
+4643,Tealswap V3,Dexes
+3908,Lynex V1,Dexes
+233,Metronome V1,Yield
+4734,stabble,Dexes
+5282,Adrastea LRT,Liquid Restaking
+3571,MagicSea AMM,Dexes
+4120,EddyFinance AMM,Dexes
+3817,Stryke CLAMM,Options
+3241,Meter Liquid Staking,Liquid Staking
+4055,Fyde Protocol,Yield Aggregator
+1514,Granary Finance,Lending
+155,Rook,Dexes
+4418,Ithaca Protocol,Options
+5344,BitFLUX,Dexes
+4378,BOB Fusion,Farm
+5159,Aqua Protocol,CDP
+3886,Fortunafi,RWA
+4394,EtherFlip,Prediction Market
+5297,LSP.Finance,Staking Pool
+5343,Reservoir Protocol,CDP
+1521,Horizon Protocol,Derivatives
+5426,Levva,Liquidity manager
+4517,1INTRO,Dexes
+3748,Marginly,Derivatives
+219,DDEX,Dexes
+3095,Sudoswap V2,NFT Marketplace
+488,Ubeswap V2,Dexes
+1664,LlamaPay,Payments
+2255,NFTfi,NFT Lending
+5218,Mint Bridge,Chain
+4249,Velodrome V3,Dexes
+4275,illumineX,Cross Chain
+4123,Omni Liquid Staking,Liquid Staking
+1062,Chest Finance,Options Vault
+4250,Ironclad Finance,Lending
+375,Nerve Staking,Dexes
+4468,Bido Finance,Liquid Staking
+3292,JewelSwap Liquid Staking,Liquid Staking
+4999,Clave,Liquid Staking
+3497,Premia V3,Options
+2132,Geode,Liquid Staking
+2236,Yield Yak Staked Avax,Liquid Staking
+2880,ReactorFusion,Lending
+4003,KUMA Protocol,RWA
+4521,Helix Markets,Dexes
+4775,Fenix Standard Pools,Dexes
+5389,Tempest Finance,Liquidity manager
+4404,Joe Stek,Farm
+2675,Ramses Legacy,Dexes
+3451,Astarter Launch ISPO,Staking Pool
+232,MCDEX,Dexes
+3807,Bril Finance,Yield Aggregator
+2365,NEOPIN Pool,Dexes
+4458,BSX Exchange,Derivatives
+1942,Moon Swap,Dexes
+3128,Vestige,Launchpad
+2361,Mummy Finance,Derivatives
+1726,Meshswap,Dexes
+728,DefiPlaza,Dexes
+244,WePiggy,Lending
+4968,Astra,Dexes
+3646,Ociswap Basic,Dexes
+3848,BackBone Labs,Liquid Staking
+4090,Mint Club V2,Launchpad
+4217,Wand Protocol,CDP
+2910,Hydradex V3,Dexes
+833,ZoomSwap,Farm
+3226,Hidden Hand,Governance Incentives
+2959,HoldStation DeFutures,Derivatives
+1462,deBridge,Bridge
+4009,SquadSwap V2,Dexes
+238,Ellipsis Finance,Dexes
+4726,Blend Backstop,Insurance
+1609,MetalX Swap,Dexes
+334,MDEX,Dexes
+230,IDEX Classic,Dexes
+167,PieDAO,Indexes
+2952,Archi Finance,Leveraged Farming
+3638,HOPE Collateral,Basis Trading
+4354,TokenStore,Dexes
+2604,DSU Money,CDP
+703,Goldfinch,RWA Lending
+5226,Estate Protocol,RWA
+2828,ThunderCore Staking,Staking Pool
+1431,X2Y2,NFT Lending
+5272,SpookySwap V3,Dexes
+195,DefiDollar DAO,Algo-Stables
+2145,XSwap V2,Dexes
+1791,VaultCraft,Yield
+4720,Dragon Swap V2,Dexes
+4979,SunPump,Launchpad
+863,Yoshi Exchange,Dexes
+4826,Affine Restaking,Liquid Restaking
+2169,BabyDogeSwap,Dexes
+556,Defi Kingdoms,Dexes
+2810,Overnight USDT+,CDP
+1036,BTCST,Yield
+332,Bao Masterchef V1,Farm
+3434,SpaceFi zkSync,Dexes
+4836,Xei Finance,Dexes
+127,KyberSwap Classic,Dexes
+3816,Xfai,Dexes
+5431,Nimbora LST,Liquid Staking
+1616,RadioShack,Dexes
+545,ApolloDAO,Yield
+888,Revault,Yield
+4500,firefly,Dexes
+3901,Zebra V2,Dexes
+2822,Bonkswap,Dexes
+3691,Velvet V2,Indexes
+4754,Catalist,Liquid Staking
+2386,SandClock,Yield
+3960,LandX Finance,RWA
+726,Solo Top,Yield
+845,Axial,Dexes
+5231,Ascent Yield,Yield
+5261,GOLDSTATION Staking,Staking Pool
+259,Snowball,Yield
+4096,Salvor,NFT Marketplace
+2749,Antfarm finance,Liquidity manager
+124,KEEP Network,Cross Chain
+5222,Donkeswap,Dexes
+885,Enosys AMM V2,Dexes
+4531,International Stable Currency,RWA
+4918,Convergence Fi,Yield
+408,JetFuel Finance,Yield
+5173,K9 Finance DAO,Liquid Staking
+4598,Aso Finance,Lending
+5413,Zuit Swap,Dexes
+1257,CrossChain Bridge,Cross Chain
+5368,Avalon USDaLend,Lending
+942,KnightSwap Finance,Dexes
+2737,Persistence DEX,Dexes
+5144,Kadena Cabinet,Governance Incentives
+4961,Bitdrome Finance,Dexes
+4731,Rosen Bridge,Bridge
+4057,Swapr V3,Dexes
+3737,LOCKON,Indexes
+4910,eLOCKS,Yield
+2172,Kleva Farm,Leveraged Farming
+3316,TanX.fi,Dexes
+2342,VaporDex V1,Dexes
+4534,Bitlen Finance,Lending
+3579,BTSE,CEX
+5021,Velvet V3,Yield
+202,Saddle Finance,Dexes
+4855,Doubler,Yield
+709,pSTAKE LSD,Liquid Staking
+3914,XSwap V3,Dexes
+123,dForce,Lending
+2682,Dogewhale,Reserve Currency
+3599,Perennial V2,Derivatives
+3130,Resonate Finance,Yield
+2150,Ribbon Earn,Options
+4292,Nostra nstSTRK,Liquid Staking
+4206,BladeSwap AMM,Dexes
+491,Terraswap,Dexes
+4181,Scopuly,Dexes
+4302,AirPuff,Leveraged Farming
+2310,NBX,CEX
+4263,Gaming DEX,Dexes
+2783,Scrub Invest,Yield
+2399,Opyn Squeeth,Derivatives
+712,Kaidex,Dexes
+1258,FLRFarm,Yield
+4328,Orchai Money Market,Lending
+1985,Canto Dex,Dexes
+2344,JediSwap V1,Dexes
+3392,OmniBTC,Lending
+4140,Clip Finance,Liquidity manager
+2192,PlutusDAO,Yield
+1924,Pods Yield,Yield
+3569,PHAME Protocol,Derivatives
+463,Gro,Yield
+1800,Argo Finance,Liquid Staking
+4257,Definitive,DEX Aggregator
+1167,DefiChain Loans,Synthetics
+3999,Cega V2,Options
+2540,Megaton Finance,Dexes
+3564,The Arena,SoFi
+3969,Magma Finance,CDP
+572,Cyclone,Yield
+5381,Lavarage,Derivatives
+4944,BOB Gateway,Dexes
+4260,Ra Exchange,Dexes
+2025,stCELO,Liquid Staking
+750,Fractional Art,Indexes
+271,Honeyswap,Dexes
+2662,Morphex V2,Derivatives
+2983,Zomma Protocol,Options
+5403,Cytonic Airdrop Campaign,Farm
+1984,WanLend,Lending
+3997,Compound V1,Lending
+3030,Enosys Bridge,Bridge
+206,xToken,Liquidity manager
+3422,Orange Finance,Liquidity manager
+405,Tokenlon AMM,Dexes
+4046,WEMIX Liquid Staking,Liquid Staking
+4286,Cleopatra Legacy,Dexes
+780,Apricot Finance,Lending
+679,UniFarm,Yield
+1983,Cometa,Yield
+3985,Cleopatra CL,Dexes
+5406,RFX Exchange,Derivatives
+806,Glide Finance,Dexes
+1557,Single Finance,Leveraged Farming
+4190,RealT RMM Marketplace V2,Lending
+2182,Algomint,Algo-Stables
+5363,TONCO,Dexes
+410,Swamp Finance,Yield
+1397,Kromatika,Dexes
+3984,Kryptonite,Liquid Staking
+3347,Meridian Finance,CDP
+4012,Margined Protocol,Derivatives
+301,Nerve,Dexes
+3059,Dezswap,Dexes
+4543,FortiFi,Yield Aggregator
+4316,KaoyaSwap,Dexes
+3544,CoinW,CEX
+4793,Loop,Leveraged Farming
+1896,JustMoney,Dexes
+163,ForTube,Lending
+4674,YFX V4,Derivatives
+1823,Nomiswap,Dexes
+2053,Cega V1,Options
+653,Atrix,Dexes
+2363,Hotbit,CEX
+2979,TsunamiX,Derivatives
+2559,Alongside,Indexes
+4390,Incognito,Dexes
+4400,Vest Exchange,Derivatives
+316,SecretSwap,Dexes
+1627,LendFlare,Lending
+551,Solarbeam,Dexes
+374,Kine Finance,Yield
+3507,BaseX,Dexes
+1628,SingularityDAO,Yield
+4149,Aurelius,CDP
+324,Unicly,Dexes
+292,Swapr V2,Dexes
+1299,Guru Network,Yield
+952,FlatQube,Dexes
+2999,Ethos Reserve,CDP
+2133,VoltSwap V2,Dexes
+3575,Scale,Dexes
+4906,Phoenix DeFi Hub,Dexes
+223,DerivaDEX,Derivatives
+915,Definix,Dexes
+1799,Velodrome V1,Dexes
+528,Symmetric,Dexes
+4667,Tangible Arcana,Basis Trading
+2607,Frax FPI,Algo-Stables
+2648,ArcherSwap,Dexes
+3162,NEOPIN Liquid,Liquid Staking
+4112,Synonym Finance,Lending
+4635,9inch V3,Dexes
+2345,10KSwap,Dexes
+420,Elk,Dexes
+3488,Sparkswap,Farm
+1492,Aurigami,Lending
+2129,Tomb Swap,Dexes
+5466,RadLock,Token Locker
+3887,mySwap CL,Dexes
+2445,GumBall Protocol,NFT Marketplace
+2403,NestFi,Derivatives
+3314,RocketSwap Base,Dexes
+5401,Fluid Protocol,CDP
+3050,DAOLama,Lending
+4952,STRKFarm,Yield
+3629,MetaLend,Lending
+5187,Quickswap Hydra,Dexes
+2904,Lybra V1,CDP
+515,Wrap Protocol,Synthetics
+695,Dinosaur Eggs,Dexes
+5245,Seer,Prediction Market
+1679,Dot Dot Finance,Yield
+3148,Stella,Leveraged Farming
+1940,ApeSwap Lending,Lending
+228,FutureSwap,Derivatives
+1500,Alcor Exchange,Dexes
+1139,Tethys AMM,Dexes
+159,Growth DeFi,Yield
+5320,MORE Markets,Lending
+611,Neutrino,Indexes
+2193,Amulet Liquidity Staking,Liquid Staking
+1667,Solv Vesting,RWA
+5208,Trado Perpetual,Derivatives
+503,Derive V1,Options
+4162,Goat Protocol,Yield Aggregator
+4091,Binaryx Platform,RWA
+1589,Puzzle Swap,Dexes
+3309,Arbitrove,Indexes
+3685,ElysiumSwap,Dexes
+5249,EddyFinance StableSwap,Dexes
+1384,Hermes Protocol,Dexes
+5079,IDEX V4,Derivatives
+1917,Sudoswap V1,NFT Marketplace
+320,Depth,Dexes
+2001,Demex Perp,Derivatives
+1953,Toucan Protocol,RWA
+3305,SALSA,Liquid Staking
+188,Indexed Finance,Indexes
+3335,SpartaDex,Dexes
+4799,Term Structure,Lending
+667,Mars Ecosystem,CDP
+1635,Clearpool Lending,Uncollateralized Lending
+579,iTrust Finance,Insurance
+5076,IguanaDEX V3,Dexes
+3963,VirtuSwap,Dexes
+1518,Bastion,Lending
+4125,Ambit Finance,Lending
+2101,FstSwap,Dexes
+4987,Opus,CDP
+5277,Root Finance,Lending
+406,DELV Yield,Yield
+2657,PonytaSwap,Dexes
+5242,SynStation,Farm
+2839,Interport Finance,Cross Chain
+4374,Openswap VSL,Dexes
+3759,Derivio,Derivatives
+4633,KaiaSwap,Dexes
+1497,Starlay Finance,Lending
+403,Liquid Driver,Yield
+4197,Secured Finance,Lending
+659,JetSwap,Dexes
+3458,WoofSwap,Dexes
+4834,Napier Finance,Yield
+5267,Aqua Patina,Liquid Restaking
+1458,Equilibrium Lending,Lending
+1004,Colony,Yield
+4138,DragonSwap V2,Dexes
+1260,ThetaSwap,Dexes
+4774,Kim Vaults,Yield
+318,Dfyn Network,Dexes
+5304,Yamfore,Lending
+199,Sablier V1,Payments
+1938,MetalSwap,Derivatives
+4056,Dojoswap LSD,Liquid Staking
+5319,HLiquity,CDP
+3239,FusionX V3,Dexes
+4673,Splice Finance,Yield
+317,HyperJump,Dexes
+693,Superfluid,Payments
+4967,PancakeSwap Options,Options
+2319,GMD Protocol,Yield Aggregator
+4401,Zethr,Prediction Market
+464,Beta Finance V1,Lending
+1274,StellaSwap V2,Dexes
+4901,dexVAULTS,Yield
+3617,NemoSwap,Dexes
+1172,PsyOptions,Options
+587,Maple,Uncollateralized Lending
+3318,Nayms,Insurance
+3870,Beta Finance V2,Lending
+673,Aavegotchi,Gaming
+5129,Predict Fun,Prediction Market
+4636,Rollie Finance,Derivatives
+1812,FluidTokens,Lending
+1003,WagyuSwap,Dexes
+1539,CityCoins,Yield
+3291,FVM Exchange,Dexes
+3157,Hats.V2,Bug Bounty
+3119,Carmine Options,Options
+618,Kava Swap,Dexes
+3692,PoolTogether V4,Yield Lottery
+2867,Ensuro,Insurance
+1947,Revert Compoundor,Services
+4552,Cove Boosties,Yield Aggregator
+2539,unshETH,Indexes
+1419,BabelFish,Bridge
+4409,DegenSwap,Dexes
+5276,Hydro LSD-Fi,Yield
+4932,Ostium,Derivatives
+1298,Axion,Yield
+203,Siren,Options
+5404,iBTC Finance,Liquid Restaking
+5227,LISA BTC LST,Restaked BTC
+4372,Hercules V2,Dexes
+5454,Emojicoin.fun,Launchpad
+4815,WBROCK Staking,Staking Pool
+4370,Aloe,Lending
+4122,Octopus Network,Restaking
+5042,Bitmap Game,Gaming
+5259,GOLDSTATION DEX,Dexes
+627,Balmy,DCA Tools
+4746,BladeSwap CL,Dexes
+2964,Cozy V2,Insurance
+1346,ThetaCash,Synthetics
+3573,Solv RWA,RWA
+4364,IX Swap RWA,Dexes
+3199,Collectif DAO,Liquid Staking
+2517,ParaSpace Lending V1,Lending
+3716,Swapsicle V2,Dexes
+5260,GOLDSTATION RWA,RWA
+2980,QuickPerps,Derivatives
+739,Aldrin,Dexes
+2398,Opyn Convexity,Options
+3070,QuipuSwap V2,Dexes
+211,Smoothy,Dexes
+4804,Soroswap,Dexes
+3924,D8X,Derivatives
+4410,Fren Pets,Gaming
+533,OpenOcean,DEX Aggregator
+836,CronaSwap,Dexes
+4783,OTSea,Dexes
+1262,Saros,Dexes
+5334,STAB Protocol,CDP
+4030,GenesisLRT (Native Restaking),Liquid Restaking
+4875,Kernel Protocol,Liquid Restaking
+3066,Paladin Warlord,Indexes
+4816,WoodSwap,Dexes
+3941,YLDR,Lending
+1584,Valas Finance,Lending
+2861,Quicksilver Protocol,Liquid Staking
+4296,Blasterswap V2,Dexes
+3823,Keom Protocol,Lending
+5463,Biquid,Liquid Staking
+2324,JEXchangeDefi,Dexes
+1194,Sperax USD,Yield Aggregator
+3895,Cryptex Pi,Derivatives
+3731,Xave Finance,Dexes
+4345,HiveSwap Pro,Liquidity manager
+2200,ION DAO,Synthetics
+5136,MicroSwap,Yield
+3837,DyorSwap,Dexes
+2334,DefiEdge,Liquidity manager
+1368,AstroSwap,Dexes
+200,Bella Protocol,Yield
+2207,Ditto,Liquid Staking
+4422,savmSwap,Dexes
+828,Crodex,Dexes
+4529,OpenEX,Dexes
+2627,Cat in a Box,Lending
+4247,LazyOtter Finance,Yield Aggregator
+2367,mySwap V1,Dexes
+5328,HeadStarter,Launchpad
+582,Ante Finance,Insurance
+4749,Jigsaw,CDP
+5113,OAS Jumbo,Farm
+5309,Nabla Finance,Dexes
+3708,MEV Protocol,Liquid Staking
+3858,Amulet V2,Yield Aggregator
+2835,Juicebox V3,Launchpad
+1181,MojitoSwap,Dexes
+4838,Stack,CDP
+2014,Ocean One,Dexes
+4908,GoldLink,Leveraged Farming
+2564,OraiDEX,Dexes
+3190,Kurrency,CDP
+4905,Shezmu,CDP
+389,Adamant Finance,Yield
+2137,DeFi Franc,CDP
+3494,ChewySwap,Dexes
+165,Cover Protocol,Insurance
+3958,DSF.Finance,Yield
+121,CREAM Lending,Lending
+3409,SwapBased Concentrated Liquidity,Dexes
+1687,SmartCredit,Lending
+4689,Ritsu Protocol,Dexes
+4886,Opal DeFi,Yield Aggregator
+3264,0x0.ai,Privacy
+2746,EraLend,Lending
+2186,USDFI Lending,Lending
+3559,Armada,Liquidity manager
+4707,TYMIO,Options
+5441,Beam Dex,Dexes
+3479,MYSO V2,Lending
+4350,Smilee Finance,Options
+3233,Ajna V1,Lending
+2040,Lif3 Swap,Dexes
+1246,Spartan,Dexes
+2748,Hadouken AMM,Dexes
+2157,Green Planet,Lending
+2393,Joe V2,Dexes
+4568,NLX Protocol,Derivatives
+242,Energiswap,Dexes
+4338,ctez,Dexes
+5050,Delta Trade,Dexes
+2102,Titano Swych,Dexes
+5302,BulbaSwap V3,Dexes
+867,GIBXSwap,Dexes
+4301,VeryLongSwap AMM,Dexes
+5001,Capyfi,Lending
+5157,Yellow,Dexes
+4718,Stride Hyperlane,Bridge
+538,Alchemist,Yield
+4102,Pingu Exchange,Derivatives
+4872,Palmy Finance,Lending
+4061,Meridian Lend,Lending
+5108,Biconomy.com,CEX
+1447,Hashflow,DEX Aggregator
+4127,Restake Finance,Liquid Restaking
+4195,Compx Yield,Yield
+387,Bearn,Yield
+1079,IFPool,Liquid Staking
+4375,BloctoSwap,Dexes
+2007,GrizzlyFi Hives,Yield
+817,CashCow Finance,Lending
+3627,Tomo,SoFi
+4899,AirDAO Bridge,Bridge
+3048,Tranchess Ether,Liquid Staking
+1364,Narwhalswap,Dexes
+5018,H2 Finance V3,Dexes
+4564,Nuri Legacy,Dexes
+3728,Gondi V1,NFT Lending
+1295,BurgerSwap,Dexes
+810,Zenlink AMM,Dexes
+5275,Saru,Dexes
+3007,Uswap,Dexes
+963,Vexchange,Dexes
+3396,LogX V1,Derivatives
+4258,Naka Dex,Dexes
+897,Mesher,Lending
+2333,JulSwap,Dexes
+1243,StackSwap,Dexes
+4658,lendOS,Lending
+4975,AlphaX,Derivatives
+3975,BitSwap,Cross Chain
+4694,BlueLotusDao DEX,Dexes
+1659,Sirius Finance,Dexes
+272,Cryptex V1,Indexes
+157,88mph,Lending
+2658,Alpaca Perpetual Futures Exchange,Derivatives
+2842,Sharky,NFT Lending
+604,Sherlock,Insurance
+4722,Munchables V2,Farm
+3127,nftperp,NftFi
+3547,Fastex,CEX
+3178,PegaSys V3,Dexes
+5447,EclipseFi,Launchpad
+3355,Sable Finance,CDP
+4573,BitGenie AMM,Dexes
+2090,Aequinox,Dexes
+4365,Swych Perpetual,Derivatives
+5096,Torch Stable Swap,Dexes
+513,QuipuSwap V1,Dexes
+4406,Jaypeggers,Yield
+5411,Weft V2,Lending
+543,CherrySwap,Dexes
+561,Alita Finance,Dexes
+2142,Sonne Finance,Lending
+3006,Intercroneswap,Dexes
+399,Geyser,Yield
+1056,Redacted Protocol,Yield
+4470,SpiritSwap V3,Dexes
+1608,Kagla Finance,Dexes
+4159,PrismaLRT,CDP
+4106,Bluewhale,Yield
+247,Jarvis Network,Derivatives
+5395,MortgageFi,Lending
+4494,Wise Lending V2,Lending
+2032,UltronSwap,Dexes
+1990,IcecreamSwap V2,Dexes
+830,Revest Finance,NFT Lending
+5392,zkSwap V3,Dexes
+4069,Possum Labs,Yield
+4864,Blasterswap Vaults,Yield
+3554,ApertureSwap,Dexes
+613,Swop,Dexes
+4732,Divvy.Bet,Prediction Market
+3942,BitStable Finance,CDP
+210,yAxis,Yield Aggregator
+5432,Ubeswap V3,Dexes
+205,Goose Finance,Farm
+1084,Pala,Dexes
+2585,Zharta,NFT Lending
+4599,SilkSwap,Dexes
+3132,Daytona Finance,Dexes
+365,Charm Finance V1,Liquidity manager
+1899,Taiga Karura,Synthetics
+2997,zkDX,Farm
+4045,Sudo Finance,Synthetics
+1520,Paraluni Masterchef,Yield
+794,OolongSwap,Dexes
+3879,CherryLend,Lending
+4729,Lynx,Derivatives
+3835,Substance Exchange,Derivatives
+4642,Zeno Exchange,Derivatives
+1547,Jumbo Exchange,Dexes
+2439,CALC,DCA Tools
+575,Coinswap Space,Dexes
+2463,WYND DEX,Dexes
+5154,Sperax Demeter V2,Farm
+3032,WINR Protocol,Prediction Market
+227,CreamSwap,Dexes
+3608,Alpha,SoFi
+1692,SiennaSwap,Dexes
+3371,Locus Finance,Yield
+3868,Ascent Exchange V3,Dexes
+1002,YokaiSwap,Dexes
+4307,Copra Finance,Lending
+4770,3Jane,Options Vault
+3415,LuigiSwap,Dexes
+3664,Primex Finance,Derivatives
+2708,Puzzle Lend,Lending
+3184,Jet Margin,Lending
+595,Convergence,Dexes
+1225,VoltSwap,Dexes
+1033,OneSwap,Dexes
+4849,Catalyst,Cross Chain
+2304,zkBob,Privacy
+1603,Picnic,Indexes
+1032,Percent Finance,Lending
+367,PinkSwap,Dexes
+1872,Rift Finance,Yield
+2226,Wombex Finance,Yield
+5030,Delegate Marketplace,Services
+348,FilDA,Lending
+2049,KLEX Finance,Dexes
+4893,International Meme Fund,CDP
+2134,Lemma,Derivatives
+164,ValueDefi,Dexes
+2650,ShadowSwap,Dexes
+4728,Blasterswap V3,Dexes
+1950,Baryon Network,Dexes
+2553,Lenen,Lending
+4188,Voltage V3,Dexes
+951,4Swap,Dexes
+588,Mobius Money,Dexes
+391,PantherSwap,Dexes
+5031,MetaStreet Airdrop Pass,Yield
+250,BasketDAO,Indexes
+4708,ICPEx,Dexes
+1053,MooniSwap,Dexes
+1474,AtomicHub,Dexes
+4476,Gold DAO,RWA
+4182,BakerFi,Liquid Staking
+3799,Warp Dex,Dexes
+3531,Mozaic,Yield
+4582,FlowX V3,Dexes
+2002,CACHE.Gold,RWA
+4955,WaxFusion,Liquid Staking
+3904,Weft V1,Lending
+213,OnX Finance,Yield Aggregator
+3400,duckpools,Lending
+509,Centrifuge,RWA Lending
+5329,ThalaSwap V2,Dexes
+3046,HashMix FIL,Liquid Staking
+5290,Surge Trade,Derivatives
+4738,Tradoor,Derivatives
+799,Rubicon,Dexes
+2465,Tethys Perpetual,Derivatives
+4614,BitSwap BB V2,Dexes
+5308,Pearl V1.5,Dexes
+497,Float Protocol,Yield
+724,handle.fi,CDP
+1886,Kintsugi,Cross Chain
+4973,Lore Finance,Lending
+2896,PheasantSwap,Dexes
+815,PureSwap,Dexes
+629,Cozy V1,Insurance
+3328,SwapBased AMM,Dexes
+400,Amun,Indexes
+3876,Button Wrappers,CDP
+661,MochiFi,Lending
+1794,Ostable,Algo-Stables
+392,WardenSwap,Dexes
+1876,VeRocket,Dexes
+3661,Poolside,Dexes
+354,InsurAce,Insurance
+3214,SigmaFi,Lending
+5318,g8keep,Launchpad
+3345,DackieSwap V3,Dexes
+2010,Starswap Starcoin,Dexes
+2802,HashDAO Finance,Derivatives
+3077,Fathom AMM,Dexes
+605,Telos Swap,Dexes
+1307,0xDAO,Yield
+4523,Open Dollar,CDP
+1240,YuzuSwap,Dexes
+4184,Haiko,Dexes
+2670,KoffeeSwap,Dexes
+2152,Sushi Trident,Dexes
+1922,Radiant V1,Lending
+1155,SheepDex,Dexes
+4336,Kinto Bridge,Chain
+1402,UXD,Decentralized Stablecoin
+5358,Goose,CeDeFi
+1640,Eklipse Finance,Dexes
+4797,XAI Bridge,Chain
+5371,Farmix,Leveraged Farming
+4038,KIM Exchange V2,Dexes
+5169,Club Quanto,Derivatives
+4974,Alien Worlds,Gaming
+3989,AbstraDEX,Dexes
+2374,Contango V1,Derivatives
+5362,SwapMode V3,Dexes
+527,KSwap Finance,Dexes
+5306,maxAPY,Yield Aggregator
+5105,Adrastea,Yield
+744,Tranquil Finance,Lending
+4477,Loxodrome AMM,Dexes
+2548,Vela Exchange,Derivatives
+3881,Banx,NFT Lending
+2023,Arbswap AMM,Dexes
+3308,Sablier V2,Payments
+4393,Burve Protocol,Dexes
+5380,Ape Express,Launchpad
+3621,Contrax Finance,Yield
+2647,LFGSwap Core,Dexes
+1788,Invariant,Dexes
+1407,Solidly,Dexes
+2423,Forthewin Network,Dexes
+5349,Manifest Trade,Dexes
+5163,Ulysses,Bridge
+5437,Taraswap,Dexes
+393,APY Finance,Yield
+2608,Streamflow,Payments
+5205,cytoswap,Dexes
+4854,Arca Labs ArCoin,RWA
+4005,ShimmerBridge,Bridge
+4256,Stability,Liquidity manager
+2335,ABEL Finance,Lending
+941,UniPower,Yield
+1613,Nested,Indexes
+193,Unit Protocol,CDP
+4946,Saturn Swap,Dexes
+3909,Hashstack,Lending
+876,Yield Protocol,Lending
+1531,01,Derivatives
+542,NewDex,Dexes
+364,Volmex,Yield
+4026,FWX Derivatives,Derivatives
+1993,KibbleSwap,Dexes
+5273,Defx,Derivatives
+4356,Euclid Finance,Liquid Restaking
+290,Penguin Finance,Yield
+1925,Midas Capital,Lending
+457,Fuji V1,Lending
+4789,AirDAO Hera pool,Chain
+341,Nsure,Insurance
+5337,Royco Protocol,Launchpad
+663,Pods Finance,Options
+568,Scientix,Synthetics
+1471,BetHash,Prediction Market
+4581,Tokan Exchange,Dexes
+1154,SocialSwap,Dexes
+2882,TokenPocket,Staking Pool
+2911,Aboard Exchange,Derivatives
+4549,TenderSwap,Dexes
+381,Premia V2,Options
+908,Knit Finance,Bridge
+3880,StarkDeFI,Dexes
+2750,NUON Finance,CDP
+1450,Solidex,Yield Aggregator
+3109,Pawnfi Lending,NFT Lending
+2655,SnowSwap AMM,Dexes
+339,Lien,Options
+4151,SHPRD,Indexes
+4913,Taffy Finance,Dexes
+4676,Glyph,Lending
+5166,Rhombus Protocol,Lending
+4798,zkFinance,Lending
+922,Big Data Protocol,Yield
+2683,Davos Protocol,CDP
+1545,Steroids,Yield
+2483,Perennial V1,Derivatives
+1289,BeamSwap Classic,Dexes
+4426,AshPerp,Derivatives
+3915,TeddySwap,Dexes
+4904,Size Credit,Lending
+546,Omm,Lending
+906,Impossible Finance,Launchpad
+4479,Breadchain,CDP
+4255,Monroe Protocol,CDP
+3623,Voltage Liquid Staking,Liquid Staking
+607,Hundred Finance,Lending
+5015,Lobster Protocol,Yield Aggregator
+585,Popsicle Finance,Liquidity manager
+2569,Spice Finance,Yield Aggregator
+2291,Voltz,Derivatives
+743,Neku,Lending
+1304,Buffer Finance,Options
+916,Pika,Derivatives
+261,Cometh,Dexes
+2086,Rage Trade v1 (Deprecated),Yield
+816,xSigma,Dexes
+350,CVI Finance,Synthetics
+2115,Flashstake,Yield
+4616,Lumen Money,Lending
+2576,Goledo,Lending
+462,Augury Finance,Yield
+4353,PyreSwap,Dexes
+2827,SatoshiCoreSwap,Dexes
+1581,HebeSwap,Dexes
+299,Levinswap,Dexes
+4428,Astaria V2,Lending
+422,Bunicorn,Dexes
+3002,Rigoblock,Managed Token Pools
+847,PhotonSwap Finance,Dexes
+678,JSwap,Dexes
+1980,Yodeswap,Dexes
+624,Paladin Vote,Lending
+3976,Orion Liquidity Nodes,Dexes
+3093,eZKalibur,Dexes
+131,BarnBridge,Yield Aggregator
+648,Alkemi,Lending
+1455,ClaimSwap V1,Dexes
+1587,LaserSwap,Dexes
+608,Cap,Derivatives
+570,TEN Finance,Yield
+282,Yam Finance,Synthetics
+647,Jet V1,Lending
+327,YouSwap,Dexes
+352,Iron Finance,CDP
+956,Swarm Markets,Dexes
+4189,KaleidoCube,Dexes
+714,Voltage AMM,Dexes
+4572,GuacSwap,Dexes
+5313,Basic,Lending
+3952,MultiBit Protocol,Bridge
+1416,GemKeeper,Dexes
+3772,CaviarNine Order Book,Dexes
+5204,Coffin.Meme,Derivatives
+3352,Paladin Dullahan,Yield
+423,Deri Protocol,Options
+5350,TeleSwap,Bridge
+258,Wasabix,Yield
+4963,Umoja Protocol,Options
+179,Varen,Dexes
+3829,CitadelSwap,Dexes
+5155,OracleFreeDollar,CDP
+842,Matrix Farm,Yield Aggregator
+4175,KEWL EXCHANGE,Dexes
+2654,ParaSpace APE Staking V1,Yield
+2158,Blue Planet,Dexes
+1278,YieldWolf,Yield
+4486,Olive Network,Farm
+3311,Retro,Dexes
+4089,Vector Reserve,Indexes
+2341,Polycat Dex,Dexes
+2668,Velocimeter V2,Dexes
+3670,Cog,Lending
+351,Gravity Finance,Dexes
+443,Kogefarm,Yield
+499,Polycat,Farm
+4788,Dusa Protocol,Dexes
+4116,SwapMode V2,Dexes
+2733,Citrus,NFT Lending
+1850,Union Protocol,Uncollateralized Lending
+1861,CGO Finance,Yield Aggregator
+3763,Mu Exchange,Derivatives
+328,SteakBank Finance,Liquid Staking
+3081,Atomic Green,Derivatives
+142,Swerve,Dexes
+3706,Dyson Finance,Dexes
+5139,Cybro,Yield Aggregator
+421,Paint Swap,Dexes
+4512,PotatoSwap,Dexes
+4962,FWX DEX,Dexes
+3326,MUFEX,Derivatives
+5366,Shido Dex,Dexes
+852,Demeter,Lending
+241,PowerPool,Indexes
+480,KuSwap,Dexes
+1412,Crema Finance,Dexes
+3169,Savvy,CDP
+4811,MintSwap Finance,Dexes
+1031,PandaSwap,Dexes
+2312,Step Exchange,Dexes
+5065,Apex DeFi,Dexes
+670,CarbonSwap,Dexes
+2382,Tender Finance,Lending
+4803,IcecreamSwap V3,Dexes
+133,Shell Protocol,Dexes
+3910,Gryphon,Liquid Staking
+3624,Voltage StableSwap,Dexes
+4604,Cropper CLMM,Dexes
+1802,Bomb Finance,Dexes
+5174,four.meme,Launchpad
+5391,zkSwap StableSwap,Dexes
+1551,Kujira Orca,Services
+748,MistSwap,Dexes
+1353,Kalmy App,Yield
+3098,USDO,CDP
+284,Serum Swap,Dexes
+2666,wefi,Lending
+2586,Equilibre,Dexes
+3932,Vivacity Finance,RWA Lending
+169,Basis Cash,Algo-Stables
+2024,RCPswap,Dexes
+5236,SwanSwap,Dexes
+3560,TProtocol V2,RWA
+4347,Glyph V2,Dexes
+4950,TON Hedge,Options
+3087,Gambit Financial,Derivatives
+3642,Ultraswap,Lending
+313,ViperSwap,Dexes
+2745,LeetSwap,Dexes
+4294,Infusion,Dexes
+4595,Untangled,RWA
+3773,Elektrik,Dexes
+4417,Core Markets,Derivatives
+3831,Sailing Protocol,RWA
+3715,Realperp,Derivatives
+4584,Ape.Store,Launchpad
+4850,NovaSwap V2,Dexes
+953,Nearpad,Dexes
+269,YFII,Yield Aggregator
+4730,Linkswap,Dexes
+1997,Morpho Compound,Lending
+5195,GraFun,Launchpad
+569,Crunchy,Yield Aggregator
+625,Arbi's Finance,Yield
+363,xDollar,CDP
+4753,Hana Finance,Lending
+2945,GroveCoin,Farm
+1786,Credix,RWA Lending
+1220,KillSwitch,Yield Aggregator
+2202,PRDT,Prediction Market
+1379,Based V1,Algo-Stables
+1591,OccamX,Dexes
+5142,Zoth,RWA
+477,SakePerp,Dexes
+1715,Hummus AMM,Dexes
+2148,Roketo,Payments
+5085,SettleTON,Yield
+1688,Olive,Options Vault
+4204,Rockswap,Dexes
+4829,Rock Staking,Staking Pool
+3116,Basilisk,Lending
+1109,Spectra V1,Yield Aggregator
+5230,Superlend,Lending
+696,Agave (Deprecated),Lending
+599,Cub Finance,Farm
+1283,Bent Finance,Yield
+3255,HorizonDEX,Dexes
+1902,StarSwap,Dexes
+3634,PacificSwap V3,Dexes
+4288,Unilend V2,Lending
+3069,QuipuSwap Stableswap,Dexes
+3568,Bass Exchange,Dexes
+2074,Yupana,Lending
+4157,Yuzu Market,Lending
+1029,SpicySwap,Dexes
+721,Mycelium Perpetual Pools,Derivatives
+2742,Fluidity Money,CDP
+697,Cook Finance,Indexes
+1987,Pangea Swap,Dexes
+600,Value Liquid,Dexes
+788,Bridge Mutual,Insurance
+4333,Melegaswap,Dexes
+2928,Veax,Dexes
+471,Complus Network,Dexes
+1208,OpenLeverage,Dexes
+4630,Jasper Vault,Options
+2719,SithSwap,Dexes
+912,FLRLoans,CDP
+1590,MilkySwap,Dexes
+4670,C3 Exchange,Cross Chain
+4259,ETCMC DEX,Dexes
+5354,ELMA,Lending
+4144,JediSwap V2,Dexes
+4437,Puff Penthouse,Farm
+1615,Polynomial Earn,Options Vault
+170,FinNexus,Options
+5269,StakeEase,Indexes
+2154,Lifinity V1,Dexes
+2956,Affine DeFi Earn,Yield Aggregator
+1385,Algebra DEX,Dexes
+1074,AutoShark,Dexes
+820,Doki Doki Finance,Yield
+5160,ELFi Protocol,Derivatives
+2146,Sushi Furo,Payments
+3009,Avely Swap,Dexes
+2605,Rysk Finance,Options
+5198,Swap Country,Dexes
+2702,MantisSwap,Dexes
+3652,Nostra Money Market Alpha,Lending
+4971,Taco Studios,Dexes
+5094,GasPump,Launchpad
+632,FoxSwap,Yield
+549,Vigor,Lending
+2907,Chronos V1,Dexes
+224,Domani Protocol,Indexes
+4325,VulcanDex,Dexes
+1578,Hyphen,Bridge
+3551,Tholgar,Yield
+1992,Sphynx,Dexes
+4884,Kosmos,Yield
+268,UniTrade,Dexes
+5224,Crouton Finance,Dexes
+3251,Beamex Perps,Derivatives
+827,Layer2 Finance,Yield
+700,Poof Cash,Lending
+2615,KyberSwap Elastic,Dexes
+1117,Crow Finance,Dexes
+4600,VanillaSwap V2,Dexes
+2359,RealT RMM Marketplace,Lending
+2804,Forge,Dexes
+2809,Dove Swap V3,Dexes
+3360,Aquarius Loan,Lending
+524,Ramp,CDP
+1440,Polaris Finance,Dexes
+5137,LogX V2,Derivatives
+2489,Caviar V1,NFT Marketplace
+1769,KDSwap,Dexes
+3797,Rakeoff,Staking Pool
+490,Plenty,Dexes
+4377,A51 Finance V3,Liquidity manager
+1558,GOGOcoin,Yield
+1568,eckoDAO,Dexes
+1820,A51 Finance V2,Liquidity manager
+1727,StakeEasy,Liquid Staking
+2753,Velocore V1,Dexes
+2206,Argo,CDP
+4080,Blueberry,Leveraged Farming
+1829,Interest Protocol,CDP
+1488,DMD Finance,Yield
+1174,AuroraSwap,Dexes
+3158,Themis Protocol,Lending
+4210,MonoSwap V3,Dexes
+4677,Kalax,Yield Aggregator
+3071,QuipuSwap V3,Dexes
+1410,Cropper AMM,Dexes
+5325,Marginal,Leveraged Farming
+978,ChickenSwap,Dexes
+5099,Swapline V2,Dexes
+4193,Crunchy Liquid Staking,Liquid Staking
+409,CafeSwap,Dexes
+404,BXH,Dexes
+2920,LSDx ETHx,Indexes
+3204,Pulse Rate,Algo-Stables
+2639,Ruby.Exchange Yield,Yield
+3298,Factor V2,Yield
+2687,OpenXswap,Dexes
+3683,SiennaLend,Lending
+3322,Synthswap V2,Dexes
+5190,Ancient8 Swap,Dexes
+1653,Comb Financial,Yield
+4856,Harmonix Finance,Yield
+3049,CrowdSwap,Dexes
+2638,Uniwhale,Derivatives
+4272,ArthSwap V3,Dexes
+5181,Limitless Exchange,Prediction Market
+3163,Levvy for NFTs,NFT Lending
+2181,Frigg.eco,RWA
+944,Platypus Finance,Dexes
+3147,MegaMoon,Prediction Market
+2466,ZKasino,Prediction Market
+3478,Astarter AMM,Dexes
+333,O3 Swap,Cross Chain
+187,Unagii,Yield
+2690,WYND LSD,Liquid Staking
+3225,HOPE Swap,Dexes
+529,ShadeCash,Privacy
+967,Babylon Finance,Indexes
+4989,Velo Finance,Dexes
+4621,Vibrant Finance,Dexes
+1296,ZipSwap,Dexes
+1784,Tenderize V1,Liquid Staking
+3714,SharkSwap DEX,Dexes
+825,NFT20,NFT Marketplace
+980,WannaSwap,Dexes
+1404,GotchiVault,CDP
+707,LuaSwap,Dexes
+699,Polly Finance,Indexes
+298,Hyper Finance,Yield
+573,Liqee,Lending
+4071,Fringe V2,Lending
+1093,SuperFarm,Services
+4454,Leaper Finance,Lending
+4939,MAHA.xyz,CDP
+4385,Poolz Network,Farm
+3682,CandySwap,Dexes
+2238,anetaBTC,Bridge
+4843,Organic Growth,Launchpad
+2070,Interlay Collateral,Cross Chain
+325,MochiSwap,Dexes
+2838,Stakehouse,Liquid Staking
+5373,SuperSwap V3,Dexes
+590,Parrot Defi,Farm
+838,Component,Dexes
+2987,Vendor V2,Lending
+4114,ClayStack Matic,Liquid Staking
+5383,Delea,CDP
+4164,Mori Protocol,Dexes
+1469,BtnGroup,Yield
+903,MiniSwap,Dexes
+1675,CENNZnet Bridge,Bridge
+644,PadSwap,Dexes
+1064,Ideamarket,Derivatives
+450,Scream,Lending
+835,Suterusu,Services
+3515,DackieSwap V2,Dexes
+500,StakeSteak,Yield
+287,0.exchange,Dexes
+2098,Muffin,Dexes
+2729,GemSwap,Dexes
+1097,Niob Finance,Dexes
+1577,Sturdy V1,Lending
+2603,AlienFi,Dexes
+2030,Liquid Finance,Yield
+356,Dopple Finance,Algo-Stables
+1840,Sushi Kashi,Lending
+4976,Firoza Finance,Lending
+4740,AgentFi,AI Agents
+386,PolyQuity,CDP
+4622,Bit Reserve,Liquid Staking
+1833,UniDex Perp,Derivatives
+4480,Mage Finance,Lending
+3444,Liquid Finance Protocol,Liquid Staking
+3385,Synthswap V3,Dexes
+407,Mars Poolin,Yield
+4903,BMX Freestyle,Derivatives
+4165,Secta Finance V2,Dexes
+2400,Solidly V2,Dexes
+5428,Dexodus Finance,Derivatives
+3359,Phoenix Ergo,Farm
+4021,Creampan Finance,Liquid Staking
+2104,Swaap Maker V1,Dexes
+293,Lydia,Dexes
+473,Baguette,Dexes
+628,Float,Derivatives
+1279,Tulip,Algo-Stables
+493,Grim Finance,Yield
+3277,dexSWAP,Dexes
+1989,Mycelium Perpetual Swaps,Derivatives
+3384,PWN,Lending
+4902,EveryFinance,Indexes
+1563,iZUMi LiquidBox,Yield
+3404,ABEx Finance,Derivatives
+2558,Pine Protocol,NFT Lending
+4574,Rivus DAO,Liquid Staking
+3343,zkEra Finance,Derivatives
+3397,Binary Swap,Dexes
+1136,Rose,Dexes
+532,Twindex,Options
+5210,Hela Bridge,Bridge
+829,Standard Protocol Shiden,Dexes
+257,XDeFi,Dexes
+2019,BFly Finance,Lending
+5289,Fisclend Finance,Lending
+1486,Fountain Protocol,Lending
+1720,Kokoa Finance,CDP
+3149,KlaySwap V3,Dexes
+3173,Equity,Derivatives
+2754,MM Finance Arbitrum,Dexes
+1261,DarkCrypto,Algo-Stables
+3967,ZebraDAO,Lending
+2073,DarkAuto,Yield Aggregator
+4809,AINN Swap,Dexes
+274,Olive Cash,Yield
+2384,OreoSwap,Dexes
+692,HurricaneSwap,Dexes
+537,ArbiNYAN,Farm
+4297,Q Borrowing,Lending
+2487,Stargaze,NFT Marketplace
+3818,Gable Finance,Yield
+1756,Dystopia,Dexes
+4801,Tangible USTB,RWA
+5274,Thorn Protocol,Dexes
+4510,Revoswap,Dexes
+514,Orion Money,Yield
+4060,PRINT3R,Derivatives
+896,KwikSwap,Dexes
+4766,Kodo Exchange,Dexes
+4442,Fufuture,Derivatives
+4828,DexFinance ETF,Yield
+826,MinMax Finance,Dexes
+3160,Themis DEX,Dexes
+5409,Catton,CDP
+2602,Zyberswap V3,Dexes
+3626,SpaceFi Scroll,Dexes
+5299,PinSwap,Dexes
+1629,Humble Defi,Dexes
+3349,EchoDEX V3,Dexes
+5451,Blum,Launchpad
+1851,InsureDAO,Insurance
+2091,Algofi Swap,Dexes
+2924,GoodEntry,Derivatives
+3800,Nocturne,Privacy
+1068,Thoreum Finance,Yield
+1312,Epsylon Finance,Yield Aggregator
+5221,Raindex,Dexes
+544,SoulSwap,Dexes
+2306,Bored Candy City,Dexes
+593,Tranche Finance,Yield
+3619,Skydrome,Dexes
+2356,El Dorado Exchange,Derivatives
+3859,10KDex,Derivatives
+1729,BlockNG,Dexes
+1055,FIAT DAO,Yield
+2099,OKCSwap,Dexes
+2328,SynFutures V1,Derivatives
+4699,Polkadex,Dexes
+4530,FeeFree,Dexes
+2220,Wavelength DAO,Dexes
+5365,SuiDollar,Basis Trading
+5192,Club Farm,Yield
+3476,Alvey Dex,Dexes
+2381,Genius Yield,Dexes
+630,Huckleberry AMM,Dexes
+5191,KaiaFun,Launchpad
+5103,Renegade,Dexes
+402,Hunny Finance,Yield
+2830,Brokkr Finance,Indexes
+2637,Sector Finance,Yield
+5361,Sensi,Yield Aggregator
+3899,Poolshark,Dexes
+5104,TonStable,CDP
+917,Pacoca,Yield
+2167,DAO Swap,Dexes
+465,Lixir Finance,Liquidity manager
+2760,Maia V3,Dexes
+192,Governor DAO,Yield
+576,UnoRe,Insurance
+235,PEAKDEFI,Yield
+1813,Spin Spot,Dexes
+4786,time.fun,SoFi
+1663,ThunderPOKT,Liquid Staking
+1927,Mero,Yield
+2528,SolidLizard Dex,Dexes
+4771,Capy Finance,Farm
+3587,fan.tech,SoFi
+2856,Gridex,Dexes
+4435,SolidLizard Lending,Lending
+3505,CUBISwap,Dexes
+1470,Nereus Finance,Lending
+4603,Ceto Swap,Dexes
+3503,The Standard,CDP
+1306,ProtoFi,Dexes
+5025,Meridian Swap,Dexes
+2260,PolyCub,Yield
+1281,veDAO,Farm
+455,ZooCoin,Dexes
+2263,Snowflake Exchange,Dexes
+2963,MemeDex,Dexes
+2697,Bond Protocol,Services
+2685,Arbitrum Exchange V2,Dexes
+1189,Mimas Finance,Lending
+492,Moonpot,Yield
+3348,Soswap,Dexes
+1161,NiiFi,Dexes
+4619,Swaap Earn,Yield
+4029,ManXSwap,Dexes
+5367,powpeg,Bridge
+3864,DFX V3,Dexes
+1852,Gardens DAO,Governance Incentives
+1871,HunnySwap,Dexes
+5077,Z Protocol DEX,Dexes
+1569,Swim Protocol,Cross Chain
+2408,BAO Swap,Dexes
+1959,Hubble Exchange,Derivatives
+2998,veSync,Dexes
+3633,PacificSwap V2,Dexes
+4366,Javsphere,Yield
+3234,DerpDEX,Dexes
+5207,MSwap,Dexes
+3688,HYDT Protocol,Yield
+2422,Tonic,Dexes
+1866,DexPad,Launchpad
+2613,Mellow Yield,Yield Aggregator
+5175,Hedgehog Markets,Prediction Market
+2743,Yama Finance,CDP
+3612,hub3,SoFi
+4617,Chi Protocol,Decentralized Stablecoin
+540,Moonswap,Dexes
+2166,LFGSwap EthereumPoW,Dexes
+3536,PunkSwap,Dexes
+3535,PostTechSoFi,SoFi
+3054,Paribus,Lending
+924,ButterSwap,Dexes
+4246,Blastoff,Farm
+5307,MorFi,Dexes
+4483,Volcano,Farm
+3511,Leech Protocol,Yield Aggregator
+674,RskSwap,Dexes
+3121,Pearl V1,Dexes
+2874,Tealswap V2,Dexes
+1865,Oracle Swap,Dexes
+731,Synthetify,Synthetics
+5086,Intuition,Services
+860,CougarSwap,Yield
+2012,Clever Protocol,Dexes
+4131,Harbor Market,Lending
+2285,Sentiment,Leveraged Farming
+1834,Optimus,Yield
+911,SumSwap,Dexes
+3993,Cauldron,Dexes
+3394,IMPLS,Yield Aggregator
+5412,Catalist DEX,Dexes
+2118,WinerySwap,Dexes
+4577,Tesseract World,Dexes
+905,TangoSwap,Dexes
+3578,Klever Exchange,CEX
+971,NFTb,Yield
+4632,CyberSwap,Dexes
+3566,Friend3,SoFi
+5278,ModeMax Perps V2,Derivatives
+1948,Matter Defi,Yield
+4892,Sorta Finance,Lending
+2468,Hats.V1,Bug Bounty
+262,Primitive,Dexes
+2469,Cap V4,Derivatives
+3983,ImmortalX,Derivatives
+1697,Diffusion Finance,Dexes
+535,Teddy Cash,CDP
+4790,Bridgers,Dexes
+639,EnterDAO,Gaming
+671,FODL Finance,Options
+3256,EchoDEX V2,Dexes
+2971,AstroSwap AMM,Dexes
+395,Waka Finance,Dexes
+1086,Zencha Finance,Dexes
+5370,SRWA Lending,Lending
+139,SnowSwap,Dexes
+3134,Stabl.fi V2,Yield
+1203,StoneDefi,Yield Aggregator
+1689,GARD,CDP
+2652,OSWAP Token,Yield
+1586,Sherpa Cash,Privacy
+3641,LyveFinance,CDP
+474,Canary,Dexes
+913,Defrost,CDP
+1192,PolkaEx,Dexes
+1968,Magik Farm,Yield Aggregator
+3649,Sui Pearl,Yield Aggregator
+782,Polywhale Finance,Yield
+1183,Euler V1,Lending
+2868,zkFox,Leveraged Farming
+1666,Nord Finance,Yield Aggregator
+2718,Volta Finance,CDP
+3970,Sideswap,Dexes
+3717,Rivera Money,Liquidity manager
+1040,MFinance,Yield
+1030,TopShelf,CDP
+1285,Alphadex,Dexes
+4179,Fixes frc20,Services
+3246,Sobal,Dexes
+4244,Staking Rewards srETH,Indexes
+4624,ENZO Finance,Lending
+621,Trava Finance,Lending
+3987,BracketX,Derivatives
+2836,TronNRG,Staking Pool
+1574,Viva,Yield
+4391,GullNetwork Service,Services
+2926,E3,Dexes
+3884,Newswap,Dexes
+2618,OasisSwap,Dexes
+2224,Aptoswap,Dexes
+735,BecoSwap,Dexes
+5385,NFT Hive,NFT Marketplace
+3456,MARSWAP,Dexes
+814,Loop Finance,Dexes
+2923,TProtocol V1,RWA
+4142,Stratum Exchange,Dexes
+705,TTswap,Dexes
+376,Tomb,Algo-Stables
+2350,KyotoSwap,Dexes
+736,aSOL,Liquid Staking
+3563,cipher.rip,SoFi
+1460,ValleySwap,Dexes
+5291,Cables Finance,Dexes
+3620,Xena Finance,Derivatives
+3288,JewelSwap Leveraged Farming,Leveraged Farming
+414,TreeDefi,Yield
+4229,AkitaSwap,Dexes
+3843,Clink,SoFi
+3470,Andromeada,Dexes
+4251,Graphene by Velocimeter,Dexes
+525,Cycle Finance,Yield Aggregator
+2512,Velvet V1,Indexes
+3029,Caviar V2,NFT Marketplace
+2213,AUX Exchange,Dexes
+2908,stETH.win,Yield Lottery
+2252,Llamalend,NFT Lending
+273,ACoconut,Yield
+558,Magic Land,Yield
+3918,Butter.xyz,Dexes
+5148,ElectroSwap V3,Dexes
+2661,Spin DOV,Options Vault
+3373,SwapBased Perp,Derivatives
+2962,Arbitrum Exchange V3,Dexes
+3327,LINE Token,CDP
+498,Pilot Protocol,Lending
+4927,BetMode,Prediction Market
+4344,DTX Derivatives,Derivatives
+5215,Bitcointry,CEX
+645,LatteSwap,Dexes
+2885,Asymetrix Protocol,Yield
+1828,SharkSwap,Dexes
+3363,HaloTrade Cosmos,Dexes
+454,Back Finance,Yield
+4685,Bitparty,Farm
+1935,sKCS,Liquid Staking
+5177,Filament Finance,Derivatives
+1824,Swapsicle V1,Dexes
+1821,AstarFarm,Gaming
+5056,Carrot Swap,Dexes
+992,Ubiquity DAO,Services
+3840,PlunderSwap,Dexes
+790,PolygonFarm Finance,Yield
+4152,Polter Finance,Lending
+3447,Altitude,Cross Chain
+4118,SupSwap V3,Dexes
+755,Arrow,Yield
+2467,Zyberswap AMM,Dexes
+3165,Struct Finance,Yield
+1713,Duet Protocol,Synthetics
+1269,Solarflare,Dexes
+2119,Pls2e,Dexes
+429,BambooDeFi,Dexes
+904,Typhoon Cash,Privacy
+1647,Waterfall DeFi,Yield Aggregator
+3097,OMT Finance,Derivatives
+2108,W3swap,Dexes
+2183,Ape Finance,Lending
+366,DFX V2,Dexes
+368,Channels Finance,Lending
+3850,Fuzion Bonds,Services
+1712,EvmoSwap,Dexes
+2375,Y2K V1,Derivatives
+4174,hyperswap,Dexes
+2721,Flair Dex,Dexes
+1646,StableKoi,Dexes
+4497,Credit Guild,Lending
+5288,Mimo V3,Dexes
+1966,MM Finance Polygon,Dexes
+3155,StakedICP,Liquid Staking
+1156,Cykura,Dexes
+1951,DotOracle,Bridge
+2892,Autoearn Finance,Yield Aggregator
+1920,OrderNChaos,Algo-Stables
+2671,Finext Finance,Algo-Stables
+2199,HedgeFarm,Yield
+1176,Tropical Finance,Dexes
+3795,Sweep,RWA
+2370,Proteo Defi,Farm
+2653,NF3 APE,Liquid Staking
+5384,Ruscet,Derivatives
+511,Frost Finance,Yield
+2490,Libre Swap,Dexes
+1239,DuneSwap,Dexes
+4943,Scribe V4,Dexes
+2100,Sense,Yield
+688,HaloDAO,Yield
+5388,Pluto,Yield
+1184,CyberTime,Services
+401,ApeRocket,Yield
+1662,Yeti Finance,CDP
+3874,ISSUAA,Dexes
+3833,Amped Finance,Derivatives
+1809,Penrose,Yield
+1916,Hedge,CDP
+925,Oddz,Options
+869,Pop Town,Yield
+5118,TonPools,Staking Pool
+5257,Capybara Perps,Derivatives
+4890,SigmaSwap,Bridge
+216,Auctus,Options
+2318,Stabl.fi V1,Yield
+1839,Aave Arc,Lending
+4711,ETCswap V3,Dexes
+785,LootSwap,Dexes
+4018,BaptSwap V2.1,Dexes
+1778,Oswap AMM,Dexes
+2203,Tetu Swap,Yield
+2404,cSwap,Dexes
+4218,Roguex,Dexes
+2972,Steadefi,Leveraged Farming
+2151,Ribbon Lend,Uncollateralized Lending
+3459,DogSwap,Dexes
+5114,Parraton,Yield Aggregator
+289,YetiSwap,Dexes
+1367,WOWswap,Dexes
+4520,BitGenie Farm,Farm
+4626,GoatxTech,Services
+2573,QuantumX Network,Services
+4290,Return Finance,Yield Aggregator
+2387,Sperax Demeter,Farm
+3040,Dexter Exchange,Dexes
+1478,GTON Capital,Reserve Currency
+2043,Crescent Dex,Dexes
+2451,Quadrat,Liquidity manager
+3280,ZKBase,Dexes
+729,AnchorSwap,Dexes
+4773,Macaron StableSwap,Dexes
+2863,SaitaSwap,Dexes
+3182,EXIT10,Yield Aggregator
+1530,Excalibur,Dexes
+2966,Starmaker,Dexes
+2696,Overnight DAI+,CDP
+2894,zkBoost,Launchpad
+5149,Cygnus clTON,Liquid Staking
+2368,Aptin Finance V1,Lending
+4586,Equation V3,Derivatives
+2834,Juicebox V2,Launchpad
+4714,BlastUp,Farm
+3092,BeamSwap V3,Dexes
+581,Morpheus Swap,Dexes
+1475,MahaDAO Arth,CDP
+1964,Unbound,Derivatives
+5346,Solar Dex,Dexes
+1648,CGX Finance,Dexes
+3176,Key Finance,Yield
+453,Wild Credit,Lending
+1517,Domination Finance,Synthetics
+1792,Foodcourt,Dexes
+2752,Onchain Trade,Derivatives
+2331,SwapFish,Dexes
+396,Polydex,Dexes
+907,CyborgSwap,Dexes
+5429,Jade Money,CDP
+571,Aladdin DAO,Yield Aggregator
+1493,GoblinGold,Yield
+1736,Muuu Finance,Yield
+321,Ram Protocol,Lending
+3238,FusionX V2,Dexes
+652,EmiSwap,Dexes
+5435,IncaSwap,Dexes
+3841,ArtCPAClub,NFT Marketplace
+3039,tai.money,CDP
+1291,Agora,Lending
+4539,Ridotto,Prediction Market
+1089,KACO Finance,Dexes
+466,Vanilla,Derivatives
+4110,Kinetix Derivatives V2,Derivatives
+445,CobraSwap,Dexes
+1677,Timeswap V1,Lending
+3242,Moraswap V2,Dexes
+280,Oxygen,Lending
+3830,Woken Exchange,Dexes
+2996,Milkomeda-C1 Djed,Decentralized Stablecoin
+4399,Bloom Trading,Derivatives
+3198,Tashi,Lending
+4474,ShibaNova,Dexes
+1373,Antimatter,Options
+3358,KRAV,Derivatives
+3317,VivaLeva Protocol,Leveraged Farming
+4010,SquadSwap V3,Dexes
+2651,Numoen,Derivatives
+516,Qubit,Lending
+176,Mushrooms Finance,Yield Aggregator
+3129,Tigris,Derivatives
+2852,Solunea,Dexes
+4451,Busta Exchange,Dexes
+2922,Flux Exchange,Derivatives
+156,zLot,Liquid Staking
+2976,sCANTO,Liquid Staking
+1253,HakuSwap,Dexes
+459,Multiplier,Lending
+4842,LineHub Perps,Derivatives
+3133,PepeDex,Gaming
+5178,moonthat,Launchpad
+4827,scoop,SoFi
+1334,PearZap,Yield
+4279,L2X.pro,Dexes
+1671,FairySwap V1,Dexes
+153,CoFiX,Dexes
+2195,Gravis Finance,Dexes
+166,TrueFi,Uncollateralized Lending
+4216,SwapBlast,Dexes
+3962,Cerra,Lending
+4180,Fixes frc20 Staking,Staking Pool
+1473,SportBet,Prediction Market
+5200,Amulet Finance,Synthetics
+4309,Frontrun Market,Services
+3175,IBCX,Indexes
+3240,Magician MV,Dexes
+601,Warp Protocol,Lending
+4760,EthosX,Derivatives
+1495,Zappy,Dexes
+2873,Neutroswap,Dexes
+4748,ZKX,Derivatives
+4166,Secta Finance V3,Dexes
+2218,AnimeSwap,Dexes
+3703,Chainchat,SoFi
+4443,eesee,Prediction Market
+634,Singular Farm,Yield
+1933,Timeless Finance,Yield
+2174,DexFinance BSC,Yield Aggregator
+2071,dAMM Finance,Uncollateralized Lending
+4240,Tonnel Network,Privacy
+2362,Hedgehog,Liquidity manager
+4050,FerdyFlip,Prediction Market
+5147,ElectroSwap V2,Dexes
+1432,PegaSys V2,Dexes
+2008,Forteswap,Dexes
+4059,AptosLaunch,Launchpad
+2817,Agility LSD,Indexes
+4661,LineHub V3,Dexes
+1204,BooFinance,Yield
+1134,DuckyDeFi,Dexes
+3440,KnightSwap Lending,Lending
+4432,Fathom Lending,Lending
+5119,PixelSwap (PIX),Dexes
+4445,Bevmswap,Dexes
+5464,Echo Liquid Staking,Liquid Staking
+1288,Mover,Yield
+2123,UniWswap AMM,Dexes
+4931,DuckGang,Farm
+660,Stryke SSOV,Options
+4341,Vine Money,CDP
+1365,ETHA Lend,Yield
+1528,Blindex,Algo-Stables
+1538,Risk Harbor,Insurance
+3654,VaporDex V2,Dexes
+1904,MMO Finance,NFT Lending
+4203,Cyberblast V3,Dexes
+3697,Alien Base Area51,Dexes
+1814,Option Dance,Options
+501,Robo-Vault,Yield
+2383,AmpleSwap,Dexes
+1691,HaloFi,Services
+342,CompliFi,Derivatives
+4013,BSwap Dex,Dexes
+2113,Wojak Finance,Dexes
+2409,Panda Chef,Farm
+4601,VanillaSwap V3,Dexes
+1575,Penguin,Dexes
+1080,XUSD Money,Algo-Stables
+985,Mobius Finance,Synthetics
+4034,CoinCollect,Dexes
+495,HFIone,Yield
+4459,Zebra Protocol,CDP
+4239,Blume,Lending
+2064,RociFi V1,Lending
+734,OpenSwap,Dexes
+3210,Arcadia V1,Leveraged Farming
+1903,Vovo Finance,Yield
+1226,Oin Finance,Algo-Stables
+2048,Eversol,Liquid Staking
+4121,TezFin,Lending
+323,Fluity,CDP
+3509,Nether.Fi,Derivatives
+428,DinoSwap,Dexes
+3595,Iotabee,Dexes
+5037,NeftyBlocks,NFT Marketplace
+1706,Vortex Protocol,Dexes
+3324,Predy V5,Derivatives
+2927,ZooDAO,Yield
+1349,Degen Haus,Dexes
+4311,Molend,Lending
+719,Universe Finance,Liquidity manager
+1515,Echidna Finance,Yield
+3839,Ionise,Lending
+1873,Torches,Lending
+1532,MetalX Lending,Lending
+3172,Concordex,Dexes
+4657,NxFi Protocol,Lending
+1674,Lemuria Finance,Yield Aggregator
+4041,Horiza,Dexes
+2067,OpenSky Finance,NFT Lending
+4575,ChilizSwap,Dexes
+1759,SpaceFi Evmos,Dexes
+3917,Stablecomp,Yield Aggregator
+413,Spectrum Protocol,Yield
+2818,Tonpound,Lending
+4623,VeryLongSwap Farm,Farm
+1811,Spice Trade,Algo-Stables
+979,PartySwap,Dexes
+1436,SpectreFi,Farm
+754,BossSwap,Dexes
+1287,Crafting Finance,Synthetics
+725,BiShares,Indexes
+3120,Orbiter One,Lending
+1382,Waterfall BSC,Yield
+237,Swipe,Dexes
+3582,ChainGPT,Launchpad
+1858,Fringe V1,Lending
+5081,Kujata,Dexes
+1152,RobiniaSwap,Dexes
+1491,RelayChain,Bridge
+4516,Bountive,Yield
+478,Yapeswap,Dexes
+3249,The Ennead Farm,Yield
+4092,3A DAO,CDP
+1657,Predy V3.2,Derivatives
+741,Vaulty Finance,Yield
+481,SonicSwap,Dexes
+2751,LFGSwap Arbitrum,Dexes
+3068,Raft,CDP
+685,Tesseract,Yield
+615,BNBMiner Finance,Ponzi
+1780,Coslend,Lending
+1856,Fractal Protocol,Yield
+4314,BridgeM,Bridge
+1465,PRISM Protocol,Yield
+3526,RexDex,Dexes
+3650,DX25,Dexes
+2793,zkMoonSwap,Dexes
+2563,Lif3 Trade,Derivatives
+733,Stabilize,CDP
+510,Gaj Finance,Yield
+2549,POISON FINANCE,Synthetics
+2339,Lodestar V0,Lending
+5255,Bagful,Yield Aggregator
+1292,Radial,Yield
+3382,Throne V3,Dexes
+1445,Aelin,Services
+1071,Polkamarkets,Prediction Market
+3978,Interlay Dex,Dexes
+3704,Match Finance,Yield Aggregator
+757,Brahma Vaults (Sunset),Yield
+3151,TiTi Protocol,Algo-Stables
+566,MacaronSwap,Dexes
+878,Unilend V1,Lending
+1845,OrbitalSwap,Dexes
+552,SeaDex,Dexes
+809,PolyYeld Finance,Yield
+3812,Coupon Finance,Lending
+3217,Coinscope,Services
+3166,Veplus,Dexes
+4965,Ethereum Classic Stable Dollar,Decentralized Stablecoin
+4764,Clober V2,Dexes
+3252,ReHold V2,Yield
+4137,Seneca,CDP
+4318,LiquiX,Liquidity manager
+3776,Ducky City SOFI,SoFi
+5300,Loxodrome Perp,Derivatives
+2000,FRAKT,NFT Lending
+686,Yel Finance,Yield
+3718,Accumulator,Yield Aggregator
+786,Bagels Finance,Yield
+3689,SongTech,SoFi
+3928,JIBSWAP,Dexes
+437,Guard-Helmet,Insurance
+3733,Chat3,SoFi
+2614,Grappa Finance,Options
+479,Shiba Fantom,Dexes
+4382,Increment Protocol,Derivatives
+4914,Valoro,Indexes
+2912,Onsen Swap,Dexes
+3425,Scallop Pool,Yield
+3462,MVCSwap,Dexes
+5067,HaloTrade EVM,Dexes
+4894,Crust V2,Dexes
+4717,Joltify Lend,Lending
+5298,Rabbit Swap,Dexes
+718,Alium Swap,Dexes
+2125,PoWSwap,Dexes
+4387,Zoro Protocol,Lending
+2646,RociFi V2,Lending
+1912,OortSwap,Dexes
+3477,Alternity,CDP
+2106,HopSwap,Dexes
+2805,stake.link index,Indexes
+3750,Metavault V3,Dexes
+803,Ottopia,Yield
+1875,Atlendis V1,Uncollateralized Lending
+1200,Tenet,Yield
+586,Tidal Finance,Insurance
+4888,SparkDEX V3,Dexes
+3937,1155Tech,NFT Marketplace
+887,SwapperChan,Dexes
+1429,GoodDollar,Yield
+1832,Lachain Yield Market,Yield
+3325,Gambit Trade,Derivatives
+3432,Vooi V1 (Deprecated),Dexes
+1970,Cone,Dexes
+1801,Metavault.Trade,Derivatives
+3940,Archly V2,Dexes
+3673,Nata Network,Privacy
+580,SashimiSwap,Dexes
+1631,Onyx Protocol,Lending
+5378,Ocelex V1,Dexes
+371,KokomoSwap,Dexes
+1639,Hodltree,Lending
+2669,UWU Protocol,CDP
+369,YFDAI,Services
+2552,LaDAO Xocolatl,CDP
+2808,Whitehole Finance,Lending
+4833,Influpia,Dexes
+1893,MIND Games,Dexes
+1347,YieldFields,Dexes
+4684,TaikoSwap,Dexes
+1719,ADAO,Yield
+2871,Kimberlite,Yield
+1890,Algodex,Dexes
+3674,Atrofarm,Farm
+3856,PeerMe,Services
+1444,Vesta Finance,CDP
+384,Firebird,DEX Aggregator
+4425,Fathom Vault,Yield
+3513,CavalRe,Dexes
+4948,Gluon Gold,Algo-Stables
+526,Zabu Finance,Yield Aggregator
+623,Composable Finance,Cross Chain
+898,BeGlobal Finance,Dexes
+1837,VAX,Dexes
+1149,Koala Defi,Farm
+4402,SavmDEX,Dexes
+3656,Words.art,SoFi
+1637,BlueBit,Yield Aggregator
+3080,GaloSwap,Dexes
+3758,Goku Money,CDP
+2300,STRX Finance,Liquid Staking
+3736,Mirakle Defi,Derivatives
+1179,ExinSwap,Dexes
+2265,Bank of Chain,Yield Aggregator
+1636,Bolide,Yield Aggregator
+995,Drops,NFT Lending
+2267,Kava Boost,Farm
+3047,BaySwap,Dexes
+4300,HyperBlast,Dexes
+3726,Equation V1,Derivatives
+5197,MovePump,Launchpad
+2898,LionDEX,Derivatives
+2009,H2Odata,CDP
+1620,Amaterasu Finance,Dexes
+330,Aquarius,CDP
+3000,FlashLiquidity,Dexes
+2068,Powaa Protocol,Services
+666,OrcaDAO,Lending
+415,NAOS Finance,RWA
+4231,Gas404Swap,Dexes
+2411,BAO Baskets,Leveraged Farming
+4941,UFarm Digital,Yield Aggregator
+1123,Salem Finance,Yield
+4130,Blueprint,Dexes
+996,OCP Finance,Lending
+1008,Soy Finance,Dexes
+1477,Edge Protocol,Lending
+684,Hpdex,Dexes
+3766,T2T2,SoFi
+2006,JioSwap,Dexes
+2140,SWFT,Bridge
+3729,B2B,Algo-Stables
+1286,OmniDex Swap,Dexes
+2712,prePO,Derivatives
+3796,Ura Dex,Dexes
+1673,Hydradex V2,Dexes
+2942,CroSwap,Dexes
+5443,BigPump,Launchpad
+3605,BLEX,Derivatives
+2434,MYSO V1,Lending
+2556,Subzero ZSwap,Dexes
+3276,DogeDollar,Decentralized Stablecoin
+960,1BCH,Dexes
+2449,Commodo,Lending
+4719,Physica Finance,Dexes
+2022,MetaStreet V1,Lending
+651,CHFRY Finance,Lending
+4733,wen markets,Launchpad
+4647,Grace,Lending
+3051,Cryptex V2,Derivatives
+4177,MantaDEX,Dexes
+2757,Glacier Exchange V2,Dexes
+3651,Loanshark Core,Lending
+4561,Ebisu Finance,CDP
+3150,ClaimSwap V2,Dexes
+486,unFederalReserve,Lending
+3504,Amphora,Lending
+1969,Huckleberry Lending,Lending
+3073,Predy V2,Derivatives
+4625,Pump Markets,Services
+2731,Swapline V1,Dexes
+1582,Aperture LM,Liquidity manager
+554,StormSwap,Yield
+989,KryptoDex,Dexes
+3808,toupee.tech,Yield
+4511,Pay Protocol,Payments
+2031,TiFi,Dexes
+4949,PredX Ai,Prediction Market
+4528,Seismic,Lending
+1039,Mercurity,Dexes
+1761,OliveDAO,Yield
+677,BorgSwap,Yield
+1676,0xLend,Lending
+1854,Phoenix DEX,Dexes
+877,DungeonSwap,Yield
+1781,SteakHut,Farm
+3278,Whale Game,Prediction Market
+3407,Fuzio,Dexes
+910,Golff Protocol,Yield
+1211,ThorusFi,Dexes
+1655,Versa Finance,Dexes
+1783,Ladex Exchange,Dexes
+1130,Buffaloswap,Yield
+3996,CommuDAO GameSwap,Dexes
+3126,PairEx,Derivatives
+1994,DogMoney,Dexes
+5440,NFA Zone,Launchpad
+5369,reddex,Dexes
+1150,WraithSwap,Dexes
+1978,Bourbon Defi,Dexes
+2978,ProtossDex,Dexes
+2253,MetaTdex,Dexes
+1342,Croblanc,Yield
+880,MarshmallowDeFi,Yield
+1370,Symblox,Synthetics
+2846,SoliSnek Finance,Dexes
+1822,MyTrade,Dexes
+4201,BlastDEX,Dexes
+1887,Avault,Yield Aggregator
+4900,Wonton,Launchpad
+4781,NetWeave Lending,Lending
+3076,Minerva,Derivatives
+1322,Alligator,Dexes
+5109,Dough Finance,Lending
+1610,Pegasusdollar,Algo-Stables
+4686,Henjin DEX,Dexes
+3464,SharesGram,SoFi
+2811,Forge SX Ovens,Synthetics
+1787,Diamond Protocol V1,Yield
+4911,Akronswap,Dexes
+2761,Hector Lending,Lending
+619,Vee Finance,Lending
+883,SmartDEX,Dexes
+3844,zkUSD,CDP
+1621,Astar Exchange V2,Dexes
+5180,Onyx V2,Lending
+4960,Nearlend DAO,Lending
+997,Piggy,CDP
+3380,Baso Finance,Dexes
+4315,Megalon,Dexes
+947,PolyShield,Yield
+3546,CoinEx,CEX
+2510,DAM Finance,CDP
+3532,Manga FI,Yield
+2488,DPEX,Derivatives
+390,Qilin,Dexes
+2458,Unlockd V1,Lending
+4298,ZKEX,Dexes
+4716,DTX Dex,Dexes
+197,Ooki,Lending
+4666,Gast,Dexes
+4117,SupSwap V2,Dexes
+1049,Globiance,Dexes
+2860,MM Finance Arbitrum V3,Dexes
+1742,Kinesis Labs,Dexes
+1555,Darkness,Dexes
+5034,OpenWorld Farm,Leveraged Farming
+2560,Diamond Protocol V2,Liquidity manager
+181,MANTRA DAO,Lending
+411,Pippi,Dexes
+2406,Tegro Finance,Dexes
+433,DAOventures,Yield
+2045,forlend,Lending
+4761,ChadFinance,Dexes
+3036,FXDX,Derivatives
+4342,WarpGate,Dexes
+4097,ZedaSwap,Dexes
+4870,Satoshi DEX,Dexes
+4765,ASA.Gold,RWA
+482,Shibance,Dexes
+2869,Parallax,Yield Aggregator
+3272,Dracula Finance,Dexes
+2587,ArbiSwap,Dexes
+3229,Mare Finance V2,Lending
+2419,UniWswap UNIA Farms,Farm
+3752,Stars League,SoFi
+5263,ZenoLend,Lending
+2317,Archly V1,Dexes
+2329,HoustonSwap,Dexes
+683,GoSwap,Dexes
+4887,SparkDEX V2,Dexes
+3266,ShibShift,Dexes
+2991,ShrikePerps,Derivatives
+3931,Symmetry Trade,Derivatives
+4358,Dego Finance,Services
+787,Squid Stake,Yield
+567,Newland,Yield
+2773,Auragi Finance,Dexes
+2426,SugarSwap,Dexes
+4155,ApeBond Staking,Farm
+740,Elephantdex,Dexes
+2968,GND Protocol,Yield
+1777,Pandora,Dexes
+1752,Yelay V1,Yield Aggregator
+3695,Coffee Dex,Dexes
+5024,Double,Yield
+4065,iLend V1,Lending
+948,MonoX,Dexes
+2903,Swaprum,Dexes
+1160,Baker Guild,Yield
+444,PolyDEX-Cryption Network,Dexes
+2632,LendeXe Finance,Lending
+531,Kuu Finance,Dexes
+3631,Overnight ETH+,CDP
+4697,Prixmswap,Dexes
+1705,PinkPea Finance,Yield Aggregator
+4983,Flap sh,Launchpad
+2058,SweetSwap,Dexes
+1600,Greenhouse,Dexes
+3350,Pulsar Money,Payments
+1795,Gin Finance,Dexes
+2621,Sterling Finance,Dexes
+1489,DolphinSwap,Dexes
+4883,Kawa Finance,Lending
+4578,Limitless,Derivatives
+2513,Liquid Bolt,Yield
+646,UniFi,Dexes
+1386,Soluna,Yield
+1063,Embr Finance,Dexes
+1197,Sentre,Dexes
+4230,GhostEx,Dexes
+3457,Shibex,Dexes
+3613,Scroll Swap,Dexes
+4492,Ciento Exchange,Dexes
+3015,Interest Protocol-SUI,Dexes
+5052,Asteroneo,Dexes
+1579,BeefStake,Yield
+1798,TFM,Dexes
+3662,ZKSynth,Synthetics
+2865,Moonbase Alpha,Dexes
+1144,Banksy Farm,Yield
+3655,Simps,SoFi
+1633,BencuFi,Lending
+2606,Lockless Protocol,Liquid Staking
+2021,Router Protocol,Cross Chain
+1915,Nava finance,Algo-Stables
+3330,Velocore V2,Dexes
+2642,Pulsar Swap,Dexes
+3757,TagDotTech,SoFi
+1638,DDDX,Dexes
+1293,Manhattan,Yield
+2660,Spin Perps,Derivatives
+5387,TCV Platform,Liquidity manager
+5084,Lucidly Finance,Yield
+3668,Zebra V1,Dexes
+2485,HiveSwap V2,Dexes
+584,1Swap,Dexes
+4074,Equation V2,Derivatives
+4930,SpaceWhale,Derivatives
+446,MiningTycoon,Gaming
+361,Whiteheart,Options
+2347,RBX,Dexes
+3135,GPLX,Derivatives
+5100,LemonX,Derivatives
+2624,MyMetaTrader,Derivatives
+3769,REYIELD Finance,Liquidity manager
+3897,Astrolescent,Dexes
+986,ArbiRise Finance,Yield
+2957,Seashell,Yield
+2577,Sharky Swap,Dexes
+378,MakiSwap,Dexes
+3735,Baki,CDP
+3756,Sanko GameCorp,SoFi
+2082,Symphony Finance,Dexes
+3709,Frensly,SoFi
+2042,CantoSwap,Dexes
+3034,EazySwap,Dexes
+2475,AdaSwap,Dexes
+5082,Asteria Finance,Dexes
+2441,Black Whale,Yield
+236,Perlin,Dexes
+2217,Y2R,Yield Aggregator
+4143,SOBAX,Derivatives
+4408,Frogswap AMM,Dexes
+3416,Knight DEX,Dexes
+2495,UNO farm,Yield Aggregator
+1934,ETCswap V2,Dexes
+3677,Sdex,Dexes
+263,QIAN,Synthetics
+4024,TropicalSwap,Dexes
+2474,Obric,Dexes
+4105,Anzen V1,RWA
+4219,GasSwap,Dexes
+335,Flashstake OLD,Yield
+1696,Cronus Finance,Dexes
+2902,DAMX,Derivatives
+3201,ChirpFinance,Farm
+872,Skeleton Finance,Yield
+1221,Argano,Synthetics
+3101,Athena Finance,Yield
+336,Sifchain,Dexes
+5270,WorldEs,RWA
+2065,Chocodoge,Algo-Stables
+550,FreeRiver,Dexes
+3597,ZeroLiquid,Synthetics
+3183,Ghast Protocol,Yield Aggregator
+5134,VaultWin,Gaming
+4415,DengenDex,Dexes
+1324,FuryLabs Finance,Farm
+2640,Ruby.Exchange Stable,Dexes
+3281,Pika V4,Derivatives
+5445,Nexton,Basis Trading
+4101,Omnipool,Liquid Staking
+2499,Eternal Finance,Yield
+2601,Shoebill V1,Lending
+2859,Bonsai Strike,Options Vault
+737,Dino.Exchange,Dexes
+2853,EOSWAP Finance,Dexes
+1604,Antex,Launchpad
+4119,Omnidrome,Dexes
+1874,Lending Pond,Lending
+1311,Moremoney,Lending
+1060,Entropyfi,Prediction Market
+1668,Milkydex,Dexes
+3122,MonoLend,Lending
+5352,Spark Finance,Dexes
+3254,MantleSwap,Dexes
+2003,Fruits of Ryoshi,Farm
+2126,Redemption,Dexes
+4269,Moraswap V3,Dexes
+1561,Pear DAO,Services
+2851,Arbswap StableSwap,Dexes
+1129,BlackBird Finance,Yield
+841,SWAPP,Dexes
+3263,Crust V1,Dexes
+675,Dark Matter,Farm
+4498,SwapBlast V3,Dexes
+3529,DIP Exchange,Derivatives
+1652,Neuronswap,Dexes
+2130,Brainiac Finance,Lending
+2438,Zeniq Swap,Dexes
+3576,GammaSwap Classic,Derivatives
+1400,Lizard,Dexes
+3493,FriendRoom,SoFi
+3713,Touch.fan,SoFi
+3585,TangleSwap,Dexes
+2046,BNPL Pay,Lending
+1000,Brinc Finance,Yield
+2841,Rodeo,Yield
+3480,Based Farm,Algo-Stables
+3413,FourDex,Dexes
+4715,Mantra Protocol,NFT Lending
+1116,VultureSwap,Dexes
+701,Behodler,Dexes
+4985,DiviSwap,Dexes
+1151,The Seed Farm,Yield
+2015,MM Stableswap Polygon,Dexes
+2037,SpiritSwap Lending,Lending
+4706,Dunes,Liquid Restaking
+2336,EsdtMarket,Dexes
+2051,Logium,Derivatives
+4172,Satori Spots,Dexes
+3907,Ryze.Fi,Derivatives
+1607,Milko Farm,Farm
+1242,SleepEarn Finance,Yield
+3012,DynastySwap,Dexes
+2541,Clober V1,Dexes
+3471,StableBase,Dexes
+3369,Bounce Finance,Launchpad
+1022,Hermes Defi,Yield
+2247,Animal Farm V2,Yield
+3219,zk-Swap,Dexes
+2768,LSDx Farm,Farm
+4631,Viridian Exchange,Dexes
+594,Defirex,Yield
+4317,Envelop,NftFi
+2248,Sculptor Finance,Lending
+312,Stacker Ventures,Yield
+4835,Stip Flip,Synthetics
+2087,Chee Finance,Lending
+2703,Phenix DEX,Dexes
+539,Carbon Finance,Farm
+1358,Kassandra DAO,Indexes
+3386,Meridian Trade,Derivatives
+2568,Garbi Protocol,Yield
+834,BSCStation,Dexes
+3873,BrewSwap,Dexes
+2596,BeamSwap Stable AMM,Dexes
+3653,Mellow,SoFi
+3892,Detto Finance,Farm
+4785,Lovely Swap,Dexes
+5168,Club Stablecoin,CDP
+4533,Salty.IO,Dexes
+3771,PattieSwap,Dexes
+892,SmolSwap,Dexes
+4173,Satsat,Farm
+850,Polyroll,Yield
+1019,OpenDAO,Algo-Stables
+3223,Tendie Swap,Dexes
+2538,Parcl V2,Synthetics
+4713,Earlyfans,SoFi
+3078,MagicFox Vaults,Yield
+4241,Lava,Lending
+1408,Drachma,Dexes
+1693,Unbanked,Yield Aggregator
+2175,GooseFX,Dexes
+1007,SafeSwap,Dexes
+3557,Starksport,Dexes
+439,The Grand Banks,Yield
+3452,CygnusDAO,Lending
+1319,Moneyrain Finance,Yield
+4671,Sailing Portfolios,RWA
+3056,Y2K V2,Derivatives
+1831,VITCSwap,Dexes
+1632,SMBSwap V2,Dexes
+2762,zkEVMSwap,Dexes
+893,RetroDefi,Yield
+2701,FairySwap V2,Dexes
+2093,ScarySwap,Dexes
+884,CorgiSwap,Dexes
+3045,Astaria V1,NFT Lending
+2550,VeniceSwap,Dexes
+559,Dapp Account DAO,Yield
+1389,Polyquail,Yield
+2953,Zenith,Leveraged Farming
+1206,WagmiDAO,Reserve Currency
+1443,OneRing V1,Yield
+4830,Kayak V2,Dexes
+3289,JewelSwap NFT Lending,NFT Lending
+4750,BBQSwap,Dexes
+1467,Farmtom,Yield
+4419,C14,Lending
+1234,Agile Finance,Lending
+4876,Fixes Launchpad,Launchpad
+5285,SuiMarket,Prediction Market
+4739,Q Infinity,Farm
+1702,AGS Finance,Dexes
+2410,BAO Markets,Lending
+4551,Atlendis V2,RWA Lending
+2523,casinocronos,Dexes
+2060,FNDZ,Dexes
+722,Summit Defi,Yield
+1236,Waterfall Finance Yield,Yield
+4233,Rawr Trade,Dexes
+1651,Oaswap,Dexes
+4660,LineHub V2,Dexes
+1919,ElasticSwap,Dexes
+553,Annex,Lending
+643,Geist Finance,Lending
+5167,BabyBoom,Launchpad
+689,Kalata,Synthetics
+976,WingSwap,Dexes
+1141,Avalps,Reserve Currency
+2815,Holdr,Dexes
+792,Pinyottas,NFT Marketplace
+969,DeHive,Indexes
+4545,XRGB,Bridge
+4268,Clone Protocol,Dexes
+4462,Zero-G Finance,Liquid Restaking
+1126,LemonSwap,Yield
+2161,PowerSwap,Dexes
+865,Seeder Finance,Yield
+3615,DeeppDAO,Prediction Market
+5058,ModeMax Perps,Derivatives
+2056,Unknown,Yield
+2283,3xcalibur,Dexes
+3085,UrDEX Finance,Derivatives
+2547,Archimedes Finance,Leveraged Farming
+2693,PonySwap,Dexes
+4491,TonsOfFriends,SoFi
+4068,BaseX Finance,Dexes
+2144,DarkSwap,Dexes
+3203,Surge,Lending
+4134,Ajira Pay Finance V2,Payments
+4291,U235,Lending
+1716,North Pole,CDP
+4683,DaikoDEX,Dexes
+1750,CryptoSwap,Dexes
+662,Artemis Protocol,Yield
+4504,Rebalance Finance,Lending
+4527,Neptunex,Dexes
+2629,Unamano,Yield
+1096,PureFi,Yield
+1375,Animal Farm V1,Farm
+5444,Sacra,Gaming
+3428,Intswap,NFT Marketplace
+3574,Arcanum,Derivatives
+3401,SeaSwap,Dexes
+1754,CatsLuck,Prediction Market
+2245,Starfish Finance,Dexes
+4073,Xenwave,Dexes
+5004,WaxDAO,Services
+4254,Chromatic Protocol,Derivatives
+3755,Hot Takes,SoFi
+5459,Duality,Dexes
+818,CashCow Protocol,Yield
+3684,JamFrens,SoFi
+523,CryptoYieldFocus,Farm
+822,FantomPup,Yield
+871,MintSwap,Farm
+3021,MFIL Protocol,Liquid Staking
+3370,Sweep n Flip,NFT Marketplace
+3125,Fuji V2,Lending
+2348,InfiniTORR,Dexes
+920,Raven,Yield
+4982,Crack & Stack,Gaming
+2722,Metavisor,Liquidity manager
+2459,Neutra Finance,Yield
+3760,Drawtech,SoFi
+2430,Waterfall DEX,Dexes
+1069,OptiNyan,Yield
+1973,Prophet,Prediction Market
+3635,Money Mates,SoFi
+2075,DogeMuskSwap,Dexes
+4310,Dradex,Dexes
+923,LeonicornSwap,Dexes
+796,Draco Force,Yield Aggregator
+1971,MM Stableswap,Dexes
+3583,Ancora Finance,Dexes
+1163,Trick or Treat Farm,Farm
+4209,MonoSwap V2,Dexes
+2584,Velocimeter V1,Dexes
+800,ZigZag,Dexes
+1721,KronosDAO,Reserve Currency
+1372,Superman Swap,Yield Aggregator
+3058,Tropykus zkEVM,Lending
+745,Atlantis Loans,Lending
+2686,Factor V1,Indexes
+4912,Follows,SoFi
+3700,CSWAP DEX,Dexes
+4780,Tivel Finance,Options
+2715,OnyxDAO,Farm
+3852,Fuzion Plasma,Services
+4340,DegenDex,Dexes
+4897,Superhero DEX,Dexes
+2915,Tonic Cash,Privacy
+3792,Voodoo Trade Base,Derivatives
+3074,Predy V3,Derivatives
+1884,WhaleSwap,Dexes
+1193,OBSwap,Dexes
+2321,2Pi Network,Yield
+1413,Savanna Finance,Algo-Stables
+3514,VMEX Finance,Lending
+890,Oh Finance,Yield
+2059,Goat Swap,Dexes
+1499,Lavafall,Yield
+3679,Phase,CDP
+899,Kimochi,Services
+1618,DeltaTheta,Options
+5141,DTX Dex V3,Dexes
+635,Blizzard,Yield
+1982,XCarnival,NFT Lending
+4680,iSwap Tech,Dexes
+3390,CookieBase Farm,Farm
+4171,Poseidollar,Algo-Stables
+3446,Alien Base StableSwap,Dexes
+723,Potluck Protocol,Farm
+3836,Chimp Exchange,Dexes
+4675,Rollspace,Prediction Market
+3304,Ammos Finance,Dexes
+1580,LowcostSwap,Yield
+5348,Memeta,Launchpad
+1868,Surfswap Classic,Dexes
+3974,Venuswap,Dexes
+2401,Syrup Finance,Derivatives
+1328,Astral Farm,Farm
+1703,Yumiswap,Dexes
+4942,Blend Finance,Lending
+1725,Pegasus Finance,Derivatives
+3581,Glacier Exchange V3,Dexes
+5185,Meme Cooking,Launchpad
+1038,FireDAO,Yield
+5102,MuggleLink,Services
+1737,EmberSwap,Dexes
+1090,Spicy DAO,Reserve Currency
+3159,Litx,Dexes
+1135,Meowswap,Yield
+1533,LIFE,Farm
+3919,SpinaqDex,Dexes
+2039,Phission Finance,Derivatives
+2530,ZyberSwap Stableswap,Dexes
+2756,Sharpe Magnum,Yield
+1363,Oni Exchange,Dexes
+3441,Autotronic,Dexes
+2303,Revert V3 Staker,Liquidity manager
+4554,Dirac Finance,Options Vault
+2557,Nexter,Prediction Market
+4485,Qrolli,SoFi
+837,ArenaSwap,Dexes
+5057,ModeMax AMM,Dexes
+3460,Woof Finance,Dexes
+1075,SpiritDAO,Reserve Currency
+4823,TachySwap,Dexes
+5220,MetaHub Finance,Farm
+2710,BaptSwap V1,Dexes
+3192,Protectorate Protocol,Yield Aggregator
+2315,InVar Finance,RWA
+1560,ClaySwap,Farm
+1366,Hotfriescoin,Reserve Currency
+3353,Mooncake Finance,Lending
+3671,Papyrus Swap,Dexes
+4066,Minu,Farm
+3821,Particles Money,Algo-Stables
+4805,TaiDog,Yield
+1630,YieldHub Finance,Yield Aggregator
+957,Flame DeFi,Yield
+3552,MantaSwap,Dexes
+485,TendieSwap,Dexes
+4099,ModeSwap,Dexes
+1490,Demodyfi,Dexes
+3669,Anon Social,SoFi
+4659,Unlockd V2,Lending
+2779,ZenithSwap,Dexes
+2176,Arctic,Dexes
+1399,Fastyield Finance,Yield Aggregator
+1268,Cronofi Finance,Yield
+1122,GrassLand Finance,Yield
+3512,CairoFi,Dexes
+2720,Satin Exchange,Dexes
+2814,SpaceDex,Derivatives
+3003,OmniDex Perpetuals,Derivatives
+1585,Scion Finance,Yield Aggregator
+1913,TrustSwap,Token Locker
+2354,Gamut Exchange,Dexes
+2109,PYEswap,Dexes
+1359,CapitalDEX,Dexes
+2103,Orbit,Services
+1329,Spiral Finance,Yield Aggregator
+1472,Electrik Finance,Yield Aggregator
+1131,Cyber Dog,Yield
+4361,BetFolio,Prediction Market
+264,Robo-Advisor for Yield,Yield
+640,KingDefi,Yield
+1216,Farm Hero,Gaming
+727,ScareCrow Finance,Yield
+3429,YFX,Derivatives
+4163,ROUP,Bridge
+1024,DefySwap,Dexes
+1394,MyMine,Yield
+1810,Zinax DAO,Farm
+656,Sapphire Defi,Yield
+3364,Themis-lsdFil,Liquid Staking
+2840,Collection.xyz,NFT Marketplace
+2791,TrainSwap,Dexes
+1099,Ara Finance,Reserve Currency
+4484,Plur,SoFi
+3028,Auto Core,Yield Aggregator
+2177,Fortress Loans,Lending
+649,SwapMatic,Dexes
+1222,Photon Protocol,Reserve Currency
+3420,Energon DEX,Dexes
+1656,FunBeast,Dexes
+1264,SmartDEXBCH,Dexes
+2730,Covo V2,Derivatives
+3482,ComfySwap,Dexes
+2821,Hamburger Finance,Dexes
+846,KLend,Lending
+3275,DBX Finance,Dexes
+702,Coffin Finance,Algo-Stables
+2649,CoreSwap,Dexes
+1556,Terra Bridge,Bridge
+1381,Bright Union,Insurance
+3222,Tenx,Dexes
+2057,ElonSwap,Dexes
+931,Genesis Finance,Dexes
+2122,HipPoWSwap,Dexes
+4330,Hakura Protocol,Lending
+2935,SynthEx,Synthetics
+1529,Gamblefi,Reserve Currency
+2812,Forge SX Trade,Dexes
+380,LendHub,Lending
+710,Squid-Defi,Farm
+222,DeFiner,Lending
+1859,AuraSwap,Dexes
+2801,Spoon Exchange,Dexes
+1259,Pillar,Algo-Stables
+2044,Juggler Red,Dexes
+3258,Narwhal Finance,Derivatives
+5186,Metavault AMM V2,Dexes
+1766,Koyo Finance,Dexes
+5393,Beetroot Finance,Yield Aggregator
+2124,PowSea,Dexes
+3315,CrescentSwap,Dexes
+1612,Concave,Services
+1496,Grave Finance,Algo-Stables
+1731,HonkSwap,Dexes
+3639,RoseonX,Derivatives
+819,Helios Prime,Indexes
+4645,NovaSwap V1,Dexes
+3195,leNFT,NFT Marketplace
+3232,YieldPulse Finance,Farm
+574,Fuzz Finance,Dexes
+2431,BrightSide,Dexes
+2018,AutoBark,Yield Aggregator
+1442,Kyrios Finance,Yield
+3001,Astra DAO,Indexes
+2870,JLSwap,Dexes
+2492,Monolith,Yield Aggregator
+3375,EDEBASE,Derivatives
+2599,Moret,Options
+4185,iLend V2,Lending
+2790,Illuminate,Lending
+3506,Dalmatian,Dexes
+1926,Octane Finance,Dexes
+3590,Mauve,Dexes
+4202,Cyberblast V2,Dexes
+1797,Stronghands,Dexes
+3832,LendLord,Lending
+1127,Zeus Finance,Yield
+3701,Chiliswap,Dexes
+3815,Basemax,Derivatives
+1072,IFSwap,Dexes
+3628,KeySea,SoFi
+592,Defi Yield Protocol,Yield
+3660,Sanctuary,Dexes
+2391,Garble.Money,Privacy
+2107,MoonLift,Dexes
+3533,Kinetix AMM V2,Dexes
+2545,Bank of Cronos Loans,Lending
+5047,Kayak V3,Dexes
+5314,Quenta,Derivatives
+3410,BAS3D,Yield Aggregator
+2680,Kivach,Payments
+2895,SMBSwap V3,Dexes
+3632,Quillswap,Dexes
+855,Risq Protocol,Options
+3867,Ascent Exchange V1,Dexes
+5436,Wagmi Memepad,Launchpad
+3062,MagicFox Swap,Dexes
+3431,Synthswap Perps,Derivatives
+1180,Liquidrium,Yield
+1710,Fenrir Finance,Lending
+5419,DegenHive AMM,Dexes
+2160,SuperBots,Yield Aggregator
+3625,Nano Swap,Dexes
+902,HSwap,Dexes
+530,Avaware,Yield
+2799,Monopoly Finance,Farm
+808,Swift Finance,Yield
+2173,Quickswap Lend,Lending
+3889,YieldLend,Lending
+5095,Perfect Pool,Prediction Market
+3834,Definitely,SoFi
+3725,BWSWAP,Dexes
+3411,PixelSwap,Dexes
+4508,StationDEX V3,Dexes
+4970,Balus,SoFi
+1218,Sierra,Reserve Currency
+3089,Heraswap,Dexes
+1337,ViveLaBouje,Yield
+4023,INU FAIR,Dexes
+5256,OxiSwap,Dexes
+1643,ChampagneSwap,Dexes
+857,AliensFarm,Dexes
+1114,PirateDAO,Reserve Currency
+1133,Ice Colony,Yield
+2878,Avatr,Yield
+1877,Fusion Dex,Dexes
+3010,zkSwap Era,Dexes
+3055,Unlimited Network,Derivatives
+3124,BOB CDP,CDP
+1043,SunflowerSwap,Farm
+3541,SandySwap,Dexes
+2943,SageBet,Prediction Market
+1077,Bring.Finance,Yield
+5240,Micro Credit Project,Uncollateralized Lending
+742,Furucombo,Services
+1182,ChargeDeFi,Algo-Stables
+2872,printyfinance,Dexes
+938,BitANT,Yield
+5442,NGMI Zone,Prediction Market
+3211,Radiate Protocol,Yield
+3604,ZenDEX,CDP
+4064,Biokript,Dexes
+3100,CoinDrip,Payments
+3556,AllInXSwap,Dexes
+2857,Frogge.Finance,Dexes
+1376,Sahara Exchange,Dexes
+3310,Yogurt Finance,Farm
+1233,Creditum,Algo-Stables
+3334,Galador,Dexes
+1567,LuckyChip,Prediction Market
+3616,Scrollswap Finance,Dexes
+1695,Spectrumswap,Farm
+1623,TroyDefi,Farm
+1954,Metapoly,Lending
+2094,BoneSwap,Farm
+3957,YIEDL Vaults,Indexes
+1479,Phantom Finance,Farm
+1562,PanKUKU,Dexes
+416,WeStarter,Launchpad
+1344,FATFIRE DEFI,Yield
+3185,Jet Fixed Term,Lending
+4044,JIBLEND,Lending
+914,VampireSwap,Dexes
+5423,Hydrometer Finance,Dexes
+2688,Palma Swap,Dexes
+1355,Knights of Fantom,Farm
+4100,Pike,Lending
+1112,Asgard Dao,Reserve Currency
+4186,Standard Protocol Mode,Dexes
+1417,GemMine,Yield
+2214,BridgeKek,Bridge
+3492,Hodlify,Yield Aggregator
+1484,BastilleDeLaBouje,Yield
+638,Meso Finance Fantom Farm,Yield
+2645,SkullSwap V3,Dexes
+4156,Pythagorean,Dexes
+1741,Starbank,Dexes
+3313,Openworld Perps,Derivatives
+687,JaguarSwap,Yield
+1606,Mockingbird,Farm
+1908,OpenBiSea,Dexes
+3433,Bagelswap,Dexes
+1406,Cupid Farm,Yield
+1536,JetMine DAO,Yield
+1042,Solana Farm,Dexes
+2330,Bitlend,Lending
+1092,AfraSwap,Dexes
+3084,L2FINANCE,Lending
+2450,BullionFX,Dexes
+4326,Cadence Protocol,Derivatives
+2794,ko.one,Dexes
+4388,Keller Finance V2,Dexes
+3600,CockFights Game,Gaming
+2097,Doge Compounder,Yield Aggregator
+4416,Frogswap Farm,Farm
+2628,Just Yield,Yield Aggregator
+4493,Lama Miner,Ponzi
+4170,DELTAFi,Synthetics
+4807,Nyke Finance,Lending
+1132,Genesys,Yield
+2360,MahaLend,Lending
+1698,Pandora Swap,Dexes
+1448,White Whale Vaults,Yield
+3419,MobyDEX,Dexes
+823,TomoFinance,CDP
+2854,MetaSwap,Dexes
+3461,Basin DAO,CDP
+2884,Zolidly Finance,Dexes
+4047,ZKFairSwap,Dexes
+2256,OPX Finance,Derivatives
+5420,DegenHive LST,Liquid Staking
+2034,WTFDOGE,Farm
+4363,Yield Wars,Farm
+2694,Jujube Finance,Dexes
+1480,Xray Swap,Yield
+578,The Dragon's Lair,Yield
+2234,Evolve,Lending
+2105,DefiCurrent,Yield Aggregator
+3690,SuperSweth Vault,Farm
+2357,Roe Finance,Lending
+1827,SaharaDAO,Algo-Stables
+3372,IceSwap,Dexes
+1909,onAVAX,Dexes
+3341,Chronos V2,Dexes
+3020,Mayfair Fund,Farm
+650,Augmented Finance,Lending
+3540,MoonBase,Dexes
+1398,1Beam,Dexes
+2165,NumisMe,Yield
+798,Adena Finance,Dexes
+3739,LST Optimizer,Liquid Staking
+2798,Future Swap,Dexes
+2763,Dove Swap V2,Dexes
+3730,hi.market,SoFi
+5251,Truemarkets,Prediction Market
+1998,DogePup,Farm
+795,SenpaiSwap,Reserve Currency
+5430,Tonyielding,Yield
+2767,JBC.Finance,Leveraged Farming
+759,EggTartSwap,Dexes
+3024,Etherberry Finance,Indexes
+3486,Aeria,Options Vault
+3720,Spooky Base,Dexes
+3118,Kapinus,Dexes
+3351,boobs.finance,Farm
+2938,LuxsFi,Yield Aggregator
+1308,Frog Nation Farm,Farm
+1815,The Story of Draco,Farm
+3565,Ball Exchange,Dexes
+1147,Emerald Swap,Yield
+4787,Jax Finance,Lending
+4583,Keller Finance V3,Dexes
+2477,BonqDAO,Lending
+2936,Astar Exchange V3,Dexes
+5345,Bagel Finance,Dexes
+3523,XBased,Dexes
+3423,Zena Finance,Dexes
+1755,Spartacus Exchange,Dexes
+2460,SkullSwap V2,Dexes
+2879,Sugar Swap,Dexes
+2634,X Blue Finance,Yield
+2194,Beluga Protocol,Dexes
+5132,PumpXY,Launchpad
+1212,SamoDAO,Reserve Currency
+2700,ZukeSwap,Dexes
+5036,BCraft,Gaming
+1124,Mirai,Yield
+4037,Lila Finance,Lending
+2027,Energyfi,Dexes
+1483,V3S Finance,Algo-Stables
+3539,polyfriend.tech,SoFi
+1434,NewSpace Finance,Farm
+1137,SunFlower Finance,Dexes
+1937,Earnifty,Yield Aggregator
+2388,Harbor Protocol,CDP
+3845,Oceanos,CDP
+3156,Voodoo Trade Fantom,Derivatives
+4352,Satoshi Finance,CDP
+4587,QuantoSwap,Dexes
+3805,ShekelSwap,Dexes
+716,Billion Happiness,Yield
+918,Klondike Finance,Synthetics
+1107,WaterLoan,Lending
+1301,ApeDAO,Farm
+3966,BaptSwap V2,Dexes
+3011,SpiralDao,Yield
+2951,OctoLSD,Yield
+4889,DeSyn Basis Trading,Basis Trading
+3680,Statix Farm,Farm
+1988,NEX,Derivatives
+4407,Meow Miner,Ponzi
+1746,MapleDeFi,Yield
+3383,Throne V2,Dexes
+706,YSL.IO,Yield
+3959,Poor Exchange,Dexes
+4652,ponzi.market,Ponzi
+1649,Milky Cow,Algo-Stables
+2029,Dogium Farm,Dexes
+1817,Jupiter Swap,Dexes
+3913,KIM Exchange V1,Dexes
+642,Bumper Finance,Options
+2699,WaterDendy,Yield
+994,Life DAO,Reserve Currency
+2985,Vega Protocol,Derivatives
+730,Exodia,Reserve Currency
+4248,Kaisen,Liquidity manager
+3622,Monocerus,Dexes
+3035,Dexilla,Dexes
+4252,BlaSpace,Dexes
+1143,Hotpot Finance,Yield
+3806,Rollup Finance Stake,Derivatives
+1146,CyberFantasyFembots,Yield
+1553,BaksDAO,Lending
+3374,Ithil,Leveraged Farming
+4743,Binlayer,Restaking
+2229,Silo Protocol,Options Vault
+3273,Sharelock,Dexes
+2425,Deridex,Derivatives
+4281,Maduck Club,Farm
+4852,Sturgeon,Yield
+5040,XTrade,Dexes
+3741,Torus,Dexes
+1889,Zest Protocol,Synthetics
+2170,CakeWSwap,Dexes
+4283,Blaster DEX,Dexes
+1857,FATExFi,Dexes
+4634,Miner ERCX,Farm
+267,S Finance,Dexes
+3004,BFXfi,Derivatives
+879,DeerFi,Lending
+1317,UniverseFTM,Yield
+3721,Perseid Finance,Leveraged Farming
+3299,FCON DEX,Dexes
+314,Gondola Finance,Dexes
+3227,BlueSpade,Derivatives
+1704,Double Club,Yield Aggregator
+3803,MAMA,Dexes
+2013,Kanvas,NFT Marketplace
+4004,CSRfi,Yield
+3381,theGoblins,Yield
+3484,PolyLend,Lending
+4035,FirepotSwap,Dexes
+3445,Xops Finance,Dexes
+4471,Aquas Trade,Dexes
+4540,PulseGun Farm,Farm
+1435,Cemetery Finance,Farm
+738,Defi Halal,CDP
+3644,Flooring Protocol,NFT Marketplace
+2079,Inuswap,Dexes
+3236,ColaFactory,Farm
+3637,HOPE Lend,Lending
+5235,MultEX,Dexes
+5080,BoomSwap,Dexes
+4653,YYEX,Derivatives
+3105,Owna,Lending
+5434,Compx Streaming,Payments
+1855,Klap,Lending
+3640,VoltageSwap,Dexes
+1437,Nightmare Finance,Farm
+1125,MetaCrono,Yield Aggregator
+4814,ElectroWizy,Yield
+4104,KatanaSwap,Dexes
+3930,Butterfly Finance,Farm
+1423,Bodh Finance,Lending
+2777,GmCash,Algo-Stables
+3044,MarginX Perp,Derivatives
+2635,LazyFi,Gaming
+3402,FlitSwap,Dexes
+3920,BorB,Derivatives
+5421,DegenHive Memepad,Launchpad
+1121,AvaViking,Yield
+2420,Deflex,DEX Aggregator
+512,Feeder Finance,Yield
+4541,PulseGun AMM,Dexes
+2826,CZODIAC,Yield
+2080,Procyon,Farm
+1910,ShiftDollar,Algo-Stables
+1672,Tarina,Dexes
+3430,CuanSwap,Dexes
+2225,AtoDEX,Dexes
+3696,BaseYield,Yield Aggregator
+5339,FluxusFi,Dexes
+1081,BabyPig Finance,Yield
+2514,cantOHM,Reserve Currency
+2636,Lighter V1,Dexes
+3501,Valorem,Options
+1439,The Don Finance,Farm
+2472,Traddify Arbitrage,Yield Aggregator
+3072,Dubble Exchange,Yield
+3550,opBANANA,Dexes
+965,MoonDao,Reserve Currency
+1842,Kasava Dex,Dexes
+2909,zkDefi,Dexes
+5321,AquaLoan,Lending
+3553,Reservoir,Dexes
+5075,IguanaDEX V2,Dexes
+1728,Astarnova,Dexes
+1846,KefirSwap,Dexes
+3426,ChocoBase,Farm
+4819,Dorian,Lending
+2261,Arbor Finance,Lending
+2917,Structured LSD,Yield
+2120,ApexSwap,Dexes
+3164,Pacman,Leveraged Farming
+596,Flux Protocol,Lending
+1534,StrikeX,Farm
+2689,Doora Inu,Yield
+2376,ABcDeFX,Dexes
+2829,TruFin Legacy Vaults,Liquid Staking
+3102,Kannagi Finance,Yield Aggregator
+4472,Epoch Island,Farm
+1027,Xmas Past,Farm
+3765,Cryptoo Tech,SoFi
+3528,Caviar Tangible,Yield
+3436,FeDex Finance,Dexes
+1936,Securo Finance,Indexes
+1120,Caribou Finance,Yield
+3220,Sigmao,Options
+2379,Camel Farm,Farm
+2412,BAO Ballast,CDP
+4087,Lexer Markets,Derivatives
+5014,Random Reward,Prediction Market
+1734,Ketchup Finance,Yield
+3610,Wild Base,Farm
+2392,Derify Protocol,Dexes
+4507,StationDEX V2,Dexes
+2766,Stablz,Yield
+1996,Glitter Finance,Bridge
+1396,Veritable DAO,Yield
+3399,Bridge LZ,Bridge
+2313,Firi,CEX
+3403,Opankeswap,Dexes
+2758,Starfish Liquid Staking,Liquid Staking
+4306,JellyBeanSwap,Dexes
+1816,Ruby Finance,Algo-Stables
+4434,Zenon Finance,Dexes
+1148,Amogus DAO,Reserve Currency
+3842,Modswap,Dexes
+732,Bouje Finance,Yield
+3508,PlantBaseSwap,Dexes
+1459,ELYFI,RWA
+2096,SeaLightSwap,Dexes
+3902,Glori Finance,Lending
+3977,SquaDeFi,SoFi
+2944,Ajira Pay Finance V1,Payments
+3767,DeFO,SoFi
+1051,Vortex DAO,Reserve Currency
+4153,Meow Protocol,Lending
+4303,BTCFi Farm,Farm
+5038,TanukiX,Dexes
+3727,Quantum Unit,Staking Pool
+3111,PlsPrint,Staking Pool
+1011,Papa DAO,Reserve Currency
+1564,Philetairus Socius,Dexes
+3851,Fuzion Ignition,Launchpad
+3398,v2swap,Dexes
+977,Tornadao,Reserve Currency
+3022,1Pulse,Dexes
+2250,Debets,Prediction Market
+3894,dVOL,Options
+3496,Esper Finance,Dexes
+3290,Jadeswap,Dexes
+2845,Spiral Fi Mixer,Privacy
+2612,Genius,Yield
+1595,RubikFarm,Farm
+811,Kebab Finance,Dexes
+1113,Mama DAO,Reserve Currency
+1438,TreeHouse Finance,Yield
+1145,FTM Frens,Yield
+3614,Redemption Finance,Farm
+388,NowSwap,Dexes
+4280,PRODUS,Dexes
+3517,Ace of Base,Farm
+1869,Omni Protocol,Lending
+2562,Defi Master,Yield
+1963,MixSwap Finance,Farm
+664,OakFarm,Yield
+2543,RubyDex,Derivatives
+2820,ArbiTen,Algo-Stables
+5324,Asset Chain Swap,Dexes
+3387,Bryan on Base,Farm
+4332,SolidBlast,Dexes
+2739,Liquify,Dexes
+4095,OcelotDex,Dexes
+3986,DropCopy,Prediction Market
+4027,Hexaswap,Dexes
+4232,Novation,Lending
+3067,Equito Finance,Bridge
+1305,weBribe DAO,Governance Incentives
+1119,Coup Farm,Yield
+2806,AstroFi,Dexes
+3929,Syncus,Reserve Currency
+3768,Dexland,Dexes
+3094,Milkomeda MACC,CDP
+843,Unirex Finance,Farm
+1313,NoahArkDAO,Reserve Currency
+4261,Gomble Games,Farm
+2184,handle.fi Perps,Derivatives
+2424,LunaFi,Prediction Market
+1403,Scranton Finance,Yield
+2432,FlatCoin DEX,Farm
+5372,SuperSwap V2,Dexes
+3588,OhMyCrypt,Dexes
+3972,Agus,Dexes
+3491,Wise Lending V1,Lending
+3744,Coffer City,Services
+665,Multi-Chain Miner,Ponzi
+255,Fei Protocol,Algo-Stables
+5405,Syde,Synthetics
+2294,Crypto Lottery,Prediction Market
+2656,Metavault Binary Options,Options
+1921,DogeClaw,Gaming
+4782,NetWeave Vaults,Yield
+4048,CirclePacific,Dexes
+4405,DumpEX,Farm
+4569,OreSwap,Dexes
+3367,PSY,CDP
+4225,AvoLend,Lending
+875,TempleDAO,Reserve Currency
+2372,Polytrade,Yield
+2036,SSAP,Lending
+4183,PizzaX,Ponzi
+3749,GrokSwap,Dexes
+2883,Purple Bridge DEX,Dexes
+1718,Sapphire Mine,Yield
+3961,Inferno Swap,Dexes
+1775,EcoDeFi,Lending
+3023,Goldbank Finance,Lending
+1626,Astrowar Finance,Services
+2505,ORIO,Yield
+1284,Paladin DAO,Reserve Currency
+2163,OctoPow Finance,Dexes
+1680,Orcus Finance,Algo-Stables
+1844,Stipend,Yield
+4039,Size Lending,Lending
+4220,BlastNYAN,Farm
+4267,Miner PEPE,Ponzi
+2759,OCTOplace,NFT Marketplace
+2085,BakedPotatoes,Yield
+1309,Gaia DAO,Reserve Currency
+4242,Fusefi Lending,Lending
+2055,Swivel Finance,Yield
+4051,ApplePie,Farm
+4343,LolPad Finance,Dexes
+3260,Reax Swaps,Dexes
+2136,Fliperino,Prediction Market
+1014,TempoDAO,Reserve Currency
+4270,Gasline Protocol,Liquidity manager
+3086,xBank Finance,Lending
+2446,BayMax,Derivatives
+3522,w3bank,Lending
+2698,kaDefi,Yield
+3475,Base3D,Dexes
+2462,Cranium Exchange,Derivatives
+1106,Chad Finance,Yield
+1512,Spade Finance,Farm
+2770,GxyPad,Dexes
+3802,Krunch Defi,Derivatives
+2156,EthwSwap,Dexes
+2282,KSwap,Dexes
+3186,SoarPLS,Staking Pool
+821,Undead Finance,Yield
+2390,KMex,Derivatives
+2581,KapaSwap,Dexes
+3774,Chimeradex Swap,Dexes
+2143,Zircon Gamma,Dexes
+3303,Weave,Yield Aggregator
+1825,Nirvana,CDP
+1231,Vesq,Reserve Currency
+2881,mirrosset,CDP
+2800,Beekava,Yield
+4002,DONASWAP V2,Dexes
+4514,Snail Finance,Lending
+1362,Hexal,Reserve Currency
+5133,Forge Game,Gaming
+2525,Covo V1,Derivatives
+2672,Alyx finance,Reserve Currency
+4784,Pu239,Lending
+3357,AntiHero Finance,Lending
+2889,Rollup Finance vAMM,Derivatives
+1230,Welnance,Chain
+3406,Tempest Capital,Lending
+1228,SashimiDAO,Reserve Currency
+3108,Pawnfi APE Staking,Yield
+927,Pidao Finance,Reserve Currency
+2016,Hodl Fox,Services
+2891,MetaID,Staking Pool
+1991,Brise Swap,Dexes
+1570,Rikkei Finance,Lending
+2135,Infy Protocol,NFT Lending
+3213,Dinotopia Finance,Algo-Stables
+2219,Vendor V1,Lending
+2240,Peaky Finance,Derivatives
+1946,Vacus Finance,Yield Aggregator
+1190,Magnet DAO,Algo-Stables
+2744,Kavastarter,Launchpad
+3762,xfam.tech,SoFi
+3724,JumpDefi,Dexes
+1076,ArbiCheems,Yield
+4264,Muito Finance,Yield Aggregator
+2494,ReHold V1,Yield
+3331,Tetu Pawnshop,NFT Lending
+3775,Chimeradex Lend,Lending
+2188,Real Protocol,CDP
+4566,Blinkswap,Dexes
+2084,Hectagon,Services
+930,Maximizer,Reserve Currency
+964,Nemesis DAO,Reserve Currency
+1164,DeepSeaDAO,Reserve Currency
+3088,Defily Dex,Dexes
+940,Soda Protocol,Lending
+2047,Kumu Finance,Yield
+859,Snowdog,Reserve Currency
+936,Manifest,Services
+2969,Kyborg Exchange,Dexes
+2496,FunDex,Dexes
+2738,KafiDAO,Farm
+1605,Stake1,Lending
+3898,XBANKING,Staking Pool
+4168,BounceBit pre-launch Farm,Farm
+2230,PaperDAO,Lending
+2497,Dinosaur.Finance,Yield Aggregator
+974,TaiChi,Reserve Currency
+3676,Scribeswap,Dexes
+2233,MinerSwap,Dexes
+1843,Kavacave,Yield
+3253,SwirlLend,Lending
+2989,multiverse,Dexes
+3262,Zilch Capital,Dexes
+3346,CookieBase Dex,Dexes
+3435,Astrovault,Dexes
+3270,Reax Lending,Lending
+2692,sevenswap,Dexes
+793,Cashio,CDP
+2371,RAIDSHIFT Marketplace,Dexes
+1782,MilkyWay,Lending
+2677,Cthulhu.Finance,Yield Aggregator
+3525,FlashPulse,Farm
+990,Powerbomb Finance,Yield
+1967,PembRock Finance,Yield
+3586,Laari Finance,Yield Aggregator
+824,Euphoria,Reserve Currency
+2232,Spherium,Cross Chain
+1388,Parasset,CDP
+1165,Swing DAO,Reserve Currency
+3647,SyncYield,Yield Aggregator
+2349,mStable Yield,Yield
+848,Talent Protocol V1,Services
+2191,Omnidex Lend,Lending
+3230,ChainTools,Yield
+3417,UncleSam Protocol,Lending
+2850,Toreus,Lending
+1723,KungFuu,Yield
+3567,BlueMeteor,Dexes
+909,Kronos DAO,Reserve Currency
+4513,MateSwap,Dexes
+3061,SynFutures V2 (Deprecated),Derivatives
+4763,RIZE,Yield Aggregator
+934,InvictusDAO,Reserve Currency
+2622,Mare Finance V1,Lending
+3592,Promethium,Lending
+955,Houses of Rome,Reserve Currency
+3483,Morphex V1 Perps,Derivatives
+2913,Rising Undead,Gaming
+2035,Bitgert Swap,Dexes
+3828,White Protocol,Farm
+1941,Lago Bridge,Bridge
+5106,Octopus Finance,Yield Aggregator
+1100,ValhallaDAO,Reserve Currency
+3261,Reax Assets,Synthetics
+4550,Merchant Finance,Lending
+2691,Sohei,Lending
+4271,PerfectSwap,Dexes
+2888,Selfex,Dexes
+1067,Dios Finance,Reserve Currency
+4648,Allspark,Derivatives
+3973,Yearn Ether,Indexes
+1310,ZeroShift,Reserve Currency
+476,Asgard Finance,Yield
+4226,LemonBlast,Farm
+3495,BroSwap,Dexes
+3427,BalloonSwap,Dexes
+858,Piggybank DAO,Reserve Currency
+2185,StableDoin,Dexes
+3659,SolidPulse,Dexes
+1504,Fantasm,Algo-Stables
+117,RenVM,Bridge
+132,hBTC,Bridge
+137,Bepswap,Dexes
+158,Dracula,Yield Aggregator
+168,Dev Protocol,Yield
+171,SynLev,Synthetics
+174,BT.Finance,Yield Aggregator
+175,N3RD Finance,Yield
+196,Fantom,Chain
+215,Strudel Finance,Bridge
+256,Allinx,Yield
+260,Mirror,Derivatives
+275,SharedStake,Liquid Staking
+279,StakeHound,Liquid Staking
+286,Mango Markets V3,Derivatives
+294,Anchor,Lending
+295,Stacks Staking,Chain
+296,Zookeeper,Yield
+300,BondAppetit,Lending
+307,Wault,Yield
+308,Ruler,Lending
+322,Yogi Finance,Dexes
+340,Olympus DAO,Reserve Currency
+346,Yieldly,Yield
+353,Armor,Insurance
+370,Merlin,Yield
+372,Rabbit Finance,Lending
+379,Cardstarter,Launchpad
+417,Solyard,Yield
+426,Mint Club V1,Launchpad
+430,Acumen,Lending
+432,Longdrink,Indexes
+436,WitSwap,Oracle
+440,LoTerra,Prediction Market
+441,Pylon Protocol,Yield
+447,Illuvium,Gaming
+451,Karura Swap,Dexes
+452,Karura Dollar (kUSD),Lending
+456,Telcoin,Payments
+460,Ondo v1 (Legacy),Yield
+470,Mensa Protocol,Lending
+472,Avalaunch,Dexes
+521,Pizza,Lending
+522,Volta Club,Reserve Currency
+555,Genshiro,Lending
+563,Timewarp,Yield
+564,Fabric,Yield
+565,Sunrise Gaming,Prediction Market
+598,ShapeShift,Dexes
+606,RocketSwap,Dexes
+609,Banano,Yield
+610,eCurve,Dexes
+616,Amy Finance,Lending
+617,Bogged Finance,Dexes
+631,Beanstalk,Algo-Stables
+633,TotemFi,Prediction Market
+637,SYNC Network,NFT Lending
+655,Almond,Yield
+658,Only1,NFT Marketplace
+669,Shield,Options
+672,Fegex,Services
+676,Phoenix Finance,Options
+681,OraiChain,Yield
+682,BaconDAO,Yield
+713,Polkaswap,Dexes
+715,SmartCoin,Yield
+717,Decubate,Launchpad
+720,Nasdex,Dexes
+746,Nileriver,Yield
+752,Nexus Protocol,Yield
+758,Spartacus,Reserve Currency
+783,AtmosSoft,Gaming
+802,SquidDao,Reserve Currency
+804,Gyro,Reserve Currency
+805,Snowbank,Reserve Currency
+807,Blizz Finance,Lending
+832,Hector Treasury,Reserve Currency
+839,Hades Swap,Dexes
+840,BunnyPark,Dexes
+844,ZYXSwap,Dexes
+849,Capital DAO,Services
+851,Nest Protocol Staking,Oracle
+853,AxeDAO,Reserve Currency
+856,Fortune DAO,Reserve Currency
+861,Bear Finance,Yield
+866,Reverse,Reserve Currency
+868,Saffron Finance,Yield
+870,Defily,Yield
+881,SafeOHM,Reserve Currency
+886,Position Exchange,Dexes
+889,8ightDAO,Reserve Currency
+891,OneDAO Finance,Reserve Currency
+894,Paraswap,DEX Aggregator
+895,BlackPool,Indexes
+901,EverestDAO,Options
+921,DAO Maker Vesting,Services
+926,Metaversepro,Reserve Currency
+928,Fortress,Reserve Currency
+929,RaDao,Reserve Currency
+932,Xensa,Lending
+933,Nidhi-Dao,Reserve Currency
+937,Hex,Yield
+939,R U Generous,Reserve Currency
+943,Shinobi,Dexes
+945,Jade Protocol,Reserve Currency
+946,FreeLiquid,Lending
+949,Lobis,Reserve Currency
+950,ARCx,Insurance
+958,Ester Finance,Yield
+959,Alpaca City,Yield
+961,Fantohm,Reserve Currency
+962,Retreeb,Payments
+966,CerberusDAO,Reserve Currency
+968,Zai Finance,Algo-Stables
+973,XEUS,Reserve Currency
+975,Omicron,Reserve Currency
+981,Kafe Finance,Yield
+982,VikingsFinance,Reserve Currency
+984,GalaxyGoogle DAO,Reserve Currency
+987,HoneyFarm,Yield
+988,Vaporwave,Yield Aggregator
+991,MidasDAO,Reserve Currency
+993,O2 DAO,Reserve Currency
+999,Luxor Money,Reserve Currency
+1001,Giza DAO,Reserve Currency
+1006,Thorstarter,Launchpad
+1009,CheeseDAO,Reserve Currency
+1010,Ice DAO,Reserve Currency
+1012,Pumpkin DAO,Reserve Currency
+1015,Atlas USV,Reserve Currency
+1021,RivrKitty,Yield
+1026,Starterra,Launchpad
+1034,Base Protocol,Indexes
+1035,BITPIF,Dexes
+1037,RagnarokDAO,Reserve Currency
+1041,Numbers Protocol,Services
+1045,Tempus Finance,Services
+1047,UnusDao,Reserve Currency
+1048,Merit Circle,Launchpad
+1050,LeagueDAO,Reserve Currency
+1052,Astroport Classic,Dexes
+1058,MOBOX,Gaming
+1059,Sheesha Finance,Yield
+1061,CakeDAO,Reserve Currency
+1065,The Sandbox,Gaming
+1066,Brokoli Network,Dexes
+1070,Nacho Finance,Yield
+1073,Kitty Finance,Algo-Stables
+1078,Polkastarter,Launchpad
+1082,Umbria Network,Cross Chain
+1083,IQ,Services
+1091,ZodiacDAO,Reserve Currency
+1094,One Cash,Yield
+1095,Stand Cash,Yield
+1098,Templar DAO,Reserve Currency
+1101,SecureDAO,Reserve Currency
+1102,Optidoge,Yield
+1103,SnowCatDAO,Reserve Currency
+1104,AgarthaDAO,Reserve Currency
+1105,Bourbon DAO,Reserve Currency
+1111,Wisteria Swap,Yield
+1118,Louverture,Yield
+1128,KawaiiSwap,Yield
+1138,Valkyrie,Launchpad
+1142,MM Optimizer,Yield Aggregator
+1153,Umbrella Network,Oracle
+1158,Unite Finance,Algo-Stables
+1159,Piggy Finance,Yield
+1162,Friktion,Options Vault
+1168,Goblin FTM,Yield
+1169,Scarab Finance,Algo-Stables
+1170,MetaReserve,Reserve Currency
+1175,Xenophon,Reserve Currency
+1177,Whale Loans,Reserve Currency
+1185,MarginSwap,Dexes
+1186,Rarify,Yield
+1187,Galatea Cash,Algo-Stables
+1195,Instrumental Finance,Yield
+1196,Chikn Farm,Services
+1198,Chronicle,Services
+1199,Ferrum,Services
+1202,BananaFarm,Yield
+1205,Predictcoin,Prediction Market
+1209,INK Protocol,Yield
+1210,Voyager,Services
+1214,Karma DAO,Reserve Currency
+1215,OVR,Services
+1217,Parallel Polkadot Crowdloan,Liquid Staking
+1219,Trapeza Protocol,Reserve Currency
+1223,TiPiDao,Reserve Currency
+1227,Empyrean DAO,Reserve Currency
+1229,LooksRare,NFT Marketplace
+1232,TerraFloki,Dexes
+1235,Ultra Protocol,Services
+1237,Bomb Money,Algo-Stables
+1238,Minotaur Money,Reserve Currency
+1244,Crabada,Gaming
+1248,Hermes Finance,Algo-Stables
+1249,2omb Finance,Algo-Stables
+1251,Kandyland Finance,Reserve Currency
+1252,Luminous Finance,Dexes
+1255,Proof of Humanity,Services
+1256,Delta Financial,Options
+1263,SmartPad,Launchpad
+1265,X,Services
+1266,fees.wtf,Services
+1267,The Open DAO SOS,Services
+1271,Immortal,Reserve Currency
+1273,Cleopatra DAO,Yield Aggregator
+1277,Paprprintr,Algo-Stables
+1280,Tornado Finance,Yield
+1282,Rubic,DEX Aggregator
+1290,Grape Finance,Algo-Stables
+1294,Hades Money,Algo-Stables
+1297,BloXmove,Services
+1316,Specter Finance,Algo-Stables
+1318,Cesta Finance,Reserve Currency
+1321,Comfy Money,Algo-Stables
+1323,Poopsicle,Yield
+1325,Magik Finance AlgoStable,Algo-Stables
+1326,Snowtomb,Algo-Stables
+1330,Beluga,Yield
+1332,DNA Dollar,Algo-Stables
+1333,Oceanus,Algo-Stables
+1335,ShiroSwap,Dexes
+1336,Unizen,DEX Aggregator
+1338,Warp,Reserve Currency
+1339,API3,Oracle
+1340,IceCream Finance,Algo-Stables
+1343,Devil Finance,Yield
+1345,Moon Flower Farmers,Yield
+1348,Athena Money,Algo-Stables
+1350,Treasure,Gaming
+1352,Astral Financial,Yield
+1354,Dogs of Elon,Farm
+1357,ADAX Pro,Dexes
+1360,Meld,Lending
+1361,QAO,Indexes
+1369,Velhalla,Gaming
+1371,Ripae,Algo-Stables
+1374,Gensokishi,Gaming
+1377,Maia DAO,Reserve Currency
+1378,Elephant Money,Yield
+1380,Minimax,Yield Aggregator
+1383,Platinum Finance,Algo-Stables
+1387,DEUS Finance,CDP
+1390,ProjectX,Yield
+1391,Thor Financial,Yield
+1392,VaporFi,Yield
+1393,Basis Markets,Dexes
+1411,Manarium,Gaming
+1414,Dibs Money,Algo-Stables
+1415,Partial Finance,Algo-Stables
+1418,Draco Finance,Algo-Stables
+1420,Arable Protocol,Synthetics
+1422,Winkyverse,Services
+1424,Volta DAO,Reserve Currency
+1425,Croissant Games,Prediction Market
+1426,MiniPanther DAO,Reserve Currency
+1428,StarCrazy,Gaming
+1430,Kommunitas,Launchpad
+1441,Peel Defi,Algo-Stables
+1446,FDoge Finance,Algo-Stables
+1449,ImpactMarket,Yield
+1457,OGX,Synthetics
+1463,Comet Finance,Algo-Stables
+1468,Pact,Dexes
+1476,Wrapped ILCOIN,Yield
+1481,2Doge Finance,Algo-Stables
+1498,pDollar,Algo-Stables
+1502,The Parallel,Gaming
+1503,Snowyowl,Algo-Stables
+1505,Floor Dao,Reserve Currency
+1506,Pulse DAO,Algo-Stables
+1507,Zombi Finance,Algo-Stables
+1508,Code 7 Finance,Algo-Stables
+1509,Solanax,Dexes
+1510,MiniVerse Finance,Algo-Stables
+1511,Seedify,Launchpad
+1513,Zomb2 Finance,Algo-Stables
+1516,RHEA DAO,Reserve Currency
+1519,CryptEx Locker,Services
+1526,Metavault DAO,Services
+1527,Libero Financial,Yield
+1535,Cubo,Yield
+1537,Solrise Finance,Indexes
+1540,Polar Bear Finance,Algo-Stables
+1543,Drip,Yield
+1548,Chaotic Finance,Derivatives
+1549,Babena,CDP
+1550,METF Finance,Yield
+1552,Angel Protocol,Services
+1554,Kleros,Services
+1559,KDLaunch,Launchpad
+1565,RingFi,Yield
+1566,Anedak,Dexes
+1572,DeFIL,Lending
+1576,MeowSwapFi,Dexes
+1583,Axl Inu,Launchpad
+1588,Diamond Coin,Gaming
+1592,Strips Finance,Derivatives
+1597,ErgoPad,Launchpad
+1611,Peak Finance,Algo-Stables
+1614,0vix,Lending
+1617,Revuto,Services
+1622,VelasPad,Launchpad
+1624,Ambire Wallet,Wallets
+1625,DarumaDAO,Reserve Currency
+1634,Solace,Insurance
+1641,EPNS,Services
+1644,Trusted Node,Liquid Staking
+1645,Luchadores,Gaming
+1654,Scrub,Algo-Stables
+1658,Steak,Liquid Staking
+1661,Swapscanner Dex,Dexes
+1669,TokensFarm,Yield
+1670,Monster,Gaming
+1678,Printer Financial,Bridge
+1681,PuddingSwap,Dexes
+1685,RFOX,Yield
+1686,Ignite Finance,Reserve Currency
+1690,Zombie Network,Yield
+1694,Ravcube Finance,Algo-Stables
+1699,Rubik Finance,Algo-Stables
+1701,Yup,Services
+1709,IoTeX Monster Go,Gaming
+1711,Candle,Dexes
+1714,0x NODES,Yield Aggregator
+1717,CoinFLEX,Yield
+1722,Shibui DAO,NFT Marketplace
+1724,Ampere,Algo-Stables
+1730,Goblins Cash,Reserve Currency
+1733,LNS,Dexes
+1735,BCHPad,Launchpad
+1739,Valerian,Yield
+1743,Celerycash,Services
+1744,Earnmos,Yield Aggregator
+1745,Joystick Club,Gaming
+1747,Game Theory,Algo-Stables
+1748,Murica,Algo-Stables
+1749,PandaLand,Gaming
+1751,Solily Protocol,Yield
+1753,Olympus Finance,Algo-Stables
+1758,ToxicDeer Finance,Algo-Stables
+1760,COTI Treasury,Yield
+1762,Elf Finance,Algo-Stables
+1763,Know-To-Earn,Services
+1764,AmesDefi,Algo-Stables
+1767,xWeowns,Yield
+1768,Jelly,Yield
+1774,Blitz Labs,Services
+1776,Infinity Pad,Launchpad
+1779,Cake Monster,Yield
+1785,VersaGames,Gaming
+1789,Gale,Yield
+1803,Gaur Money,Algo-Stables
+1808,Axia Protocol,Indexes
+1818,DinoPool,Algo-Stables
+1819,Crown Finance,Yield Aggregator
+1826,Everlend,Lending
+1830,ZeroSwap,Dexes
+1835,Tangent,Dexes
+1836,Investin,Indexes
+1841,Ratio Finance,CDP
+1847,Acala Swap,Dexes
+1848,Acala Dollar,CDP
+1862,VeleroDAO,CDP
+1870,StrategyX Finance,Farm
+1880,Minto,Yield
+1888,Frozen Walrus Finance,Algo-Stables
+1891,Blur Finance,Yield Aggregator
+1895,SideShift,Liquid Staking
+1897,Uplift DAO,Launchpad
+1898,Waterfall WTF,Algo-Stables
+1905,Bitgert,Yield
+1911,BetSwirl,Prediction Market
+1914,Pony Finance,Indexes
+1923,Liquidity Finance,Dexes
+1930,Bubbleswap V1,Dexes
+1931,HomeCoin,CDP
+1932,QuasarSwap,Dexes
+1939,Emp Money,Algo-Stables
+1945,LanternSwap,Dexes
+1949,CivFund,Yield
+1955,Parallel Polkadot Lending,Lending
+1956,Parallel Polkadot AMM,Dexes
+1957,Parallel Polkadot DAOfi,Payments
+1958,Parallel Polkadot Liquid Staking,Liquid Staking
+1960,CryptoBlades,Gaming
+1965,Drachma Exchange,Dexes
+1972,Wolf Safe Poor People,Yield
+1975,Dogeswap,Farm
+1977,Doge Shrek,Dexes
+1999,OptiFi,Options
+2004,MM Optimizer Polygon,Yield Aggregator
+2011,Sudo Inu,Farm
+2017,Dragonfruit Protocol,Farm
+2026,Champion Finance,Algo-Stables
+2041,Dawn Star Finance,Algo-Stables
+2050,Klaylend Finance,Farm
+2052,Junoswap,Dexes
+2061,PULI,Gaming
+2063,Madmex,Derivatives
+2069,Interlay Staking,Liquid Staking
+2072,Polyo Exchange,Dexes
+2077,Corgi Finance,Yield Aggregator
+2078,Giveth,Yield
+2083,Pluto on Waves,Reserve Currency
+2089,Roaring Lion,Algo-Stables
+2095,EthicHub,Lending
+2110,Ultron Staking Hub NFT,Staking Pool
+2114,NUDES,Liquid Staking
+2116,0x,DEX Aggregator
+2127,Cowaii Cash,Algo-Stables
+2128,Capricorn Finance,Dexes
+2131,KDex,Dexes
+2141,Jupiter Aggregator,DEX Aggregator
+2149,Based Next Generation,Yield
+2155,Zootopia Finance,Dexes
+2159,Amulet V1,Insurance
+2171,OHMPOW,Dexes
+2178,TempleDAO Trade,Dexes
+2180,NEUY,Services
+2189,ECHSWAP,Dexes
+2201,Bepro Network,Services
+2209,Opulous,Farm
+2215,Frog Swap,Dexes
+2216,KekSwap,Dexes
+2227,Stakerz,Yield Aggregator
+2241,ORA Finance,Algo-Stables
+2242,CroLend Finance,Lending
+2246,Hera Finance,Dexes
+2249,Dexible V2,DEX Aggregator
+2257,BarnSwap,Dexes
+2258,Opensea Seaport,NFT Marketplace
+2268,Optyfi,Yield Aggregator
+2277,Weld Finance,Farm
+2290,GhostMarket,Liquid Staking
+2297,FairFi,Yield Aggregator
+2299,EMDX,Derivatives
+2302,Goober,Yield
+2323,Lympo,Gaming
+2325,Binance Multi Chain Capital,Services
+2326,KPerp Exchange,Derivatives
+2327,Neptune Mutual,Insurance
+2340,Optitude Finance,Yield Aggregator
+2353,X7 Finance,Dexes
+2355,Athos Finance,Derivatives
+2358,Dexit Finance Swap,Dexes
+2377,YieldBank,Yield Aggregator
+2389,Freebie Life Finance,Prediction Market
+2396,BlueMove Staking,NFT Marketplace
+2407,Inbuilt Finance,Yield
+2413,Decryption,Dexes
+2416,FootballManager,Gaming
+2418,Y2B Finance,Derivatives
+2421,Revoluzion,Services
+2427,Defender Finance,Algo-Stables
+2444,Changex,Yield
+2452,Metropolis,Dexes
+2453,Doglands Swap,Dexes
+2457,Vidya,Gaming
+2464,Omax Swap,Dexes
+2470,Bitindi Dex,Dexes
+2471,Premio,Yield
+2473,Bitindi Staking,Liquid Staking
+2476,Meme Dollar,Algo-Stables
+2478,Akiba Finance,Algo-Stables
+2480,AlgoBlocks,Services
+2482,CitaDAO,RWA
+2493,Brewlabs Yield,Yield
+2500,Bankless,Services
+2501,Aragon,Services
+2502,Mantle Treasury,Services
+2503,PleasrDAO,Services
+2504,Rarible,Services
+2508,Notiboy,Services
+2509,BusinessBuildersNFTs,Gaming
+2515,Manifesto,Reserve Currency
+2516,Phezzan Protocol,Dexes
+2518,Gitcoin,Services
+2519,ENS,Services
+2520,Gnosis DAO,Services
+2521,Ethereum Foundation,Services
+2522,Nouns,Services
+2524,Friends With Benefits,Services
+2526,Droplit Protocol,Algo-Stables
+2527,Wonderly Finance,Algo-Stables
+2532,Zonic,NFT Marketplace
+2533,THORWallet DEX,Cross Chain
+2534,OnePunchSwap,Dexes
+2536,Lion Commerce,Services
+2544,Bank of Cronos OHM,Reserve Currency
+2546,NFTEarth,NFT Marketplace
+2555,Subzero+,Reserve Currency
+2565,Perion,Gaming
+2571,Mosquitos Finance,Yield
+2574,HXRO Network,Derivatives
+2575,Cypher,Derivatives
+2578,Beamer Bridge,Bridge
+2579,King Finance,Services
+2580,NULS POCM,Services
+2582,TrueFeedBack,Gaming
+2588,Bisq,Dexes
+2590,PancakeSwap AMM V1,Dexes
+2598,Surfswap Stable AMM,Dexes
+2610,ZORA,NFT Marketplace
+2623,Chainlink Requests,Oracle
+2630,OpenSea V1,NFT Marketplace
+2631,OpenSea V2,NFT Marketplace
+2643,CoWSwap,DEX Aggregator
+2659,Lunagens,Dexes
+2663,0xAcid,Liquid Staking
+2664,Forta,Services
+2665,ApeCoin,Yield
+2681,Kava Football Club,Prediction Market
+2684,Arc Swap,Services
+2704,Sakai Vault,Derivatives
+2711,Void,Yield
+2713,pxswap,NFT Marketplace
+2714,BoneSwap Bonerium,Dexes
+2716,Kokomo Finance,Lending
+2717,Dexioprotocol,Gaming
+2723,Arbitrum DAO,Services
+2724,India Covid Relief Fund,Services
+2725,Aptos,Chain
+2726,Canto,Chain
+2732,Atlas Aggregator,Yield Aggregator
+2734,Blast API,Services
+2735,GET Protocol,Services
+2740,PLEXUS,DEX Aggregator
+2741,Tegisto,Dexes
+2764,CexDex,Yield
+2771,Empyreal,Yield
+2772,Multialt,Yield
+2774,TWTStake,Yield
+2781,NFT360,NFT Marketplace
+2784,Ysmart,Services
+2785,Arbitrum,Chain
+2786,Bitcoin,Chain
+2787,Acala,Chain
+2788,Moonbeam,Chain
+2796,Zks Miner,Ponzi
+2813,Cron Finance,Dexes
+2816,Dypius,Yield
+2831,CortexDAO,Indexes
+2847,World Mobile Token,Services
+2849,MERLIN DEX,Dexes
+2875,PrivCash,Privacy
+2877,CatsApes,Gaming
+2887,Array,Farm
+2893,Snark Launch,Launchpad
+2897,SuperLauncher,Launchpad
+2905,FunBear,Services
+2916,Direct Exchange,Dexes
+2918,DebtDAO,Lending
+2919,Backed,NFT Lending
+2933,Kei Finance,Yield
+2937,Cells Finance,Yield Aggregator
+2947,BrainDAO,Services
+2948,Bubbleswap V2,Dexes
+2954,AirSwap,DEX Aggregator
+2960,DXDao,Services
+2961,FORTH DAO,Services
+2967,Optimism Foundation,Services
+2970,Beluga Dex,Dexes
+2973,Nutbox,Services
+2975,Verified Credits,Farm
+2977,Merkl,Yield
+2981,Kwenta,Derivatives
+3013,UniFi Staking,Staking Pool
+3016,Component Swap,Dexes
+3017,FemboyDAO,Services
+3019,Maestro,Telegram Bot
+3026,Monoceros,Yield
+3031,MetaMask,Wallets
+3033,FireBot,Yield
+3038,Rainbow,Wallets
+3041,Houdini Swap,Dexes
+3042,The Llamas,Services
+3082,OlympulseX,Reserve Currency
+3099,Froggy Protocol,Yield Aggregator
+3106,Unibot,Telegram Bot
+3112,Baton,Yield
+3114,XLSD,Yield
+3123,Stealcam,NFT Marketplace
+3137,My Neighbor Alice,Services
+3138,Step App,Services
+3140,Avalanche,Services
+3141,DeFiato,Services
+3142,Primal,Services
+3143,Xana,Services
+3144,SuperRare,NFT Marketplace
+3146,Scatter,NFT Marketplace
+3153,Pulsemax Finance,Algo-Stables
+3154,AVNU,DEX Aggregator
+3161,Themis Staking,Reserve Currency
+3168,Foundation,NFT Marketplace
+3181,Sui Foundation,Chain
+3187,CryptoDickbutts,Services
+3189,Konverter,Dexes
+3194,ARPA Staking,Staking Pool
+3197,Florence Finance,RWA Lending
+3207,Bitget Swap,DEX Aggregator
+3209,Pinnako,Derivatives
+3212,Tribe3,Derivatives
+3215,Aerie Lab,Dexes
+3221,NEAR,Chain
+3224,Golem Network,Services
+3228,Metis,Chain
+3235,Yield Guild Games,Gaming
+3237,SkyDex,Dexes
+3267,Solid World,RWA
+3268,DeepBook V2,Dexes
+3269,Arkham,Services
+3271,Evmos DAO,Services
+3279,Palmswap,Derivatives
+3282,L2BEAT,Services
+3283,Go Ethereum,Services
+3294,Ethers,Services
+3295,ETHGlobal,Services
+3296,rotki,Services
+3297,wagmi sh,Services
+3301,Grizzly Trade Perps,Derivatives
+3306,Tangent Protocol,Yield
+3319,Snapshot,Services
+3320,Safe,Services
+3321,Revoke.cash,Services
+3332,Ignore Fud,Staking Pool
+3336,Banana Gun,Telegram Bot
+3337,None Trading,Services
+3338,Chainlink Keepers,Oracle
+3339,Chainlink VRF V1,Oracle
+3340,Chainlink VRF V2,Oracle
+3342,Magnate Finance,Lending
+3356,neuron,Bridge
+3366,CoChilli,Prediction Market
+3376,Aark Digital,Derivatives
+3378,Basetrade,Derivatives
+3389,MantaDAO,Services
+3395,OneRing V2,Yield
+3412,DeNet File Token,Services
+3418,Meowl,Services
+3424,Raccoon Finance,Yield Aggregator
+3437,PySwap,Dexes
+3442,Bad Idea AI,Services
+3443,Loot  DAO,Services
+3453,Racoon.Bet,Gaming
+3463,Tutellus,Services
+3466,Bloom,RWA
+3469,BoneDex,Dexes
+3472,ShibFi,Farm
+3485,Basetasm Finance,Algo-Stables
+3487,StealthPad,Launchpad
+3490,Basic Attention,Services
+3510,Abachi,Services
+3519,BasePaint,Services
+3520,MonarchPay,Payments
+3521,One guy Finance,Prediction Market
+3524,Jumper Exchange,DEX Aggregator
+3527,BlazeBot,Telegram Bot
+3537,THENA ALPHA,Derivatives
+3538,PancakeSwap Perps,Derivatives
+3561,Tegro,Dexes
+3562,Celestia,Chain
+3589,FT33 DAO,Reserve Currency
+3591,TON Locker,Chain
+3593,NewThrone,Gaming
+3601,ESCROW,Services
+3609,basedmarkets,Derivatives
+3611,Friendzy,SoFi
+3657,Uniswap Labs,Services
+3658,Sociogram,SoFi
+3675,Chainlink CCIP,Services
+3681,Slingshot,DEX Aggregator
+3687,Shuriken,Services
+3702,CyberConnect,SoFi
+3707,TokenFi,Farm
+3710,Algebra Integral,Dexes
+3712,Spirit Farm,Farm
+3719,AITECH,Services
+3723,PAAL AI,Telegram Bot
+3734,TURNUP,SoFi
+3738,Rumi Finance,Yield Aggregator
+3742,Loreum,Services
+3743,QuickSwap Liquidity Hub,Services
+3745,Lendora Protocol,Lending
+3753,XOXNO,NFT Marketplace
+3761,HOPR,Privacy
+3764,BOOM,Farm
+3798,Amet Finance,Services
+3809,Aggre,DEX Aggregator
+3811,Stellaris Finance,Yield Aggregator
+3820,handle.fi hSP,Derivatives
+3846,deBridge,Services
+3847,LlamaSwap,DEX Aggregator
+3863,CSIX,Services
+3865,Hatom Booster,Yield
+3872,Bear Vs Bull,Prediction Market
+3875,Aimbot,Telegram Bot
+3877,Solana Name Service,Services
+3885,Arcane Dex,DEX Aggregator
+3896,NEKO,Farm
+3900,Cardano,Chain
+3905,Chainlink Staking,Services
+3911,Metavault Derivatives V2,Derivatives
+3916,Vault Tech,Services
+3922,Love.io,SoFi
+3925,SingularityNet AGIX Staking,Staking Pool
+3927,Bebop,DEX Aggregator
+3945,Gracy Staking,Staking Pool
+3951,ODOS,DEX Aggregator
+3971,PopFi,Derivatives
+3979,DexHunter,DEX Aggregator
+3980,Conveyor,DEX Aggregator
+3981,Aftermath Aggregator,DEX Aggregator
+3982,KyberSwap Aggregator,DEX Aggregator
+3988,Panther Protocol,Services
+3992,Yield24,Liquid Staking
+3994,Solana Miner,Staking Pool
+4000,ArtdeFinance,Yield
+4001,Creo Engine,Gaming
+4008,Panora,DEX Aggregator
+4011,Injective,Chain
+4016,Kana Labs,DEX Aggregator
+4017,Bank AI,Services
+4022,Pyth Network,Oracle
+4028,Stepn,Chain
+4036,Bow Leverage,Leveraged Farming
+4049,Zerion Wallet,Wallets
+4082,Ispolink,Gaming
+4083,NinjaRoll,Prediction Market
+4094,Hyperion Exchange,Derivatives
+4115,NinjaVault,Yield Aggregator
+4135,Iagon,Services
+4146,karpatkey,Services
+4147,0xScans,Services
+4160,BlackrockFund,Reserve Currency
+4169,Metastrike,Gaming
+4192,WOWMAX Exchange,DEX Aggregator
+4200,Pond0x,DEX Aggregator
+4221,BFX (Blast Futures),Derivatives
+4227,BONKbot,Telegram Bot
+4235,Lens Protocol,SoFi
+4243,ALTA Finance,RWA Lending
+4245,LessGas,Services
+4277,OPT Finance,DEX Aggregator
+4278,Fibrous Finance,DEX Aggregator
+4293,Trojan,Telegram Bot
+4304,Geodnet,Services
+4305,MVL Staking,Yield
+4322,Blastex,Farm
+4324,Armada Staking,Farm
+4334,bitsCrunch,Services
+4337,Sharpe Earn,Services
+4348,Altr Lend,Lending
+4351,Crypto Valleys,Gaming
+4355,Akropolis,Services
+4359,Rosy Stake,Farm
+4362,Blastbrrr,Farm
+4369,Munchables,Farm
+4379,POWERCITY Core Protocol,Farm
+4381,Onino Farm,Farm
+4383,BlastName,Services
+4386,HELIX Finance,RWA Lending
+4392,Flast Protocol,Liquid Staking
+4395,Cate Ventures,Farm
+4396,OptionBlitz,Options
+4398,Meeds Finance,Farm
+4412,Hero Blaze,Gaming
+4423,Frax AMO,Services
+4431,DegenFund,Farm
+4436,Iskra Fi,Farm
+4444,Lumin Finance,Lending
+4447,Rage Trade,Derivatives
+4449,Pump,Launchpad
+4450,Oxbull,Launchpad
+4457,Magpie Protocol,Cross Chain
+4464,Nimbora Lending,Lending
+4465,Zero1 Labs,Services
+4466,Neo Tokyo,Services
+4469,Zeepr,Farm
+4475,EtaSwap,DEX Aggregator
+4488,Ethereum,Services
+4490,Dymension,Services
+4495,YOLO Games,Gaming
+4499,Litecoin,Chain
+4505,Fjord V2,Services
+4506,Grizzly Trade V2,Derivatives
+4519,zkLite Exchange,Dexes
+4522,Beam,Chain
+4526,Defiway,Services
+4538,Pod Finance,Farm
+4542,NXD Protocol,Farm
+4547,Bittensor,Chain
+4556,ZetaChain,Chain
+4557,Fjord V1,Services
+4567,TG Casino,Prediction Market
+4570,fantasy.top,SoFi
+4571,friend.tech v2,SoFi
+4591,Fountain Finance,Yield
+4597,Thala veTHL,Liquid Staking
+4607,Cheelee,Farm
+4608,Metars GO,NFT Marketplace
+4609,Omni Network,Chain
+4611,Solana,Chain
+4612,Worldcoin,Chain
+4613,Myria,Chain
+4618,Internet Computer,Chain
+4628,0x Aggregator,DEX Aggregator
+4639,Saga,Chain
+4640,Tensor,Chain
+4641,AltLayer,Services
+4644,Big Time,Gaming
+4649,Oasys,Gaming
+4655,Vooi,Derivatives
+4656,BounceBit,Yield
+4664,Sei,Chain
+4665,Flare,Chain
+4679,Dragon Protocol,Farm
+4681,TNA Protocol,Services
+4691,EISEN Finance,DEX Aggregator
+4693,Basecamp,Launchpad
+4695,bloXroute,MEV
+4698,Sensay,Farm
+4704,uDEX,DEX Aggregator
+4705,Cellula,Gaming
+4710,Universal Swaps,Dexes
+4737,Coinbase Commerce,Payments
+4758,MoveGPT,Launchpad
+4759,Credbull,Farm
+4762,Injex Finance,DEX Aggregator
+4769,Kickspad,Launchpad
+4777,Clusters,Services
+4778,Infinity Hedge Fund,Farm
+4791,Hop Aggregator,DEX Aggregator
+4792,ScorePlay,Gaming
+4813,Moonshot,Launchpad
+4817,Perpie,Telegram Bot
+4824,Hallswap,DEX Aggregator
+4825,FlowX Aggregator,DEX Aggregator
+4837,Step Finance,Services
+4839,Commonwealth,Chain
+4841,Bitoro Network,Derivatives
+4844,zkSync Era,Chain
+4845,Danzo App,Gaming
+4857,Listapie,Farm
+4860,Ape Jupiter,Launchpad
+4865,Landshare,RWA
+4867,LayerZero,Bridge
+4868,7K Aggregator,DEX Aggregator
+4874,re.al protocol,RWA
+4891,Nimbora Yield Aggregator,Yield
+4896,Ducata,Yield
+4909,SolTradingBot,Telegram Bot
+4916,Boson Protocol,Farm
+4919,Memecoin,Farm
+4920,ZNS Connect,Services
+4923,Fast token,Chain
+4925,Echelon Prime,Gaming
+4926,AKKA,DEX Aggregator
+4929,OPEN Ticketing Ecosystem,Farm
+4945,MEVX,Telegram Bot
+4953,LINE Token Rewards,Staking Pool
+4957,Arrow Markets,Options
+4958,Cetus Aggregator,DEX Aggregator
+4959,Metaplex,Launchpad
+4964,Poolz Vesting,Launchpad
+4977,GoPlus Security,Services
+4981,Photon,Telegram Bot
+4984,Finceptor,Launchpad
+4986,BunnyFi,Bridge
+4988,JVault,Farm
+4990,DEX Screener,Services
+4992,Paxe Protocol,Farm
+4997,Arrland,Gaming
+5005,manifold.xyz,Services
+5006,DEXTools,Services
+5007,Helio,Payments
+5008,Circle,Services
+5009,Tether,Services
+5010,The Graph,Services
+5012,Unidex Agg Perp,Derivatives
+5013,Demented Games,Prediction Market
+5019,seiyan fun,Launchpad
+5020,Genesis DAO,Farm
+5022,RayBot,Telegram Bot
+5027,4Cast,Prediction Market
+5028,Chainspot,DEX Aggregator
+5029,Bellum Exchange,Launchpad
+5039,TAOlie,Services
+5041,AlphPad,Launchpad
+5049,Farcaster,Lending
+5054,MUX Deri Agg,Derivatives
+5059,Aevo Options,Options
+5060,Derive Options,Options
+5061,SushiSwap Agg,DEX Aggregator
+5062,DODO Agg,DEX Aggregator
+5063,Tokenlon Agg,DEX Aggregator
+5064,CaviarNine Agg,DEX Aggregator
+5069,GMX V1 AMM,Dexes
+5070,GMX V2 AMM,Dexes
+5071,Drift AMM,Dexes
+5072,Metavault AMM,Dexes
+5073,Demex AMM,Dexes
+5078,Z Protocol Masterchef,Yield
+5083,BeeBase,Ponzi
+5087,Scallop Aggregator,DEX Aggregator
+5088,Orderly AMM,Dexes
+5089,Level AMM,Dexes
+5093,Papparico Finance,Farm
+5098,Orion Aggregator,DEX Aggregator
+5110,Rainbow Swap,DEX Aggregator
+5111,Superchain,Services
+5115,Fulcrom AMM,Dexes
+5116,Morphex V2 AMM,Dexes
+5117,Vertex AMM,Dexes
+5121,KTX spot,Dexes
+5122,Mango Markets V4 AMM,Dexes
+5123,Beamex AMM,Dexes
+5124,Grizzly Trade AMM,Dexes
+5125,Morphex V1 AMM,Dexes
+5126,BMX Classic AMM,Dexes
+5127,Blitz AMM,Dexes
+5138,Wolfswap,DEX Aggregator
+5150,swap.coffee,DEX Aggregator
+5151,Pear Protocol,Derivatives
+5161,TON Diamonds,DEX Aggregator
+5164,Tonstakers Token Staking,Farm
+5165,Sharpe Perp Aggregator,Derivatives
+5170,Club BTCFi,Bridge
+5183,Erinaceus VRF,Oracle
+5184,Rootstock Collective,Governance Incentives
+5188,moonshot.money,Services
+5189,Pocket Universe,Security Extension
+5196,prerich,Dexes
+5201,OKX DEX,DEX Aggregator
+5202,Infinite Trading Protocol,Services
+5212,NTM.ai,SoFi
+5213,Jeton,DEX Aggregator
+5214,Metrom,Farm
+5217,SuperDapp,Farm
+5228,MITTE,NftFi
+5233,Kerberus,Security Extension
+5237,Falcon Bot,Telegram Bot
+5239,Taiko Drips,Farm
+5246,makenow.meme,Launchpad
+5279,Morkie,NFT Marketplace
+5281,Xend Finance,Services
+5293,NeuralAI,Farm
+5310,KYEX,Dexes
+5315,Clober Liquidity Vault,Dexes
+5317,Fluid DEX,Dexes
+5322,MON Protocol,Gaming
+5326,NAVI Aggregator,DEX Aggregator
+5331,ReformDAO,Farm
+5336,Common Wealth,Launchpad
+5340,Ocean Point,Farm
+5355,based AI,Farm
+5356,Moki,DEX Aggregator
+5377,Blazing Bot,Telegram Bot
+5394,Titan Aggregator,DEX Aggregator
+5396,ACET,Farm
+5398,Phantom,Wallets
+5399,Mach,DEX Aggregator
+5400,Ninja Blaze,Prediction Market
+5407,BullX,Telegram Bot
+5408,GMGN,Telegram Bot
+5410,DeBank Cloud,Developer Tools
+5414,LinqAI,Farm
+5416,9mm V2,Dexes
+5417,9mm V3,Dexes
+5446,clanker,Launchpad
+5452,Grix,Options
+5453,Emu,Farm
+5458,Pinto,Algo-Stables
+1110,Market,Lending
+3145,Pinjam Labs,Lending
+4768,Joltify RWA,RWA Lending

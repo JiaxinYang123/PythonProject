@@ -1,0 +1,5 @@
+category,tail_threshold,tail_weeks,non_tail_weeks,tail_median_activity_billion,non_tail_median_activity_billion,tail_to_non_tail_activity_ratio,tail_mean_network_pressure,non_tail_mean_network_pressure,network_pressure_difference,tail_mean_concentration,non_tail_mean_concentration,concentration_difference
+Asset Management,0.270969,29,253,6.723014,4.622802,1.454316,-0.24187,0.023703,-0.265573,0.486233,0.454387,0.031846
+"Infrastructure, Services & Financial Products",0.670998,29,253,0.518686,3.043222,0.17044,-0.401964,-0.007884,-0.39408,0.694285,0.451222,0.243063
+"Lending, Borrowing & Real World Assets",0.470186,29,253,11.333028,6.205272,1.826355,-0.464903,0.158751,-0.623654,0.571794,0.583347,-0.011553
+Trading & Exchanges,0.616368,29,253,19.836625,6.937182,2.859464,-0.545622,0.189399,-0.735022,0.549366,0.573538,-0.024172

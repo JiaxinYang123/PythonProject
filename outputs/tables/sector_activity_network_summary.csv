@@ -1,0 +1,5 @@
+category,valid_observations,median_activity_billion,quantile_90_activity_billion,mean_network_pressure,standard_deviation_network_pressure,mean_connection_concentration,mean_network_degree
+Asset Management,282,4.799363,16.162494,-0.003608,0.285153,0.457662,5.407801
+"Infrastructure, Services & Financial Products",282,2.853361,16.696196,-0.04841,0.263584,0.476218,5.64539
+"Lending, Borrowing & Real World Assets",282,6.511485,15.359372,0.094616,0.381041,0.582159,5.542553
+Trading & Exchanges,282,7.608134,24.320969,0.113812,0.414559,0.571052,5.755319

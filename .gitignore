@@ -1,0 +1,19 @@
+# Python environments and caches
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.idea/
+
+*.zip
+
+data/raw/
+
+outputs/logs/
+
+*.pdf
+
+Thumbs.db
+.DS_Store

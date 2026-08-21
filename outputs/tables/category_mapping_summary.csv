@@ -1,0 +1,13 @@
+﻿raw_category,analysis_category,mapping_method,node_observations
+Primary Market Tokens,Primary Market Tokens,primary token,935335
+Trading & Exchanges,Trading & Exchanges,id_to_info,258330
+Asset Management,Asset Management,id_to_info,173044
+"Infrastructure, Services & Financial Products","Infrastructure, Services & Financial Products",id_to_info,98152
+"Lending, Borrowing & Real World Assets","Lending, Borrowing & Real World Assets",id_to_info,96032
+UNMAPPED,Other / Unknown,not found in official mappings,34203
+Others,Other / Unknown,id_to_info,4595
+Unknown,Other / Unknown,id_to_info,3725
+Privacy & Security,Privacy & Security,id_to_info,2508
+TOKEN_LP,Other / Unknown,residual token group,272
+TOKEN_UNKNOWN,Other / Unknown,residual token group,228
+UNMAPPED,Other / Unknown,missing identifier,65

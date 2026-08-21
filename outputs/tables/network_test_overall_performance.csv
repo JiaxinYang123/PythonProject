@@ -1,0 +1,2 @@
+model,quantile_level,forecasting_weeks,test_observations,mean_pinball_loss,median_pinball_loss,minimum_actual,maximum_actual,minimum_prediction,maximum_prediction
+Network QR,0.9,33,132,0.0782553500623884,0.0654947767752857,-0.8532871737507275,0.8274065057589576,0.0929162852597572,0.7729226570838015

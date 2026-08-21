@@ -1,0 +1,12 @@
+model,parameter,value,validation_observations,validation_mean_pinball_loss,selected
+Historical quantile,m,4,212,0.0668459419323699,False
+Historical quantile,m,8,212,0.04086923171903239,False
+Historical quantile,m,13,212,0.03777833723203751,False
+Historical quantile,m,26,212,0.037895062874498925,False
+Historical quantile,m,52,212,0.035223588038680684,True
+Time-series QR,p,1,212,0.03540959782488485,False
+Time-series QR,p,2,212,0.03472629535466451,False
+Time-series QR,p,4,212,0.03265402928661729,True
+Network QR,p,1,212,0.037094997717038926,False
+Network QR,p,2,212,0.03706789667231995,False
+Network QR,p,4,212,0.0336777159217142,True

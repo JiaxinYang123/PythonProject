@@ -1,0 +1,5 @@
+category,valid_observations,mean,standard_deviation,minimum,median,quantile_90,quantile_95,maximum
+Asset Management,282,-0.012172,0.223737,-0.819423,-0.002304,0.270969,0.36617,0.823957
+"Infrastructure, Services & Financial Products",282,0.092128,0.418416,-0.987321,0.125359,0.670998,0.796469,0.990316
+"Lending, Borrowing & Real World Assets",282,-0.088758,0.381094,-0.89066,-0.118109,0.470186,0.542507,0.795587
+Trading & Exchanges,282,-0.129495,0.517001,-0.989778,-0.185877,0.616368,0.714553,0.962015
