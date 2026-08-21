@@ -156,4 +156,14 @@ A successful full run should reproduce the following core dimensions:
 - Test-period outcomes are not used for model selection or coefficient estimation.
 - Network variables are constructed using all seven analytical sectors.
 - It should be run from 01 to 14 in sequence.
+- ## Raw data download
 
+The full raw DeXposure dataset is provided separately because the file
+is too large to store directly in the GitHub repository.
+
+[Download historical-network_week_2020-03-30.json](https://github.com/JiaxinYang123/PythonProject/releases/download/data-v1.0/historical-network_week_2020-03-30.json)
+
+After downloading, place the file in the following location:
+
+```text
+data/raw/historical-network_week_2020-03-30.json
