@@ -167,3 +167,9 @@ After downloading, place the file in the following location:
 
 ```text
 data/raw/historical-network_week_2020-03-30.json
+
+
+The filename must remain `historical-network_week_2020-03-30.json`.
+
+The raw data originate from the
+[DeXposure project](https://github.com/dthinkr/DeXposure).
